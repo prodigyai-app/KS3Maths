@@ -1,0 +1,409 @@
+{
+  "course": "KS3 Maths",
+  "reviewed": "2026-10-23",
+  "years": [
+    {
+      "year": 7,
+      "units": [
+        {
+          "title": "Sequences",
+          "lessons": [
+            "Describe and continue sequences",
+            "Linear, quadratic and geometric patterns",
+            "Find and use an arithmetic nth term"
+          ]
+        },
+        {
+          "title": "Algebraic thinking",
+          "lessons": [
+            "Function machines and inverse operations",
+            "Algebraic notation and expressions",
+            "Substitution, brackets and powers"
+          ]
+        },
+        {
+          "title": "Equality and equivalence",
+          "lessons": [
+            "Equality, fact families and one-step equations",
+            "Collecting like terms and equivalence",
+            "Two-step and bracket equations"
+          ]
+        },
+        {
+          "title": "Place value and ordering",
+          "lessons": [
+            "Place value, number lines and ordering",
+            "Rounding decimal places and significant figures",
+            "Standard form and calculations"
+          ]
+        },
+        {
+          "title": "Four operations",
+          "lessons": [
+            "Written addition, subtraction and inverse checks",
+            "Multiplying decimals and powers of ten",
+            "Division with decimals and derived facts",
+            "Order of operations and calculator entry"
+          ]
+        },
+        {
+          "title": "Averages and range",
+          "lessons": [
+            "Mean, median, mode and range",
+            "Averages from frequency tables"
+          ]
+        },
+        {
+          "title": "Estimating and rounding",
+          "lessons": [
+            "Rounding decimal places and significant figures",
+            "Estimation, bounds and checking"
+          ]
+        },
+        {
+          "title": "Graphing data",
+          "lessons": [
+            "Bar charts, pictograms, time series and misleading graphs",
+            "Scatter graphs, best fit and correlation",
+            "Coordinates, tables of values and midpoints"
+          ]
+        },
+        {
+          "title": "Fractions, decimals and percentages",
+          "lessons": [
+            "Fractions, decimals and percentages",
+            "Equivalent fractions, ordering and mixed numbers"
+          ]
+        },
+        {
+          "title": "Directed number",
+          "lessons": [
+            "Adding, subtracting and ordering directed numbers",
+            "Multiply and divide signed numbers",
+            "Order of operations and calculator entry",
+            "Powers, roots and index laws"
+          ]
+        },
+        {
+          "title": "Fractions and percentages of amounts",
+          "lessons": [
+            "Fractions of amounts and finding the whole",
+            "Percentages of amounts and multipliers",
+            "Percentage increase, decrease and percentage change",
+            "Reverse percentages and repeated percentage change"
+          ]
+        },
+        {
+          "title": "Perimeter and area",
+          "lessons": [
+            "Metric lengths and perimeter",
+            "Areas of rectangles, triangles, parallelograms and trapezia"
+          ]
+        },
+        {
+          "title": "Speed, distance and time",
+          "lessons": [
+            "Time conversions, calendars and timetables",
+            "Speed, distance and time",
+            "Distance–time graphs and real-life rates"
+          ]
+        },
+        {
+          "title": "Properties of number",
+          "lessons": [
+            "Factors, multiples and prime numbers",
+            "HCF, LCM and prime-factor Venn diagrams",
+            "Powers, roots and index laws"
+          ]
+        },
+        {
+          "title": "Adding and subtracting fractions",
+          "lessons": [
+            "Equivalent fractions, ordering and mixed numbers",
+            "Add and subtract fractions and mixed numbers",
+            "Algebraic fractions and exact arithmetic"
+          ]
+        },
+        {
+          "title": "Angles and polygons",
+          "lessons": [
+            "Drawing and measuring angles and lengths",
+            "Angles on lines, at points and in triangles",
+            "Parallel-line angles, polygons and proof"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 8,
+      "units": [
+        {
+          "title": "Ratio",
+          "lessons": [
+            "Ratio notation, simplifying and fractions",
+            "Share amounts in a ratio, including part and difference problems"
+          ]
+        },
+        {
+          "title": "Proportion and scale",
+          "lessons": [
+            "Direct and inverse proportion",
+            "Scale drawings, similar shapes, recipes and currencies"
+          ]
+        },
+        {
+          "title": "Algebraic manipulation",
+          "lessons": [
+            "Algebraic notation and expressions",
+            "Collecting like terms and equivalence",
+            "Substitution, brackets and powers",
+            "Expand and factorise a single bracket",
+            "Expand double brackets and factorise quadratics"
+          ]
+        },
+        {
+          "title": "Coordinates and graphs",
+          "lessons": [
+            "Coordinates, tables of values and midpoints",
+            "Straight-line graphs, gradient and intercept",
+            "Quadratic, cubic, reciprocal and circle graphs"
+          ]
+        },
+        {
+          "title": "Multiplying and dividing fractions",
+          "lessons": [
+            "Multiply, divide and reciprocals of fractions",
+            "Algebraic fractions and exact arithmetic"
+          ]
+        },
+        {
+          "title": "Symmetry and reflection",
+          "lessons": [
+            "Symmetry and reflections"
+          ]
+        },
+        {
+          "title": "Area, volume and density",
+          "lessons": [
+            "Areas of rectangles, triangles, parallelograms and trapezia",
+            "Prisms, volume, capacity and metric conversion",
+            "Density, mass and volume"
+          ]
+        },
+        {
+          "title": "Equations and inequalities",
+          "lessons": [
+            "Two-step and bracket equations",
+            "Unknowns on both sides and forming equations",
+            "Inequalities and number-line solutions"
+          ]
+        },
+        {
+          "title": "Percentages",
+          "lessons": [
+            "Percentages of amounts and multipliers",
+            "Percentage increase, decrease and percentage change",
+            "Reverse percentages and repeated percentage change"
+          ]
+        },
+        {
+          "title": "Representing data",
+          "lessons": [
+            "Mean, median, mode and range",
+            "Averages from frequency tables",
+            "Scatter graphs, best fit and correlation",
+            "Grouped data, frequency polygons and histograms"
+          ]
+        },
+        {
+          "title": "Parallel lines and polygons",
+          "lessons": [
+            "Angles on lines, at points and in triangles",
+            "Parallel-line angles, polygons and proof"
+          ]
+        },
+        {
+          "title": "Tables and probability",
+          "lessons": [
+            "Probability scales, complements and sample spaces",
+            "Two-way tables, frequency trees and conditional samples",
+            "Systematic listing and the product rule"
+          ]
+        },
+        {
+          "title": "Circles",
+          "lessons": [
+            "Circle vocabulary, circumference and area",
+            "Cylinders, cones and compound circular shapes",
+            "Areas of rectangles, triangles, parallelograms and trapezia"
+          ]
+        },
+        {
+          "title": "Graphs and charts",
+          "lessons": [
+            "Bar charts, pictograms, time series and misleading graphs",
+            "Pie charts and comparing distributions",
+            "Stem-and-leaf diagrams and comparing samples"
+          ]
+        }
+      ]
+    },
+    {
+      "year": 9,
+      "units": [
+        {
+          "title": "Calculations, checking and rounding",
+          "lessons": [
+            "Written addition, subtraction and inverse checks",
+            "Multiplying decimals and powers of ten",
+            "Division with decimals and derived facts",
+            "Adding, subtracting and ordering directed numbers",
+            "Rounding decimal places and significant figures",
+            "Estimation, bounds and checking",
+            "Systematic listing and the product rule"
+          ]
+        },
+        {
+          "title": "Indices, roots and order of operations",
+          "lessons": [
+            "Powers, roots and index laws",
+            "Multiply and divide signed numbers",
+            "Order of operations and calculator entry"
+          ]
+        },
+        {
+          "title": "Factors, multiples and primes",
+          "lessons": [
+            "Factors, multiples and prime numbers",
+            "HCF, LCM and prime-factor Venn diagrams"
+          ]
+        },
+        {
+          "title": "Standard form and surds",
+          "lessons": [
+            "Standard form and calculations",
+            "Surds, exact values and rationalising denominators"
+          ]
+        },
+        {
+          "title": "Algebra: the basics",
+          "lessons": [
+            "Algebraic notation and expressions",
+            "Collecting like terms and equivalence",
+            "Substitution, brackets and powers",
+            "Expand and factorise a single bracket",
+            "Expand double brackets and factorise quadratics",
+            "Algebraic fractions and exact arithmetic"
+          ]
+        },
+        {
+          "title": "Setting up, rearranging and solving equations",
+          "lessons": [
+            "Two-step and bracket equations",
+            "Unknowns on both sides and forming equations",
+            "Rearrange formulae and justify identities"
+          ]
+        },
+        {
+          "title": "Inequalities",
+          "lessons": [
+            "Inequalities and number-line solutions"
+          ]
+        },
+        {
+          "title": "Sequences",
+          "lessons": [
+            "Find and use an arithmetic nth term",
+            "Quadratic nth terms",
+            "Linear, quadratic and geometric patterns"
+          ]
+        },
+        {
+          "title": "Fractions",
+          "lessons": [
+            "Equivalent fractions, ordering and mixed numbers",
+            "Add and subtract fractions and mixed numbers",
+            "Multiply, divide and reciprocals of fractions",
+            "Terminating and recurring decimals"
+          ]
+        },
+        {
+          "title": "Percentages",
+          "lessons": [
+            "Fractions, decimals and percentages",
+            "Percentage increase, decrease and percentage change",
+            "Reverse percentages and repeated percentage change"
+          ]
+        },
+        {
+          "title": "Ratio and proportion",
+          "lessons": [
+            "Ratio notation, simplifying and fractions",
+            "Share amounts in a ratio, including part and difference problems",
+            "Direct and inverse proportion",
+            "Scale drawings, similar shapes, recipes and currencies"
+          ]
+        },
+        {
+          "title": "Polygons, angles and parallel lines",
+          "lessons": [
+            "Angles on lines, at points and in triangles",
+            "Parallel-line angles, polygons and proof"
+          ]
+        },
+        {
+          "title": "Pythagoras and trigonometry",
+          "lessons": [
+            "Pythagoras in two and three dimensions",
+            "Right-triangle trigonometry",
+            "Exact trig values, elevation and depression"
+          ]
+        },
+        {
+          "title": "Averages and range",
+          "lessons": [
+            "Mean, median, mode and range",
+            "Averages from frequency tables",
+            "Stem-and-leaf diagrams and comparing samples"
+          ]
+        },
+        {
+          "title": "Representing and interpreting data",
+          "lessons": [
+            "Bar charts, pictograms, time series and misleading graphs",
+            "Pie charts and comparing distributions",
+            "Grouped data, frequency polygons and histograms"
+          ]
+        },
+        {
+          "title": "Scatter graphs",
+          "lessons": [
+            "Scatter graphs, best fit and correlation"
+          ]
+        },
+        {
+          "title": "Real-life graphs and coordinates",
+          "lessons": [
+            "Coordinates, tables of values and midpoints",
+            "Distance–time graphs and real-life rates",
+            "Velocity–time graphs and area"
+          ]
+        },
+        {
+          "title": "Linear graphs and coordinate geometry",
+          "lessons": [
+            "Straight-line graphs, gradient and intercept",
+            "Parallel and perpendicular lines"
+          ]
+        },
+        {
+          "title": "Quadratic, cubic and other graphs",
+          "lessons": [
+            "Quadratic, cubic, reciprocal and circle graphs"
+          ]
+        }
+      ]
+    }
+  ],
+  "note": "Revision lessons consolidate related teaching periods from the supplied sequence. Advanced mathematics from the Year 9 plan is included as preparation for KS4."
+}
