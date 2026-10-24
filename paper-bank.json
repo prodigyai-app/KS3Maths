@@ -31,7 +31,7 @@
         "parts": [
           {
             "title": "Question 1",
-            "q": "A pattern has 6, 10, 14, 18 tiles. State its term-to-term rule, find the next term and find a position-to-term rule.",
+            "q": "A pattern has 6, 10, 14, 18 tiles. State how it changes each time, find the next term and find a rule using the position n.",
             "m": 3,
             "ms": [
               "Add 4",
@@ -47,7 +47,7 @@
         "parts": [
           {
             "title": "Question 2",
-            "q": "A number machine multiplies an input by 5 and then adds 2. The output is 47. Find the input, showing inverse steps.",
+            "q": "A number machine multiplies an input by 5 and then adds 2. The output is 47. Find the input, showing how you undo the steps.",
             "m": 3,
             "ms": [
               "47−2=45",
@@ -127,12 +127,12 @@
         "parts": [
           {
             "title": "Question 7",
-            "q": "Estimate 39.2×5.8 by rounding both values to 1 significant figure. Explain whether an exact answer of 227.36 is plausible.",
+            "q": "Estimate 39.2×5.8 by rounding both values to 1 significant figure. Explain whether an exact answer of 227.36 is sensible.",
             "m": 3,
             "ms": [
               "40×6",
               "Estimate 240",
-              "227.36 is reasonably close and plausible"
+              "227.36 is reasonably close and sensible"
             ]
           }
         ]
@@ -251,7 +251,7 @@
         "parts": [
           {
             "title": "Question 3",
-            "q": "A bus departs at 23:48 and arrives at 00:27 the next day. Find the elapsed time in minutes and decimal hours.",
+            "q": "A bus departs at 23:48 and arrives at 00:27 the next day. Find the time taken in minutes and decimal hours.",
             "m": 3,
             "ms": [
               "12+27=39 minutes",
@@ -421,7 +421,7 @@
         "parts": [
           {
             "title": "Question 2",
-            "q": "A recipe for 4 people uses 300 g of rice. Find the rice for 10 people, assuming direct proportion.",
+            "q": "A recipe for 4 people uses 300 g of rice. Find the rice for 10 people, using the same amount per person.",
             "m": 3,
             "ms": [
               "300÷4=75 g per person",
@@ -533,7 +533,7 @@
         "parts": [
           {
             "title": "Question 9",
-            "q": "Solve 5x−4<21 and state the largest integer satisfying the inequality.",
+            "q": "Solve 5x−4<21 and state the largest integer that makes the inequality true.",
             "m": 3,
             "ms": [
               "5x<25",
@@ -703,7 +703,7 @@
         "parts": [
           {
             "title": "Question 8",
-            "q": "A scatter graph shows higher revision time associated with higher scores. State the correlation and two limits on a causal conclusion.",
+            "q": "A scatter graph shows more revision time going with higher scores. State the correlation and two reasons this does not prove that extra revision caused the higher scores.",
             "m": 3,
             "ms": [
               "Positive correlation",
@@ -1069,7 +1069,7 @@
         "parts": [
           {
             "title": "Question 7",
-            "q": "Explain interpolation and extrapolation on a scatter graph and state which normally has stronger evidential support.",
+            "q": "Explain interpolation and extrapolation on a scatter graph and state which normally has more support from the measured data.",
             "m": 3,
             "ms": [
               "Interpolation predicts within observed range",

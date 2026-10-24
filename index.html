@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 <meta charset="utf-8">
+<link rel="stylesheet" href="lesson-decks.css?v=20261024-maths-slides">
 <link rel="icon" type="image/svg+xml" href="favicon.svg?v=20261023-ks3">
 <link rel="stylesheet" href="maths-keyboard.css?v=20261022-keyboard">
 <script src="math-notation.js?v=20261022-keyboard"></script>
@@ -553,7 +554,7 @@ section.lab.pexam:not(.help-on) .xp:has(.xms:not([hidden])) :is(.wst,.wsum){visi
       <svg width="46" height="46" viewBox="0 0 24 24" aria-hidden="true" data-subject-icon="graph"><rect x=".5" y=".5" width="23" height="23" rx="5" fill="var(--accent-soft)" stroke="var(--accent)" stroke-width=".5"/><g transform="translate(3 3) scale(.75)" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 2v19h19M3 7h2M3 12h2M3 17h2M8 19v2M13 19v2M18 19v2"/><path d="M5 17C8 4 12 4 15 13s4 4 6-6"/><circle cx="10" cy="7" r="1.4" fill="currentColor" fill-opacity=".25"/></g></svg>
       <div>
         <h1>KS3 Maths</h1>
-        <p>Years 7–9 · Learn the ideas, explore models and practise independently. Choose your year and topic, or search for the lesson you need.</p>
+        <p>Years 7–9 · Short lesson slides. Clear diagrams. Worked steps. Maths word cards and practice.</p>
       </div>
     </div>
   </header>
@@ -1176,7 +1177,7 @@ const {$,$$,store}=LAB, {num}=LEARN;
 const KEY="learn-ks3-maths-motion-exam", saved=store.get(KEY)||{};
 const save=()=>store.set(KEY,saved);
 const CARDS={}, PARTS={};
-const kind=`<span class="kind k-exam">Exam</span>`;
+const kind=`<span class="kind k-exam">Practice</span>`;
 const L="abcdefghij";
 
 /* simple graph for question figures */
@@ -1414,7 +1415,7 @@ function mark(p,lines){
   return {award:ms.map(()=>false),by:ms.map(()=>-1),hitsBy:lines.map(()=>[])}; }
 
 /* ---- the UI ---- */
-const rowHTML=(id,i,v)=>`<div class="wrow"><span class="wn">${i+1}</span><textarea class="wl" data-maths data-wl="${id}" rows="${EXAM.PARTS[id]?.m>=8?12:5}" placeholder="Write your answer, including reasoning and sporting examples where relevant" spellcheck="true" aria-label="Your answer, paragraph ${i+1}">${esc(v)}</textarea><span class="wst" aria-live="polite"></span></div>`;
+const rowHTML=(id,i,v)=>`<div class="wrow"><span class="wn">${i+1}</span><textarea class="wl" data-maths data-wl="${id}" rows="${EXAM.PARTS[id]?.m>=8?12:5}" placeholder="Show each step of your working. Use the Maths keyboard if it helps." spellcheck="true" aria-label="Your answer, paragraph ${i+1}">${esc(v)}</textarea><span class="wst" aria-live="polite"></span></div>`;
 window.EXAM_WORK=(p,s)=>{ let lines=s.lines||(s.w?String(s.w).split("\n"):[""]); if(!lines.length) lines=[""];
   return `<div class="wsteps" data-ws="${p.id}"><div class="wrows">${lines.map((v,i)=>rowHTML(p.id,i,v)).join("")}</div><div class="wfoot"><button type="button" class="btn" data-wadd="${p.id}">+ Add a paragraph</button><span class="wsum" id="${p.id}-wsum"></span></div></div>`; };
 function update(id){ const box=document.querySelector(`[data-ws="${id}"]`), p=EXAM.PARTS[id]; if(!box||!p) return;
@@ -1578,11 +1579,13 @@ new MutationObserver(ms=>ms.forEach(m=>{ if(m.target.classList&&m.target.classLi
 
 
 
-<script src="course-data.js"></script>
-<script src="models.js"></script>
+<script src="course-data.js?v=20261024-maths-slides"></script>
+<script src="models.js?v=20261024-maths-slides"></script>
+<script src="maths-diagrams.js?v=20261024-maths-slides"></script>
+<script src="lesson-decks.js?v=20261024-maths-slides"></script>
 <script src="graph-core.js"></script>
-<script src="graph-plotter.js"></script>
-<script src="course.js"></script>
+<script src="graph-plotter.js?v=20261024-maths-slides"></script>
+<script src="course.js?v=20261024-maths-slides"></script>
 
 <script src="topic-search.js"></script>
 
