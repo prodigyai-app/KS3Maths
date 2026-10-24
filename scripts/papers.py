@@ -1,4 +1,4 @@
-"""Six original year assessments. Each item has three independent mark points."""
+"""Original department papers plus Version 3 route reviews; three mark points per item."""
 P={}
 def paper(year,letter,rows):
  P[(year,letter)]=[dict(title=f'Question {i+1}',q=q,m=3,ms=scheme.split('~')) for i,(q,scheme) in enumerate(rows)]

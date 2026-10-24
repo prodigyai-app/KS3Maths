@@ -6,7 +6,7 @@ const list=a=>'<ul class="ks-points">'+a.map(s=>'<li>'+esc(s)+'</li>').join('')+
 function slides(l){const all=[];
  function addPoints(title,points){const size=Math.ceil(points.length/Math.ceil(points.length/3));for(let i=0;i<points.length;i+=size)all.push({title:title+(i?' · continued':''),html:list(points.slice(i,i+size))});}
  addPoints('The big idea',l.note_points?.[0]||bullets(l.notes[0]));
- const diagram=KS3MathsDiagrams.html(l.key);if(diagram)all.push({title:'Picture the maths',html:diagram});
+ for(const diagram of KS3MathsDiagrams.items(l.key))all.push({title:diagram.title,html:diagram.html});
  addPoints('How to do it',l.note_points?.[1]||bullets(l.notes[1]));
  const steps=l.worked_steps||bullets(l.worked);for(let i=0;i<steps.length;i+=3)all.push({title:'Worked example'+(i?' · continued':''),html:'<ol class="ks-worked" start="'+(i+1)+'">'+steps.slice(i,i+3).map(step=>'<li>'+esc(step)+'</li>').join('')+'</ol>'});
  if(l.model)all.push({title:'Try the model',html:'<p class="ks-prompt">Change one control. Describe what changes in the maths.</p>'+KSModels.html(l.model)});

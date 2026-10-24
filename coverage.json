@@ -1,143 +1,513 @@
 {
   "course": "KS3 Maths",
   "reviewed": "2026-10-24",
+  "alignment": {
+    "scheme": "White Rose Maths secondary Version 3",
+    "checked": "2026-10-24",
+    "guidance": "https://assets.whiteroseeducation.com/Resources/new-secondary-maths/supporting-materials/guidance/WRE%20Maths%20v3%20-%20Curriculum%20documentation.pdf",
+    "overview": "https://assets.whiteroseeducation.com/resource-pages/secondary/Secondary%20maths%20overviews.pdf",
+    "document_year": 2026,
+    "main_blocks": 52,
+    "optional_blocks": 2,
+    "extra_blocks": 8,
+    "scope": "Block sequence and topic coverage, with original revision lessons and representation types. This is an independent revision companion, not a reproduction of every White Rose small-step resource or an endorsed White Rose product."
+  },
   "learning": {
     "format": "Short swipeable slides, labelled diagrams, worked steps, word cards and practice",
-    "lessons": 142,
-    "concepts": 74,
+    "lessons": 245,
+    "concepts": 144,
     "questions_per_lesson": 4,
-    "unit_checks": 49,
-    "definition_cards": 290
+    "unit_checks": 60,
+    "definition_cards": 497
   },
   "years": [
     {
       "year": 7,
       "units": [
         {
+          "id": "y7-unit-01",
           "title": "Sequences",
+          "term": "Autumn",
+          "block": 1,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 74,
           "lessons": [
-            "Spotting and continuing sequences",
-            "Different types of sequence",
-            "A rule for any term"
+            {
+              "id": "y7-unit-01-sequence",
+              "title": "Spotting and continuing sequences",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-01-nonlinear",
+              "title": "Different types of sequence",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-01-nth",
+              "title": "A rule for any term",
+              "extra_challenge": true
+            }
           ]
         },
         {
-          "title": "Algebraic thinking",
+          "id": "y7-unit-02",
+          "title": "Algebraic notation and substitution",
+          "term": "Autumn",
+          "block": 2,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 75,
           "lessons": [
-            "Function machines and undoing steps",
-            "Reading and writing algebra",
-            "Putting numbers into expressions"
+            {
+              "id": "y7-unit-02-function",
+              "title": "Function machines and undoing steps",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-02-notation",
+              "title": "Reading and writing algebra",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-02-substitute",
+              "title": "Putting numbers into expressions",
+              "extra_challenge": false
+            }
           ]
         },
         {
-          "title": "Equality and equivalence",
+          "id": "y7-unit-03",
+          "title": "Expressions and equations",
+          "term": "Autumn",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 76,
           "lessons": [
-            "Keeping equations balanced",
-            "Collecting like terms",
-            "Solving two-step equations"
+            {
+              "id": "y7-unit-03-balance",
+              "title": "Keeping equations balanced",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-03-like",
+              "title": "Collecting like terms",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-03-equation",
+              "title": "Solving two-step equations",
+              "extra_challenge": false
+            }
           ]
         },
         {
-          "title": "Place value and ordering",
+          "id": "y7-unit-04",
+          "title": "Place value, ordering and rounding",
+          "term": "Autumn",
+          "block": 4,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 77,
           "lessons": [
-            "Place value and ordering decimals",
-            "Rounding numbers",
-            "Standard form"
+            {
+              "id": "y7-unit-04-place",
+              "title": "Place value and ordering decimals",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-04-round-dp",
+              "title": "Rounding whole numbers and decimals",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-04-round",
+              "title": "Rounding numbers",
+              "extra_challenge": true
+            },
+            {
+              "id": "y7-unit-04-standard",
+              "title": "Standard form",
+              "extra_challenge": true
+            }
           ]
         },
         {
+          "id": "y7-unit-05",
           "title": "Four operations",
+          "term": "Autumn",
+          "block": 5,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 78,
           "lessons": [
-            "Adding and subtracting decimals",
-            "Multiplying decimals",
-            "Dividing by decimals",
-            "The order of operations"
+            {
+              "id": "y7-unit-05-add",
+              "title": "Adding and subtracting decimals",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-05-multiply",
+              "title": "Multiplying decimals",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-05-divide",
+              "title": "Dividing by decimals",
+              "extra_challenge": true
+            },
+            {
+              "id": "y7-unit-05-order",
+              "title": "The order of operations",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y7-unit-06",
           "title": "Averages and range",
+          "term": "Autumn",
+          "block": 6,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 79,
           "lessons": [
-            "Mean, median, mode and range",
-            "Averages from frequency tables"
+            {
+              "id": "y7-unit-06-mean",
+              "title": "Mean, median, mode and range",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-06-missing-average",
+              "title": "Finding a missing value from a mean",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-06-frequency",
+              "title": "Averages from frequency tables",
+              "extra_challenge": true
+            }
           ]
         },
         {
-          "title": "Estimating and rounding",
+          "id": "y7-unit-07",
+          "title": "Rounding and estimation",
+          "term": "Autumn",
+          "block": 7,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 80,
           "lessons": [
-            "Rounding numbers",
-            "Estimating and rounding intervals"
+            {
+              "id": "y7-unit-07-round",
+              "title": "Rounding numbers",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-07-estimate",
+              "title": "Estimating and rounding intervals",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y7-unit-08",
           "title": "Graphing data",
+          "term": "Spring",
+          "block": 1,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 81,
           "lessons": [
-            "Reading and drawing charts",
-            "Scatter graphs and patterns",
-            "Coordinates and midpoints"
+            {
+              "id": "y7-unit-08-charts",
+              "title": "Reading and drawing charts",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-08-bar-charts",
+              "title": "Bar charts and pictograms",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-08-first-quadrant",
+              "title": "Plotting positive coordinates",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-08-scatter",
+              "title": "Scatter graphs and patterns",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-08-time-series",
+              "title": "Graphs showing change over time",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-08-graph-relationships",
+              "title": "Straight and curved relationships",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-08-coordinates",
+              "title": "Coordinates and midpoints",
+              "extra_challenge": true
+            }
           ]
         },
         {
+          "id": "y7-unit-09",
           "title": "Fractions, decimals and percentages",
+          "term": "Spring",
+          "block": 2,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 82,
           "lessons": [
-            "Fractions, decimals and percentages",
-            "Equivalent fractions and mixed numbers"
+            {
+              "id": "y7-unit-09-fdp",
+              "title": "Fractions, decimals and percentages",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-09-equivalent",
+              "title": "Equivalent fractions and mixed numbers",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-09-fraction-order",
+              "title": "Fractions on number lines",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y7-unit-10",
           "title": "Directed number",
+          "term": "Spring",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 83,
           "lessons": [
-            "Adding and subtracting negative numbers",
-            "Multiplying and dividing negatives",
-            "The order of operations",
-            "Powers and roots"
+            {
+              "id": "y7-unit-10-directed",
+              "title": "Adding and subtracting negative numbers",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-10-zero-pairs",
+              "title": "Positive and negative counters",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-10-negative-products",
+              "title": "Multiplying and dividing negatives",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-10-order",
+              "title": "The order of operations",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-10-indices",
+              "title": "Powers and roots",
+              "extra_challenge": true
+            }
           ]
         },
         {
+          "id": "y7-unit-11",
           "title": "Fractions and percentages of amounts",
+          "term": "Spring",
+          "block": 4,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 84,
           "lessons": [
-            "Fractions of an amount",
-            "Percentages of an amount",
-            "Percentage increases and decreases",
-            "Finding the original percentage amount"
+            {
+              "id": "y7-unit-11-fraction-amount",
+              "title": "Fractions of an amount",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-11-fraction-whole",
+              "title": "Finding the whole from a fraction",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-11-percent-amount",
+              "title": "Percentages of an amount",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-11-change",
+              "title": "Percentage increases and decreases",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-11-reverse",
+              "title": "Finding the original percentage amount",
+              "extra_challenge": true
+            }
           ]
         },
         {
+          "id": "y7-unit-12",
           "title": "Perimeter and area",
+          "term": "Spring",
+          "block": 5,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 85,
           "lessons": [
-            "Perimeter and length units",
-            "Finding areas"
+            {
+              "id": "y7-unit-12-metric",
+              "title": "Changing metric units",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-12-perimeter",
+              "title": "Perimeter and length units",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-12-area",
+              "title": "Finding areas",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-12-compound-area",
+              "title": "Area of compound shapes",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y7-unit-13",
           "title": "Speed, distance and time",
+          "term": "Summer",
+          "block": 1,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 86,
           "lessons": [
-            "Time conversions and timetables",
-            "Speed, distance and time",
-            "Distance–time graphs"
+            {
+              "id": "y7-unit-13-time",
+              "title": "Time conversions and timetables",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-13-timetables",
+              "title": "Time, calendars and timetables",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-13-speed",
+              "title": "Speed, distance and time",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-13-distancegraph",
+              "title": "Distance–time graphs",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y7-unit-14",
           "title": "Properties of number",
+          "term": "Summer",
+          "block": 2,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 87,
           "lessons": [
-            "Factors, multiples and primes",
-            "Highest common factor and lowest common multiple",
-            "Powers and roots"
+            {
+              "id": "y7-unit-14-factors",
+              "title": "Factors, multiples and primes",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-14-powers-roots",
+              "title": "Squares, cubes and roots",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-14-hcf",
+              "title": "Highest common factor and lowest common multiple",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-14-indices",
+              "title": "Powers and roots",
+              "extra_challenge": true
+            }
           ]
         },
         {
-          "title": "Adding and subtracting fractions",
+          "id": "y7-unit-15",
+          "title": "Add and subtract fractions",
+          "term": "Summer",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 88,
           "lessons": [
-            "Equivalent fractions and mixed numbers",
-            "Adding and subtracting fractions",
-            "Fractions with letters"
+            {
+              "id": "y7-unit-15-equivalent",
+              "title": "Equivalent fractions and mixed numbers",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-15-mixed",
+              "title": "Mixed numbers and improper fractions",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-15-fraction-add",
+              "title": "Adding and subtracting fractions",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-15-fraction-algebra",
+              "title": "Fractions with letters",
+              "extra_challenge": true
+            }
           ]
         },
         {
+          "id": "y7-unit-16",
           "title": "Angles and polygons",
+          "term": "Summer",
+          "block": 4,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 89,
           "lessons": [
-            "Measuring lengths and angles",
-            "Angle facts",
-            "Parallel-line angles and polygons"
+            {
+              "id": "y7-unit-16-measure",
+              "title": "Measuring lengths and angles",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-16-shapes",
+              "title": "Naming shapes and solids",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-16-angles",
+              "title": "Angle facts",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-16-parallel",
+              "title": "Parallel-line angles and polygons",
+              "extra_challenge": true
+            }
           ]
         }
       ]
@@ -146,112 +516,525 @@
       "year": 8,
       "units": [
         {
+          "id": "y8-unit-01",
           "title": "Ratio",
+          "term": "Autumn",
+          "block": 1,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 90,
           "lessons": [
-            "Ratios and fractions of a total",
-            "Sharing in a ratio"
+            {
+              "id": "y8-unit-01-ratio",
+              "title": "Ratios and fractions of a total",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-01-share",
+              "title": "Sharing in a ratio",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-01-ratio-missing",
+              "title": "Ratio problems with a part or difference",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y8-unit-02",
           "title": "Proportion and scale",
+          "term": "Autumn",
+          "block": 2,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 91,
           "lessons": [
-            "Direct and inverse proportion",
-            "Scale drawings and matching shapes"
+            {
+              "id": "y8-unit-02-direct",
+              "title": "Direct proportion",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-02-conversion-graphs",
+              "title": "Conversion graphs and currencies",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-02-metric",
+              "title": "Changing metric units",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-02-similarity",
+              "title": "Similar shapes and matching lengths",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-02-scale",
+              "title": "Scale drawings and matching shapes",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-02-proportion",
+              "title": "Direct and inverse proportion",
+              "extra_challenge": true
+            }
           ]
         },
         {
+          "id": "y8-unit-03",
           "title": "Algebraic manipulation",
+          "term": "Autumn",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 92,
           "lessons": [
-            "Reading and writing algebra",
-            "Collecting like terms",
-            "Putting numbers into expressions",
-            "Expanding and factorising brackets",
-            "Multiplying two brackets"
+            {
+              "id": "y8-unit-03-notation",
+              "title": "Reading and writing algebra",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-03-like",
+              "title": "Collecting like terms",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-03-substitute",
+              "title": "Putting numbers into expressions",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-03-expand",
+              "title": "Expanding and factorising brackets",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-03-factorise",
+              "title": "Factorising a single bracket",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-03-double",
+              "title": "Multiplying two brackets",
+              "extra_challenge": true
+            }
           ]
         },
         {
+          "id": "y8-unit-04",
           "title": "Coordinates and graphs",
+          "term": "Autumn",
+          "block": 4,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 93,
           "lessons": [
-            "Coordinates and midpoints",
-            "Straight-line graphs",
-            "Curved graphs"
+            {
+              "id": "y8-unit-04-coordinates",
+              "title": "Coordinates and midpoints",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-04-linear",
+              "title": "Straight-line graphs",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-04-curves",
+              "title": "Curved graphs",
+              "extra_challenge": true
+            }
           ]
         },
         {
-          "title": "Multiplying and dividing fractions",
+          "id": "y8-unit-05",
+          "title": "Multiply and divide fractions",
+          "term": "Autumn",
+          "block": 5,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 94,
           "lessons": [
-            "Multiplying and dividing fractions",
-            "Fractions with letters"
+            {
+              "id": "y8-unit-05-fraction-product",
+              "title": "Multiplying and dividing fractions",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-05-fraction-model",
+              "title": "Picturing multiplication and division of fractions",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-05-fraction-algebra",
+              "title": "Fractions with letters",
+              "extra_challenge": true
+            }
           ]
         },
         {
+          "id": "y8-unit-06",
           "title": "Symmetry and reflection",
+          "term": "Autumn",
+          "block": 6,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 95,
           "lessons": [
-            "Reflections and symmetry"
+            {
+              "id": "y8-unit-06-symmetry",
+              "title": "Reflections and symmetry",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-06-reflection",
+              "title": "Reflecting a whole shape",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y8-unit-07",
           "title": "Area, volume and density",
+          "term": "Spring",
+          "block": 1,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 96,
           "lessons": [
-            "Finding areas",
-            "Volume, capacity and prisms",
-            "Density, mass and volume"
+            {
+              "id": "y8-unit-07-shapes",
+              "title": "Naming shapes and solids",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-07-area",
+              "title": "Finding areas",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-07-volume",
+              "title": "Volume, capacity and prisms",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-07-metric",
+              "title": "Changing metric units",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-07-density",
+              "title": "Density, mass and volume",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y8-unit-08",
           "title": "Equations and inequalities",
+          "term": "Spring",
+          "block": 2,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 97,
           "lessons": [
-            "Solving two-step equations",
-            "Equations with letters on both sides",
-            "Inequalities and number lines"
+            {
+              "id": "y8-unit-08-equation",
+              "title": "Solving two-step equations",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-08-fractional-equations",
+              "title": "Equations with brackets and fractions",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-08-both-sides",
+              "title": "Equations with letters on both sides",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-08-inequality",
+              "title": "Inequalities and number lines",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y8-unit-09",
           "title": "Percentages",
+          "term": "Spring",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 98,
           "lessons": [
-            "Percentages of an amount",
-            "Percentage increases and decreases",
-            "Finding the original percentage amount"
+            {
+              "id": "y8-unit-09-percent-amount",
+              "title": "Percentages of an amount",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-09-change",
+              "title": "Percentage increases and decreases",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-09-reverse",
+              "title": "Finding the original percentage amount",
+              "extra_challenge": false
+            }
           ]
         },
         {
-          "title": "Representing data",
+          "id": "y8-wr-indices",
+          "title": "Indices",
+          "term": "Spring",
+          "block": 4,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 99,
           "lessons": [
-            "Mean, median, mode and range",
-            "Averages from frequency tables",
-            "Scatter graphs and patterns",
-            "Grouped data and histograms"
+            {
+              "id": "y8-wr-indices-indices-laws",
+              "title": "Index laws with the same base",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-wr-indices-indices",
+              "title": "Powers and roots",
+              "extra_challenge": true
+            }
           ]
         },
         {
-          "title": "Parallel lines and polygons",
+          "id": "y8-wr-standard",
+          "title": "Standard form",
+          "term": "Spring",
+          "block": 5,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 100,
           "lessons": [
-            "Angle facts",
-            "Parallel-line angles and polygons"
+            {
+              "id": "y8-wr-standard-powers-ten",
+              "title": "Positive and negative powers of ten",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-wr-standard-standard-read",
+              "title": "Reading and writing standard form",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y8-unit-10",
+          "title": "Interpret and represent data",
+          "term": "Spring",
+          "block": 6,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 101,
+          "lessons": [
+            {
+              "id": "y8-unit-10-data-types",
+              "title": "Types of data and sensible samples",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-10-mean",
+              "title": "Mean, median, mode and range",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-10-frequency",
+              "title": "Averages from frequency tables",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-10-grouped",
+              "title": "Grouped data and estimates",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-10-compare-data",
+              "title": "Comparing data and choosing an average",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-10-scatter",
+              "title": "Scatter graphs and patterns",
+              "extra_challenge": true
+            },
+            {
+              "id": "y8-unit-10-histogram",
+              "title": "Grouped data and histograms",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y8-unit-11",
+          "title": "Angles in parallel lines and polygons",
+          "term": "Summer",
+          "block": 1,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 102,
+          "lessons": [
+            {
+              "id": "y8-unit-11-angles",
+              "title": "Angle facts",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-11-parallel",
+              "title": "Parallel-line angles and polygons",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-11-quadrilaterals",
+              "title": "Quadrilaterals and geometric reasons",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y8-unit-12",
           "title": "Tables and probability",
+          "term": "Summer",
+          "block": 2,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 103,
           "lessons": [
-            "Probability and possible outcomes",
-            "Two-way tables and probability",
-            "Listing and counting choices"
+            {
+              "id": "y8-unit-12-probability",
+              "title": "Probability and possible outcomes",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-12-experiment",
+              "title": "Probability experiments",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-12-sample-space",
+              "title": "Sample spaces",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-12-tables",
+              "title": "Two-way tables and probability",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-12-frequency-tree",
+              "title": "Frequency trees",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-12-counting",
+              "title": "Listing and counting choices",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y8-unit-13",
           "title": "Circles",
+          "term": "Summer",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 104,
           "lessons": [
-            "Parts and measures of a circle",
-            "Cylinders and cones",
-            "Finding areas"
+            {
+              "id": "y8-unit-13-circle",
+              "title": "Parts and measures of a circle",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-13-circle-parts",
+              "title": "Parts of circles and curved boundaries",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-13-cylinder",
+              "title": "Cylinders and cones",
+              "extra_challenge": true
+            },
+            {
+              "id": "y8-unit-13-area",
+              "title": "Finding areas",
+              "extra_challenge": true
+            }
           ]
         },
         {
+          "id": "y8-unit-14",
           "title": "Graphs and charts",
+          "term": "Summer",
+          "block": 4,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 105,
           "lessons": [
-            "Reading and drawing charts",
-            "Pie charts",
-            "Stem-and-leaf diagrams"
+            {
+              "id": "y8-unit-14-charts",
+              "title": "Reading and drawing charts",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-14-bar-charts",
+              "title": "Bar charts and pictograms",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-14-pie",
+              "title": "Pie charts",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-14-time-series",
+              "title": "Graphs showing change over time",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-14-stem",
+              "title": "Stem-and-leaf diagrams",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y8-wr-sequences",
+          "title": "Sequences",
+          "term": "Summer",
+          "block": 5,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 106,
+          "lessons": [
+            {
+              "id": "y8-wr-sequences-sequence",
+              "title": "Spotting and continuing sequences",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-wr-sequences-nth",
+              "title": "A rule for any term",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-wr-sequences-nonlinear",
+              "title": "Different types of sequence",
+              "extra_challenge": true
+            }
           ]
         }
       ]
@@ -260,158 +1043,1077 @@
       "year": 9,
       "units": [
         {
-          "title": "Calculations, checking and rounding",
+          "id": "y9-unit-03",
+          "title": "Properties of number",
+          "term": "Autumn",
+          "block": 1,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 107,
           "lessons": [
-            "Adding and subtracting decimals",
-            "Multiplying decimals",
-            "Dividing by decimals",
-            "Adding and subtracting negative numbers",
-            "Rounding numbers",
-            "Estimating and rounding intervals",
-            "Listing and counting choices"
+            {
+              "id": "y9-unit-03-factors",
+              "title": "Factors, multiples and primes",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-03-hcf",
+              "title": "Highest common factor and lowest common multiple",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-03-number-sets",
+              "title": "Integers, rational and irrational numbers",
+              "extra_challenge": false
+            }
           ]
         },
         {
-          "title": "Indices, roots and order of operations",
-          "lessons": [
-            "Powers and roots",
-            "Multiplying and dividing negatives",
-            "The order of operations"
-          ]
-        },
-        {
-          "title": "Factors, multiples and primes",
-          "lessons": [
-            "Factors, multiples and primes",
-            "Highest common factor and lowest common multiple"
-          ]
-        },
-        {
-          "title": "Standard form and surds",
-          "lessons": [
-            "Standard form",
-            "Exact answers with square roots"
-          ]
-        },
-        {
-          "title": "Algebra: the basics",
-          "lessons": [
-            "Reading and writing algebra",
-            "Collecting like terms",
-            "Putting numbers into expressions",
-            "Expanding and factorising brackets",
-            "Multiplying two brackets",
-            "Fractions with letters"
-          ]
-        },
-        {
-          "title": "Setting up, rearranging and solving equations",
-          "lessons": [
-            "Solving two-step equations",
-            "Equations with letters on both sides",
-            "Rearranging formulae"
-          ]
-        },
-        {
-          "title": "Inequalities",
-          "lessons": [
-            "Inequalities and number lines"
-          ]
-        },
-        {
-          "title": "Sequences",
-          "lessons": [
-            "A rule for any term",
-            "Finding a quadratic sequence rule",
-            "Different types of sequence"
-          ]
-        },
-        {
-          "title": "Fractions",
-          "lessons": [
-            "Equivalent fractions and mixed numbers",
-            "Adding and subtracting fractions",
-            "Multiplying and dividing fractions",
-            "Recurring decimals and fractions"
-          ]
-        },
-        {
+          "id": "y9-unit-10",
           "title": "Percentages",
+          "term": "Autumn",
+          "block": 2,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 108,
           "lessons": [
-            "Fractions, decimals and percentages",
-            "Percentage increases and decreases",
-            "Finding the original percentage amount"
+            {
+              "id": "y9-unit-10-fdp",
+              "title": "Fractions, decimals and percentages",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-10-change",
+              "title": "Percentage increases and decreases",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-10-reverse",
+              "title": "Finding the original percentage amount",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-10-repeated-change",
+              "title": "Repeated percentage changes",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-10-interest",
+              "title": "Simple and compound interest",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y9-wr-solids",
+          "title": "Area and volume",
+          "term": "Autumn",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 109,
+          "lessons": [
+            {
+              "id": "y9-wr-solids-nets-surface",
+              "title": "Nets and surface area",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-solids-area",
+              "title": "Finding areas",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-solids-circle",
+              "title": "Parts and measures of a circle",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-solids-volume",
+              "title": "Volume, capacity and prisms",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-solids-cylinder",
+              "title": "Cylinders and cones",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-solids-solid-volume",
+              "title": "Volumes of cones, pyramids and spheres",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-solids-metric",
+              "title": "Changing metric units",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-06",
+          "title": "Equations, inequalities and formulae",
+          "term": "Autumn",
+          "block": 4,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 110,
+          "lessons": [
+            {
+              "id": "y9-unit-06-equation",
+              "title": "Solving two-step equations",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-06-both-sides",
+              "title": "Equations with letters on both sides",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-06-inequality",
+              "title": "Inequalities and number lines",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-06-fractional-equations",
+              "title": "Equations with brackets and fractions",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-06-substitute",
+              "title": "Putting numbers into expressions",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-06-rearrange",
+              "title": "Rearranging formulae",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-09",
+          "title": "Fractions",
+          "term": "Autumn",
+          "block": 5,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 111,
+          "lessons": [
+            {
+              "id": "y9-unit-09-equivalent",
+              "title": "Equivalent fractions and mixed numbers",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-09-fraction-add",
+              "title": "Adding and subtracting fractions",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-09-fraction-product",
+              "title": "Multiplying and dividing fractions",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-09-fraction-amount",
+              "title": "Fractions of an amount",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-09-recurring",
+              "title": "Recurring decimals and fractions",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-17",
+          "title": "Rates",
+          "term": "Autumn",
+          "block": 6,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 112,
+          "lessons": [
+            {
+              "id": "y9-unit-17-speed",
+              "title": "Speed, distance and time",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-17-distancegraph",
+              "title": "Distance–time graphs",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-17-flow-rates",
+              "title": "Flow rates and filling graphs",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-17-compound-units",
+              "title": "Converting compound units",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-17-coordinates",
+              "title": "Coordinates and midpoints",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-17-velocitygraph",
+              "title": "Velocity–time graphs",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-04",
+          "title": "Standard form",
+          "term": "Autumn",
+          "block": 7,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 113,
+          "lessons": [
+            {
+              "id": "y9-unit-04-powers-ten",
+              "title": "Positive and negative powers of ten",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-04-standard-read",
+              "title": "Reading and writing standard form",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-04-standard",
+              "title": "Standard form",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-04-standard-calc",
+              "title": "Calculating in standard form",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-04-surds",
+              "title": "Exact answers with square roots",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-wr-money",
+          "title": "Maths and money",
+          "term": "Spring",
+          "block": 1,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 114,
+          "lessons": [
+            {
+              "id": "y9-wr-money-money-bank",
+              "title": "Bank balances and ways to pay",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-money-money-pay",
+              "title": "Pay, deductions and VAT",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-money-money-budget",
+              "title": "Budgets and running costs",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-money-money-save",
+              "title": "Saving, investing and comparing value",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-money-money-borrow",
+              "title": "Borrowing and total repayment",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-money-money-overseas",
+              "title": "Spending overseas",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-money-money-insurance",
+              "title": "Insurance costs and cover",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-18",
+          "title": "Straight line graphs",
+          "term": "Spring",
+          "block": 2,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 115,
+          "lessons": [
+            {
+              "id": "y9-unit-18-linear",
+              "title": "Straight-line graphs",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-18-line-equation",
+              "title": "Finding a straight-line equation",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-18-graph-inequalities",
+              "title": "Shading a linear inequality",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-18-perpendicular",
+              "title": "Parallel and perpendicular graph lines",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-11",
           "title": "Ratio and proportion",
+          "term": "Spring",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 116,
           "lessons": [
-            "Ratios and fractions of a total",
-            "Sharing in a ratio",
-            "Direct and inverse proportion",
-            "Scale drawings and matching shapes"
+            {
+              "id": "y9-unit-11-ratio",
+              "title": "Ratios and fractions of a total",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-11-share",
+              "title": "Sharing in a ratio",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-11-ratio-missing",
+              "title": "Ratio problems with a part or difference",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-11-direct",
+              "title": "Direct proportion",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-11-conversion-graphs",
+              "title": "Conversion graphs and currencies",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-11-proportion",
+              "title": "Direct and inverse proportion",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-11-scale",
+              "title": "Scale drawings and matching shapes",
+              "extra_challenge": false
+            }
           ]
         },
         {
+          "id": "y9-wr-constructions",
+          "title": "Constructions and congruence",
+          "term": "Spring",
+          "block": 4,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 117,
+          "lessons": [
+            {
+              "id": "y9-wr-constructions-measure",
+              "title": "Measuring lengths and angles",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-constructions-scale",
+              "title": "Scale drawings and matching shapes",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-constructions-construct-triangle",
+              "title": "Constructing triangles",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-constructions-bisectors",
+              "title": "Compass constructions and bisectors",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-constructions-congruence",
+              "title": "Congruent shapes and triangles",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-wr-similarity",
+          "title": "Similarity",
+          "term": "Spring",
+          "block": 5,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 118,
+          "lessons": [
+            {
+              "id": "y9-wr-similarity-similarity",
+              "title": "Similar shapes and matching lengths",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-similarity-similar-triangles",
+              "title": "Using similar triangles",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-05",
+          "title": "Algebraic manipulation",
+          "term": "Spring",
+          "block": 6,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 119,
+          "lessons": [
+            {
+              "id": "y9-unit-05-notation",
+              "title": "Reading and writing algebra",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-05-like",
+              "title": "Collecting like terms",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-05-substitute",
+              "title": "Putting numbers into expressions",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-05-expand",
+              "title": "Expanding and factorising brackets",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-05-factorise",
+              "title": "Factorising a single bracket",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-05-double",
+              "title": "Multiplying two brackets",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-05-quadratic-solve",
+              "title": "Solving factorised quadratics",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-05-algebra-extend",
+              "title": "Identities and three brackets",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-05-fraction-algebra",
+              "title": "Fractions with letters",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-13",
+          "title": "Pythagoras’ theorem",
+          "term": "Summer",
+          "block": 1,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 120,
+          "lessons": [
+            {
+              "id": "y9-unit-13-pythagoras",
+              "title": "Pythagoras and right-angled triangles",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-13-pythagoras-check",
+              "title": "Checking right angles and coordinate distances",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-13-trig",
+              "title": "Sine, cosine and tangent",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-13-trig-exact",
+              "title": "Exact trig values and looking up or down",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-19",
+          "title": "Non-linear graphs",
+          "term": "Summer",
+          "block": 2,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 121,
+          "lessons": [
+            {
+              "id": "y9-unit-19-curves",
+              "title": "Curved graphs",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-19-graph-families",
+              "title": "Reciprocal, exponential and cubic graphs",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-wr-probability",
+          "title": "Sets and probability",
+          "term": "Summer",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 122,
+          "lessons": [
+            {
+              "id": "y9-wr-probability-sets",
+              "title": "Sets and Venn diagrams",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-probability-probability",
+              "title": "Probability and possible outcomes",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-probability-experiment",
+              "title": "Probability experiments",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-probability-expected",
+              "title": "Expected outcomes",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-probability-independent",
+              "title": "Independent and mutually exclusive events",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-wr-transformations",
+          "title": "Transformations",
+          "term": "Summer",
+          "block": 4,
+          "optional": false,
+          "extra": false,
+          "guidance_page": 123,
+          "lessons": [
+            {
+              "id": "y9-wr-transformations-enlargement",
+              "title": "Enlargement from a centre",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-transformations-rotation",
+              "title": "Rotating about a point",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-transformations-translation",
+              "title": "Translations and column vectors",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-transformations-reflection",
+              "title": "Reflecting a whole shape",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-transformations-transform-series",
+              "title": "Combining transformations",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-wr-simultaneous",
+          "title": "Simultaneous equations",
+          "term": "Summer",
+          "block": 5,
+          "optional": true,
+          "extra": false,
+          "guidance_page": 124,
+          "lessons": [
+            {
+              "id": "y9-wr-simultaneous-simultaneous",
+              "title": "Two equations at once",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-simultaneous-simultaneous-adjust",
+              "title": "Adjusting equations before elimination",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-wr-trig",
+          "title": "Trigonometry",
+          "term": "Summer",
+          "block": 6,
+          "optional": true,
+          "extra": false,
+          "guidance_page": 125,
+          "lessons": [
+            {
+              "id": "y9-wr-trig-trig",
+              "title": "Sine, cosine and tangent",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-trig-trig-angle",
+              "title": "Finding angles with trigonometry",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-trig-trig-choice",
+              "title": "Choosing Pythagoras or trigonometry",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-wr-trig-trig-exact",
+              "title": "Exact trig values and looking up or down",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-01",
+          "title": "Calculations, checking and rounding",
+          "term": "Extra revision",
+          "block": 1,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
+          "lessons": [
+            {
+              "id": "y9-unit-01-add",
+              "title": "Adding and subtracting decimals",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-01-multiply",
+              "title": "Multiplying decimals",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-01-divide",
+              "title": "Dividing by decimals",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-01-directed",
+              "title": "Adding and subtracting negative numbers",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-01-round",
+              "title": "Rounding numbers",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-01-estimate",
+              "title": "Estimating and rounding intervals",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-01-counting",
+              "title": "Listing and counting choices",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-02",
+          "title": "Indices, roots and order of operations",
+          "term": "Extra revision",
+          "block": 2,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
+          "lessons": [
+            {
+              "id": "y9-unit-02-indices",
+              "title": "Powers and roots",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-02-negative-products",
+              "title": "Multiplying and dividing negatives",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-02-order",
+              "title": "The order of operations",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-07",
+          "title": "Inequalities",
+          "term": "Extra revision",
+          "block": 3,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
+          "lessons": [
+            {
+              "id": "y9-unit-07-inequality",
+              "title": "Inequalities and number lines",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-08",
+          "title": "Sequences",
+          "term": "Extra revision",
+          "block": 4,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
+          "lessons": [
+            {
+              "id": "y9-unit-08-nth",
+              "title": "A rule for any term",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-08-quadratic-sequence",
+              "title": "Finding a quadratic sequence rule",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-08-nonlinear",
+              "title": "Different types of sequence",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-12",
           "title": "Polygons, angles and parallel lines",
+          "term": "Extra revision",
+          "block": 5,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
           "lessons": [
-            "Angle facts",
-            "Parallel-line angles and polygons"
+            {
+              "id": "y9-unit-12-angles",
+              "title": "Angle facts",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-12-parallel",
+              "title": "Parallel-line angles and polygons",
+              "extra_challenge": true
+            }
           ]
         },
         {
-          "title": "Pythagoras and trigonometry",
-          "lessons": [
-            "Pythagoras and right-angled triangles",
-            "Sine, cosine and tangent",
-            "Exact trig values and looking up or down"
-          ]
-        },
-        {
+          "id": "y9-unit-14",
           "title": "Averages and range",
+          "term": "Extra revision",
+          "block": 6,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
           "lessons": [
-            "Mean, median, mode and range",
-            "Averages from frequency tables",
-            "Stem-and-leaf diagrams"
+            {
+              "id": "y9-unit-14-mean",
+              "title": "Mean, median, mode and range",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-14-frequency",
+              "title": "Averages from frequency tables",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-14-stem",
+              "title": "Stem-and-leaf diagrams",
+              "extra_challenge": true
+            }
           ]
         },
         {
+          "id": "y9-unit-15",
           "title": "Representing and interpreting data",
+          "term": "Extra revision",
+          "block": 7,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
           "lessons": [
-            "Reading and drawing charts",
-            "Pie charts",
-            "Grouped data and histograms"
+            {
+              "id": "y9-unit-15-charts",
+              "title": "Reading and drawing charts",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-15-pie",
+              "title": "Pie charts",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-15-histogram",
+              "title": "Grouped data and histograms",
+              "extra_challenge": true
+            }
           ]
         },
         {
+          "id": "y9-unit-16",
           "title": "Scatter graphs",
+          "term": "Extra revision",
+          "block": 8,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
           "lessons": [
-            "Scatter graphs and patterns"
-          ]
-        },
-        {
-          "title": "Real-life graphs and coordinates",
-          "lessons": [
-            "Coordinates and midpoints",
-            "Distance–time graphs",
-            "Velocity–time graphs"
-          ]
-        },
-        {
-          "title": "Linear graphs and coordinate geometry",
-          "lessons": [
-            "Straight-line graphs",
-            "Parallel and perpendicular graph lines"
-          ]
-        },
-        {
-          "title": "Quadratic, cubic and other graphs",
-          "lessons": [
-            "Curved graphs"
+            {
+              "id": "y9-unit-16-scatter",
+              "title": "Scatter graphs and patterns",
+              "extra_challenge": true
+            }
           ]
         }
       ]
     }
   ],
-  "note": "Related class lessons are grouped into shorter revision lessons. The Year 9 sequence retains its preparation for KS4, with key words explained and calculations in small steps."
+  "papers": [
+    {
+      "id": "y7-paper-a",
+      "title": "Year 7 · Practice paper A",
+      "basis": "Department revision",
+      "coverage": [
+        "Sequences",
+        "Algebraic thinking",
+        "Equality and equivalence",
+        "Place value and ordering",
+        "Four operations",
+        "Averages and range",
+        "Estimating and rounding",
+        "Graphing data",
+        "Fractions, decimals and percentages",
+        "Directed number",
+        "Fractions and percentages of amounts",
+        "Perimeter and area",
+        "Speed, distance and time",
+        "Properties of number",
+        "Adding and subtracting fractions",
+        "Angles and polygons"
+      ]
+    },
+    {
+      "id": "y7-paper-b",
+      "title": "Year 7 · Practice paper B",
+      "basis": "Department revision",
+      "coverage": [
+        "Sequences",
+        "Algebraic thinking",
+        "Equality and equivalence",
+        "Place value and ordering",
+        "Four operations",
+        "Averages and range",
+        "Estimating and rounding",
+        "Graphing data",
+        "Fractions, decimals and percentages",
+        "Directed number",
+        "Fractions and percentages of amounts",
+        "Perimeter and area",
+        "Speed, distance and time",
+        "Properties of number",
+        "Adding and subtracting fractions",
+        "Angles and polygons"
+      ]
+    },
+    {
+      "id": "y8-paper-a",
+      "title": "Year 8 · Practice paper A",
+      "basis": "Department revision",
+      "coverage": [
+        "Ratio",
+        "Proportion and scale",
+        "Algebraic manipulation",
+        "Coordinates and graphs",
+        "Multiplying and dividing fractions",
+        "Symmetry and reflection",
+        "Area, volume and density",
+        "Equations and inequalities",
+        "Percentages",
+        "Representing data",
+        "Parallel lines and polygons",
+        "Tables and probability",
+        "Circles",
+        "Graphs and charts"
+      ]
+    },
+    {
+      "id": "y8-paper-b",
+      "title": "Year 8 · Practice paper B",
+      "basis": "Department revision",
+      "coverage": [
+        "Ratio",
+        "Proportion and scale",
+        "Algebraic manipulation",
+        "Coordinates and graphs",
+        "Multiplying and dividing fractions",
+        "Symmetry and reflection",
+        "Area, volume and density",
+        "Equations and inequalities",
+        "Percentages",
+        "Representing data",
+        "Parallel lines and polygons",
+        "Tables and probability",
+        "Circles",
+        "Graphs and charts"
+      ]
+    },
+    {
+      "id": "y9-paper-a",
+      "title": "Year 9 · Practice paper A",
+      "basis": "Department revision",
+      "coverage": [
+        "Calculations, checking and rounding",
+        "Indices, roots and order of operations",
+        "Factors, multiples and primes",
+        "Standard form and surds",
+        "Algebra: the basics",
+        "Setting up, rearranging and solving equations",
+        "Inequalities",
+        "Sequences",
+        "Fractions",
+        "Percentages",
+        "Ratio and proportion",
+        "Polygons, angles and parallel lines",
+        "Pythagoras and trigonometry",
+        "Averages and range",
+        "Representing and interpreting data",
+        "Scatter graphs",
+        "Real-life graphs and coordinates",
+        "Linear graphs and coordinate geometry",
+        "Quadratic, cubic and other graphs"
+      ]
+    },
+    {
+      "id": "y9-paper-b",
+      "title": "Year 9 · Practice paper B",
+      "basis": "Department revision",
+      "coverage": [
+        "Calculations, checking and rounding",
+        "Indices, roots and order of operations",
+        "Factors, multiples and primes",
+        "Standard form and surds",
+        "Algebra: the basics",
+        "Setting up, rearranging and solving equations",
+        "Inequalities",
+        "Sequences",
+        "Fractions",
+        "Percentages",
+        "Ratio and proportion",
+        "Polygons, angles and parallel lines",
+        "Pythagoras and trigonometry",
+        "Averages and range",
+        "Representing and interpreting data",
+        "Scatter graphs",
+        "Real-life graphs and coordinates",
+        "Linear graphs and coordinate geometry",
+        "Quadratic, cubic and other graphs"
+      ]
+    },
+    {
+      "id": "y7-paper-c",
+      "title": "Year 7 · Version 3 review",
+      "basis": "Version 3 route",
+      "coverage": [
+        "Sequences",
+        "Functions",
+        "Averages",
+        "Graphing data",
+        "Fractions, decimals and percentages",
+        "Directed number",
+        "Fractions of amounts",
+        "Area",
+        "Speed",
+        "Angles"
+      ]
+    },
+    {
+      "id": "y8-paper-c",
+      "title": "Year 8 · Version 3 review",
+      "basis": "Version 3 route",
+      "coverage": [
+        "Ratio",
+        "Conversions",
+        "Factorising",
+        "Percentages",
+        "Sequences",
+        "Density",
+        "Indices",
+        "Frequency trees",
+        "Circles",
+        "Grouped data"
+      ]
+    },
+    {
+      "id": "y9-paper-c",
+      "title": "Year 9 · Version 3 review",
+      "basis": "Version 3 route",
+      "coverage": [
+        "Number properties",
+        "Compound interest",
+        "Surface area",
+        "Equations",
+        "Rates",
+        "Maths and money",
+        "Constructions",
+        "Sets and probability",
+        "Non-linear graphs",
+        "Transformations"
+      ]
+    }
+  ],
+  "note": "The main route follows White Rose secondary Version 3 (2026 guidance); additional department revision is labelled separately. Lessons consolidate related small steps. Three original route reviews sample the revised yearly topics; six previous department papers are retained. Unit checks cover the expanded route."
 }

@@ -12,3 +12,6 @@
 .ks-maths-diagram svg .counter-red+text,.ks-maths-diagram svg .counter-blue+text,.ks-maths-diagram svg .counter-green+text{fill:#14233d}.ks-ratio-units .ratio-a{color:var(--ink);border-color:#c45260}.ks-ratio-units .ratio-b{color:var(--ink);border-color:#447acb}
 
 .ks-maths-diagram svg rect.filled{stroke:var(--ink);stroke-width:2}
+.ks-maths-diagram svg polygon{stroke:var(--ink);stroke-width:2;vector-effect:non-scaling-stroke}.ks-maths-diagram svg .tile-x{fill:var(--accent-soft);stroke:var(--accent)}.ks-maths-diagram svg .tile-one{fill:var(--bg);stroke:var(--data)}.ks-maths-diagram svg rect.dash{fill:none}.ks-diagram-key{font-size:.94rem;text-align:center;line-height:1.5;color:var(--muted)}.ks-extra-toggle{display:flex;align-items:center;gap:10px;margin-top:16px;cursor:pointer}.ks-extra-toggle input{width:20px;height:20px;accent-color:var(--accent)}.ks-route-note{font-weight:600;color:var(--accent);line-height:1.5}
+
+@media(max-width:650px){.ks-maths-diagram[data-representation="frequency-tree"] svg text{font-size:24px}}
