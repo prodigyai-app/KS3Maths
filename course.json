@@ -1539,6 +1539,20 @@
       ],
       "mistake": "The position of a term is not the same as its value.",
       "model": "sequence",
+      "worked_rows": [
+        {
+          "work": "5, 9, 13, 17",
+          "note": "+4 each time"
+        },
+        {
+          "work": "17 + 4 = 21",
+          "note": ""
+        },
+        {
+          "work": "21 + 4 = 25",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-01-sequence",
       "unit": "y7-unit-01",
       "year": 7,
@@ -1610,6 +1624,20 @@
       ],
       "mistake": "A growing sequence does not always add the same amount each time.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "1, 4, 9, 16",
+          "note": "Square numbers"
+        },
+        {
+          "work": "+3, +5, +7",
+          "note": "Gaps grow by 2"
+        },
+        {
+          "work": "3 → 6 → 12 → 24",
+          "note": "A different pattern: ×2"
+        }
+      ],
       "id": "y7-unit-01-nonlinear",
       "unit": "y7-unit-01",
       "year": 7,
@@ -1682,6 +1710,20 @@
       ],
       "mistake": "“Add 5” finds the next term. “5n + 3” finds a term from its position.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "7, 11, 15, 19",
+          "note": "Gap = 4"
+        },
+        {
+          "work": "4n + 3",
+          "note": "Add 3 to multiples of 4"
+        },
+        {
+          "work": "4 × 20 + 3 = 83",
+          "note": "Term 20"
+        }
+      ],
       "id": "y7-unit-01-nth",
       "unit": "y7-unit-01",
       "year": 7,
@@ -1753,6 +1795,20 @@
       ],
       "mistake": "When working backwards, undo the last step first.",
       "model": "function",
+      "worked_rows": [
+        {
+          "work": "6 → ×3 → 18 → +4 → 22",
+          "note": "Forward"
+        },
+        {
+          "work": "31 − 4 = 27",
+          "note": "Work backwards"
+        },
+        {
+          "work": "27 ÷ 3 = 9",
+          "note": "Input = 9"
+        }
+      ],
       "id": "y7-unit-02-function",
       "unit": "y7-unit-02",
       "year": 7,
@@ -1826,6 +1882,20 @@
       ],
       "mistake": "2a² and (2a)² do not usually give the same answer.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "a = 4",
+          "note": ""
+        },
+        {
+          "work": "3a² = 3 × 16 = 48",
+          "note": "Square a first"
+        },
+        {
+          "work": "(3a)² = 12² = 144",
+          "note": "Square everything in brackets"
+        }
+      ],
       "id": "y7-unit-02-notation",
       "unit": "y7-unit-02",
       "year": 7,
@@ -1897,6 +1967,24 @@
       ],
       "mistake": "(−3)² is 9, but −3² means −(3²), which is −9.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "x = −3, y = 2",
+          "note": ""
+        },
+        {
+          "work": "x² − 4y = (−3)² − 4 × 2",
+          "note": "Put the values in"
+        },
+        {
+          "work": "= 9 − 8",
+          "note": ""
+        },
+        {
+          "work": "= 1",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-02-substitute",
       "unit": "y7-unit-02",
       "year": 7,
@@ -1968,6 +2056,24 @@
       ],
       "mistake": "Changing only one side of an equation usually breaks the balance.",
       "model": "balance",
+      "worked_rows": [
+        {
+          "work": "x + 8 = 19",
+          "note": ""
+        },
+        {
+          "work": "x = 19 − 8",
+          "note": "Subtract 8 from both sides"
+        },
+        {
+          "work": "x = 11",
+          "note": ""
+        },
+        {
+          "work": "11 + 8 = 19 ✓",
+          "note": "Check"
+        }
+      ],
       "id": "y7-unit-03-balance",
       "unit": "y7-unit-03",
       "year": 7,
@@ -2039,6 +2145,20 @@
       ],
       "mistake": "3x + 2y cannot be combined into 5xy.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "5a + 3b − 2a + b",
+          "note": ""
+        },
+        {
+          "work": "= (5a − 2a) + (3b + b)",
+          "note": "Group like terms"
+        },
+        {
+          "work": "= 3a + 4b",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-03-like",
       "unit": "y7-unit-03",
       "year": 7,
@@ -2110,6 +2230,24 @@
       ],
       "mistake": "Use each operation on the whole of both sides.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3x + 5 = 26",
+          "note": ""
+        },
+        {
+          "work": "3x = 21",
+          "note": "Subtract 5 from both sides"
+        },
+        {
+          "work": "x = 7",
+          "note": "Divide both sides by 3"
+        },
+        {
+          "work": "3 × 7 + 5 = 26 ✓",
+          "note": "Check"
+        }
+      ],
       "id": "y7-unit-03-equation",
       "unit": "y7-unit-03",
       "year": 7,
@@ -2181,6 +2319,16 @@
       ],
       "mistake": "More digits after the decimal point does not always mean a larger number.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "0.47 = 0.470",
+          "note": "Add a zero to compare"
+        },
+        {
+          "work": "0.407 < 0.470",
+          "note": "Compare the hundredths"
+        }
+      ],
       "id": "y7-unit-04-place",
       "unit": "y7-unit-04",
       "year": 7,
@@ -2252,6 +2400,16 @@
       ],
       "mistake": "Counting decimal places begins after the decimal point, not at the first non-zero digit.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2.30 —— 2.35 —— 2.37 —— 2.40",
+          "note": "Midpoint = 2.35"
+        },
+        {
+          "work": "2.37 ≈ 2.4",
+          "note": "Nearest tenth"
+        }
+      ],
       "id": "y7-unit-04-round-dp",
       "unit": "y7-unit-04",
       "year": 7,
@@ -2323,6 +2481,16 @@
       ],
       "mistake": "The zeros before the first non-zero digit do not count as significant figures.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "0.006847 → 0.0068",
+          "note": "2 significant figures"
+        },
+        {
+          "work": "6, 8 → next digit 4",
+          "note": "Keep the 8"
+        }
+      ],
       "id": "y7-unit-04-round",
       "unit": "y7-unit-04",
       "year": 7,
@@ -2395,6 +2563,20 @@
       ],
       "mistake": "A negative power of ten makes a small positive number, not a negative number.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(3 × 10⁵) × (4 × 10³)",
+          "note": ""
+        },
+        {
+          "work": "= 12 × 10⁸",
+          "note": "Multiply numbers; add powers"
+        },
+        {
+          "work": "= 1.2 × 10⁹",
+          "note": "First number must be below 10"
+        }
+      ],
       "id": "y7-unit-04-standard",
       "unit": "y7-unit-04",
       "year": 7,
@@ -2466,6 +2648,20 @@
       ],
       "mistake": "Do not line up the last digits if the decimal points then sit in different columns.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "13.70 − 8.46",
+          "note": ""
+        },
+        {
+          "work": "= 5.24",
+          "note": "Line up decimal points"
+        },
+        {
+          "work": "8.46 + 5.24 = 13.70 ✓",
+          "note": "Check"
+        }
+      ],
       "id": "y7-unit-05-add",
       "unit": "y7-unit-05",
       "year": 7,
@@ -2537,6 +2733,20 @@
       ],
       "mistake": "Multiplying by 0.1 is dividing by 10, not multiplying by 10.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "24 × 35 = 840",
+          "note": ""
+        },
+        {
+          "work": "2.4 × 0.35 = 0.840",
+          "note": "3 decimal places in total"
+        },
+        {
+          "work": "= 0.84",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-05-multiply",
       "unit": "y7-unit-05",
       "year": 7,
@@ -2608,6 +2818,24 @@
       ],
       "mistake": "Change both numbers by the same factor, not just one of them.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "6.3 ÷ 0.3",
+          "note": ""
+        },
+        {
+          "work": "= 63 ÷ 3",
+          "note": "Multiply both numbers by 10"
+        },
+        {
+          "work": "= 21",
+          "note": ""
+        },
+        {
+          "work": "21 × 0.3 = 6.3 ✓",
+          "note": "Check"
+        }
+      ],
       "id": "y7-unit-05-divide",
       "unit": "y7-unit-05",
       "year": 7,
@@ -2679,6 +2907,20 @@
       ],
       "mistake": "Multiplication does not always come before division. Work left to right between those two operations.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "18 ÷ 3 × 2",
+          "note": ""
+        },
+        {
+          "work": "= 6 × 2",
+          "note": "Work left to right"
+        },
+        {
+          "work": "= 12",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-05-order",
       "unit": "y7-unit-05",
       "year": 7,
@@ -2750,6 +2992,24 @@
       ],
       "mistake": "Order the list before finding the median. Keep repeated values in the list.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2, 3, 3, 8",
+          "note": ""
+        },
+        {
+          "work": "Mean = 16 ÷ 4 = 4",
+          "note": "Total ÷ number of values"
+        },
+        {
+          "work": "Median = 3; mode = 3",
+          "note": "Middle; most common"
+        },
+        {
+          "work": "Range = 8 − 2 = 6",
+          "note": "Largest − smallest"
+        }
+      ],
       "id": "y7-unit-06-mean",
       "unit": "y7-unit-06",
       "year": 7,
@@ -2825,6 +3085,24 @@
       ],
       "mistake": "The mean is not the total.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "4 values; mean = 6; known: 3, 5, 7",
+          "note": ""
+        },
+        {
+          "work": "Total = 4 × 6 = 24",
+          "note": ""
+        },
+        {
+          "work": "Known total = 3 + 5 + 7 = 15",
+          "note": ""
+        },
+        {
+          "work": "Missing value = 24 − 15 = 9",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-06-missing-average",
       "unit": "y7-unit-06",
       "year": 7,
@@ -2896,6 +3174,24 @@
       ],
       "mistake": "Divide by total frequency, not by the number of rows.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Value: 1, 2, 3; frequency: 2, 5, 3",
+          "note": ""
+        },
+        {
+          "work": "Total = 1 × 2 + 2 × 5 + 3 × 3 = 21",
+          "note": ""
+        },
+        {
+          "work": "Count = 2 + 5 + 3 = 10",
+          "note": ""
+        },
+        {
+          "work": "Mean = 21 ÷ 10 = 2.1",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-06-frequency",
       "unit": "y7-unit-06",
       "year": 7,
@@ -2967,6 +3263,16 @@
       ],
       "mistake": "The zeros before the first non-zero digit do not count as significant figures.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "0.006847 → 0.0068",
+          "note": "2 significant figures"
+        },
+        {
+          "work": "6, 8 → next digit 4",
+          "note": "Keep the 8"
+        }
+      ],
       "id": "y7-unit-07-round",
       "unit": "y7-unit-07",
       "year": 7,
@@ -3038,6 +3344,16 @@
       ],
       "mistake": "An estimate is a check, not an exact answer.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "19.6 × 4.8 ≈ 20 × 5 = 100",
+          "note": "Estimate"
+        },
+        {
+          "work": "11.5 cm ≤ length < 12.5 cm",
+          "note": "Rounds to 12 cm"
+        }
+      ],
       "id": "y7-unit-07-estimate",
       "unit": "y7-unit-07",
       "year": 7,
@@ -3109,6 +3425,20 @@
       ],
       "mistake": "Always read the key before counting pictogram symbols.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "● = 4 pupils",
+          "note": "Key"
+        },
+        {
+          "work": "● ● ◐",
+          "note": "2½ symbols"
+        },
+        {
+          "work": "4 + 4 + 2 = 10 pupils",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-08-charts",
       "unit": "y7-unit-08",
       "year": 7,
@@ -3180,6 +3510,20 @@
       ],
       "mistake": "A stacked bar reaches the total, not the value of its final part.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Year 7: 6; Year 8: 4",
+          "note": "Monday's club"
+        },
+        {
+          "work": "6 and 4",
+          "note": "Two separate bars"
+        },
+        {
+          "work": "6 + 4 = 10",
+          "note": "One stacked bar"
+        }
+      ],
       "id": "y7-unit-08-bar-charts",
       "unit": "y7-unit-08",
       "year": 7,
@@ -3251,6 +3595,20 @@
       ],
       "mistake": "The coordinate order matters: along first, then up.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(0,0) → (3,0)",
+          "note": "3 right"
+        },
+        {
+          "work": "(3,0) → (3,2)",
+          "note": "2 up"
+        },
+        {
+          "work": "(3,2)",
+          "note": "Mark the point"
+        }
+      ],
       "id": "y7-unit-08-first-quadrant",
       "unit": "y7-unit-08",
       "year": 7,
@@ -3324,6 +3682,20 @@
       ],
       "mistake": "Correlation does not by itself prove that one thing causes the other.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Hot weather → more ice creams",
+          "note": ""
+        },
+        {
+          "work": "Hot weather → more sunburn",
+          "note": ""
+        },
+        {
+          "work": "Ice creams ≠ cause of sunburn",
+          "note": "A shared cause affects both"
+        }
+      ],
       "id": "y7-unit-08-scatter",
       "unit": "y7-unit-08",
       "year": 7,
@@ -3402,6 +3774,20 @@
       ],
       "mistake": "Time order matters; do not sort the points by height.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Day: 0 → 2 → 4",
+          "note": ""
+        },
+        {
+          "work": "Height: 4 → 7 → 10 cm",
+          "note": "+3 cm every 2 days"
+        },
+        {
+          "work": "(0,4), (2,7), (4,10)",
+          "note": "Plot these points"
+        }
+      ],
       "id": "y7-unit-08-time-series",
       "unit": "y7-unit-08",
       "year": 7,
@@ -3473,6 +3859,20 @@
       ],
       "mistake": "An increasing graph can still be curved.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "x: 0, 1, 2",
+          "note": ""
+        },
+        {
+          "work": "y = 2x: 0, 2, 4",
+          "note": "Equal increases: +2"
+        },
+        {
+          "work": "y = x²: 0, 1, 4",
+          "note": "Unequal increases: +1, +3"
+        }
+      ],
       "id": "y7-unit-08-graph-relationships",
       "unit": "y7-unit-08",
       "year": 7,
@@ -3545,6 +3945,24 @@
       ],
       "mistake": "Go along the grid first and up or down second.",
       "model": "linear",
+      "worked_rows": [
+        {
+          "work": "A(−2,3), B(6,7)",
+          "note": ""
+        },
+        {
+          "work": "x = (−2 + 6) ÷ 2 = 2",
+          "note": "Average the x values"
+        },
+        {
+          "work": "y = (3 + 7) ÷ 2 = 5",
+          "note": "Average the y values"
+        },
+        {
+          "work": "Midpoint = (2,5)",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-08-coordinates",
       "unit": "y7-unit-08",
       "year": 7,
@@ -3616,6 +4034,24 @@
       ],
       "mistake": "One half is 0.5, not 0.05.",
       "model": "fraction",
+      "worked_rows": [
+        {
+          "work": "3/8 = 3 ÷ 8 = 0.375",
+          "note": ""
+        },
+        {
+          "work": "0.375 × 100 = 37.5",
+          "note": ""
+        },
+        {
+          "work": "3/8 = 37.5%",
+          "note": ""
+        },
+        {
+          "work": "1.25 = 125%",
+          "note": "More than one whole"
+        }
+      ],
       "id": "y7-unit-09-fdp",
       "unit": "y7-unit-09",
       "year": 7,
@@ -3691,6 +4127,20 @@
       ],
       "mistake": "Do the same thing to the top and bottom when making an equivalent fraction.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2⅓ = (2 × 3 + 1)/3 = 7/3",
+          "note": ""
+        },
+        {
+          "work": "3/4 = 6/8 > 5/8",
+          "note": "Same denominator"
+        },
+        {
+          "work": "18/24 = 3/4",
+          "note": "Divide top and bottom by 6"
+        }
+      ],
       "id": "y7-unit-09-equivalent",
       "unit": "y7-unit-09",
       "year": 7,
@@ -3762,6 +4212,16 @@
       ],
       "mistake": "More parts in a whole means each part is smaller.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "0 → ¼ → ½ → ¾ → 1 → 1¼",
+          "note": "Equal quarter steps"
+        },
+        {
+          "work": "¾ < 1 < 1¼",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-09-fraction-order",
       "unit": "y7-unit-09",
       "year": 7,
@@ -3833,6 +4293,20 @@
       ],
       "mistake": "Subtracting a negative number moves you to the right on a number line.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "−4 + 7 = 3",
+          "note": "Move 7 right"
+        },
+        {
+          "work": "5 − (−3) = 5 + 3 = 8",
+          "note": ""
+        },
+        {
+          "work": "2 − (−6) = 8°C",
+          "note": "Rise from −6°C to 2°C"
+        }
+      ],
       "id": "y7-unit-10-directed",
       "unit": "y7-unit-10",
       "year": 7,
@@ -3904,6 +4378,24 @@
       ],
       "mistake": "A subtraction sign means remove; it is separate from a number’s sign.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(+) (+)",
+          "note": "Start at +2"
+        },
+        {
+          "work": "(+) (+) (+) (−)",
+          "note": "Add a zero pair"
+        },
+        {
+          "work": "(+) (+) (+)",
+          "note": "Remove one negative"
+        },
+        {
+          "work": "2 − (−1) = 3",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-10-zero-pairs",
       "unit": "y7-unit-10",
       "year": 7,
@@ -3975,6 +4467,20 @@
       ],
       "mistake": "“Two negatives make a positive” applies here to multiplying or dividing, not to every calculation.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(−6) × (−4) = 24",
+          "note": "Two negatives give a positive"
+        },
+        {
+          "work": "24 ÷ (−4) = −6",
+          "note": ""
+        },
+        {
+          "work": "(−3)² = 9; −3² = −9",
+          "note": "Brackets change what is squared"
+        }
+      ],
       "id": "y7-unit-10-negative-products",
       "unit": "y7-unit-10",
       "year": 7,
@@ -4046,6 +4552,20 @@
       ],
       "mistake": "Multiplication does not always come before division. Work left to right between those two operations.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "18 ÷ 3 × 2",
+          "note": ""
+        },
+        {
+          "work": "= 6 × 2",
+          "note": "Work left to right"
+        },
+        {
+          "work": "= 12",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-10-order",
       "unit": "y7-unit-10",
       "year": 7,
@@ -4119,6 +4639,20 @@
       ],
       "mistake": "√25 means the positive square root, 5. Solving x² = 25 gives both 5 and −5.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "8⁽²ᐟ³⁾",
+          "note": "Cube root, then square"
+        },
+        {
+          "work": "∛8 = 2",
+          "note": ""
+        },
+        {
+          "work": "2² = 4",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-10-indices",
       "unit": "y7-unit-10",
       "year": 7,
@@ -4190,6 +4724,20 @@
       ],
       "mistake": "Read whether you are finding part of an amount or working backwards to the whole.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3/5 of 80",
+          "note": ""
+        },
+        {
+          "work": "80 ÷ 5 = 16",
+          "note": "One fifth"
+        },
+        {
+          "work": "16 × 3 = 48",
+          "note": "Three fifths"
+        }
+      ],
       "id": "y7-unit-11-fraction-amount",
       "unit": "y7-unit-11",
       "year": 7,
@@ -4261,6 +4809,20 @@
       ],
       "mistake": "Do not divide by all the parts until you know the whole.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3/5 of the whole = 42",
+          "note": ""
+        },
+        {
+          "work": "42 ÷ 3 = 14",
+          "note": "One fifth"
+        },
+        {
+          "work": "14 × 5 = 70",
+          "note": "Five fifths"
+        }
+      ],
       "id": "y7-unit-11-fraction-whole",
       "unit": "y7-unit-11",
       "year": 7,
@@ -4332,6 +4894,24 @@
       ],
       "mistake": "A percentage above 100% is possible. It means more than the whole amount.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "15% of £80",
+          "note": ""
+        },
+        {
+          "work": "10% = £8",
+          "note": "Divide by 10"
+        },
+        {
+          "work": "5% = £4",
+          "note": "Half of 10%"
+        },
+        {
+          "work": "15% = £8 + £4 = £12",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-11-percent-amount",
       "unit": "y7-unit-11",
       "year": 7,
@@ -4403,6 +4983,20 @@
       ],
       "mistake": "Divide by the original amount when finding percentage change.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "£50 → £65",
+          "note": ""
+        },
+        {
+          "work": "Change = 65 − 50 = £15",
+          "note": ""
+        },
+        {
+          "work": "15 ÷ 50 × 100 = 30%",
+          "note": "Divide by the original"
+        }
+      ],
       "id": "y7-unit-11-change",
       "unit": "y7-unit-11",
       "year": 7,
@@ -4474,6 +5068,24 @@
       ],
       "mistake": "Do not subtract 25% of the new value to undo a 25% increase.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "80% = £64",
+          "note": "After a 20% reduction"
+        },
+        {
+          "work": "100% = 64 ÷ 0.8",
+          "note": ""
+        },
+        {
+          "work": "Original price = £80",
+          "note": ""
+        },
+        {
+          "work": "80 × 0.8 = 64 ✓",
+          "note": "Check"
+        }
+      ],
       "id": "y7-unit-11-reverse",
       "unit": "y7-unit-11",
       "year": 7,
@@ -4545,6 +5157,20 @@
       ],
       "mistake": "The area conversion is not the same as the length conversion.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2.4 m = 2.4 × 100 = 240 cm",
+          "note": ""
+        },
+        {
+          "work": "3.5 litres = 3.5 × 1000 = 3500 ml",
+          "note": ""
+        },
+        {
+          "work": "2 m² = 2 × 10 000 = 20 000 cm²",
+          "note": "Area uses a squared conversion"
+        }
+      ],
       "id": "y7-unit-12-metric",
       "unit": "y7-unit-12",
       "year": 7,
@@ -4616,6 +5242,20 @@
       ],
       "mistake": "Perimeter is a length. Do not give it in square units.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Length = 4.5 m; width = 2 m",
+          "note": ""
+        },
+        {
+          "work": "P = 4.5 + 2 + 4.5 + 2",
+          "note": "Add all four sides"
+        },
+        {
+          "work": "P = 13 m",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-12-perimeter",
       "unit": "y7-unit-12",
       "year": 7,
@@ -4689,6 +5329,20 @@
       ],
       "mistake": "The sloping side of a triangle is not always its perpendicular height.",
       "model": "area",
+      "worked_rows": [
+        {
+          "work": "Parallel sides: 6 cm, 10 cm; height: 4 cm",
+          "note": ""
+        },
+        {
+          "work": "A = (6 + 10) ÷ 2 × 4",
+          "note": ""
+        },
+        {
+          "work": "A = 8 × 4 = 32 cm²",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-12-area",
       "unit": "y7-unit-12",
       "year": 7,
@@ -4760,6 +5414,20 @@
       ],
       "mistake": "Do not subtract a length from an area.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Outer rectangle: 8 cm × 6 cm",
+          "note": ""
+        },
+        {
+          "work": "Missing corner: 3 cm × 2 cm",
+          "note": ""
+        },
+        {
+          "work": "A = 48 − 6 = 42 cm²",
+          "note": "Subtract the missing area"
+        }
+      ],
       "id": "y7-unit-12-compound-area",
       "unit": "y7-unit-12",
       "year": 7,
@@ -4831,6 +5499,20 @@
       ],
       "mistake": "2 hours 18 minutes is not 2.18 hours.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2 hours 45 minutes",
+          "note": ""
+        },
+        {
+          "work": "45 ÷ 60 = 0.75 hours",
+          "note": ""
+        },
+        {
+          "work": "2 + 0.75 = 2.75 hours",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-13-time",
       "unit": "y7-unit-13",
       "year": 7,
@@ -4902,6 +5584,20 @@
       ],
       "mistake": "Clock minutes are out of 60, not 100.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "23:35 → 00:00",
+          "note": "25 minutes"
+        },
+        {
+          "work": "00:00 → 00:20",
+          "note": "20 minutes"
+        },
+        {
+          "work": "25 + 20 = 45 minutes",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-13-timetables",
       "unit": "y7-unit-13",
       "year": 7,
@@ -4973,6 +5669,20 @@
       ],
       "mistake": "Use the total distance and total time for an average speed.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Distance = 150 m; time = 30 s",
+          "note": ""
+        },
+        {
+          "work": "Speed = 150 ÷ 30",
+          "note": ""
+        },
+        {
+          "work": "Speed = 5 m/s",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-13-speed",
       "unit": "y7-unit-13",
       "year": 7,
@@ -5044,6 +5754,24 @@
       ],
       "mistake": "Use changes between the points, not one point's coordinates unless the line starts at zero.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(2 s, 5 m) → (6 s, 25 m)",
+          "note": ""
+        },
+        {
+          "work": "Distance change = 25 − 5 = 20 m",
+          "note": ""
+        },
+        {
+          "work": "Time change = 6 − 2 = 4 s",
+          "note": ""
+        },
+        {
+          "work": "Speed = 20 ÷ 4 = 5 m/s",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-13-distancegraph",
       "unit": "y7-unit-13",
       "year": 7,
@@ -5115,6 +5843,20 @@
       ],
       "mistake": "Factors fit into a number. Multiples are in its times table.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "18: 1, 2, 3, 6, 9, 18",
+          "note": "Factors"
+        },
+        {
+          "work": "18 = 2 × 3 × 3",
+          "note": "Prime factors"
+        },
+        {
+          "work": "18 = 2 × 3²",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-14-factors",
       "unit": "y7-unit-14",
       "year": 7,
@@ -5186,6 +5928,20 @@
       ],
       "mistake": "Squaring is multiplying by itself, not multiplying by two.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "5² = 25 ↔ √25 = 5",
+          "note": ""
+        },
+        {
+          "work": "3³ = 27 ↔ ∛27 = 3",
+          "note": ""
+        },
+        {
+          "work": "1 + 2 + 3 + 4 = 10",
+          "note": "Fourth triangular number"
+        }
+      ],
       "id": "y7-unit-14-powers-roots",
       "unit": "y7-unit-14",
       "year": 7,
@@ -5257,6 +6013,20 @@
       ],
       "mistake": "For the LCM, shared factors are not counted twice when using a prime-factor Venn diagram.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "24 = 2³ × 3; 36 = 2² × 3²",
+          "note": ""
+        },
+        {
+          "work": "HCF = 2² × 3 = 12",
+          "note": "Shared prime factors"
+        },
+        {
+          "work": "LCM = 2³ × 3² = 72",
+          "note": "All prime factors needed"
+        }
+      ],
       "id": "y7-unit-14-hcf",
       "unit": "y7-unit-14",
       "year": 7,
@@ -5330,6 +6100,20 @@
       ],
       "mistake": "√25 means the positive square root, 5. Solving x² = 25 gives both 5 and −5.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "8⁽²ᐟ³⁾",
+          "note": "Cube root, then square"
+        },
+        {
+          "work": "∛8 = 2",
+          "note": ""
+        },
+        {
+          "work": "2² = 4",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-14-indices",
       "unit": "y7-unit-14",
       "year": 7,
@@ -5401,6 +6185,20 @@
       ],
       "mistake": "Do the same thing to the top and bottom when making an equivalent fraction.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2⅓ = (2 × 3 + 1)/3 = 7/3",
+          "note": ""
+        },
+        {
+          "work": "3/4 = 6/8 > 5/8",
+          "note": "Same denominator"
+        },
+        {
+          "work": "18/24 = 3/4",
+          "note": "Divide top and bottom by 6"
+        }
+      ],
       "id": "y7-unit-15-equivalent",
       "unit": "y7-unit-15",
       "year": 7,
@@ -5472,6 +6270,24 @@
       ],
       "mistake": "The denominator stays the same when changing the form.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2⅗ = (2 × 5 + 3)/5",
+          "note": ""
+        },
+        {
+          "work": "= 13/5",
+          "note": ""
+        },
+        {
+          "work": "13 ÷ 5 = 2 remainder 3",
+          "note": "Change back"
+        },
+        {
+          "work": "13/5 = 2⅗",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-15-mixed",
       "unit": "y7-unit-15",
       "year": 7,
@@ -5543,6 +6359,20 @@
       ],
       "mistake": "Do not add or subtract the denominators.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2/3 + 3/4",
+          "note": ""
+        },
+        {
+          "work": "= 8/12 + 9/12",
+          "note": "Common denominator: 12"
+        },
+        {
+          "work": "= 17/12 = 1 5/12",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-15-fraction-add",
       "unit": "y7-unit-15",
       "year": 7,
@@ -5614,6 +6444,20 @@
       ],
       "mistake": "You cannot cancel the x from (x + 3)/x. It is part of a sum.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "x/3 + x/4",
+          "note": ""
+        },
+        {
+          "work": "= 4x/12 + 3x/12",
+          "note": "Common denominator: 12"
+        },
+        {
+          "work": "= 7x/12",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-15-fraction-algebra",
       "unit": "y7-unit-15",
       "year": 7,
@@ -5685,6 +6529,20 @@
       ],
       "mistake": "The correct protractor scale starts at zero on the arm you lined up.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Smaller angle = 72°",
+          "note": ""
+        },
+        {
+          "work": "Reflex angle = 360° − 72°",
+          "note": ""
+        },
+        {
+          "work": "= 288°",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-16-measure",
       "unit": "y7-unit-16",
       "year": 7,
@@ -5756,6 +6614,20 @@
       ],
       "mistake": "A regular polygon needs equal angles as well as equal sides.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Equilateral triangle: 3 equal sides",
+          "note": ""
+        },
+        {
+          "work": "Cuboid: 6 faces, 12 edges, 8 vertices",
+          "note": ""
+        },
+        {
+          "work": "Cylinder: circular cross-section",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-16-shapes",
       "unit": "y7-unit-16",
       "year": 7,
@@ -5827,6 +6699,20 @@
       ],
       "mistake": "Use angle facts rather than guessing from how a drawing looks.",
       "model": "angle",
+      "worked_rows": [
+        {
+          "work": "Isosceles triangle; top angle = 38°",
+          "note": ""
+        },
+        {
+          "work": "Base angles total = 180° − 38° = 142°",
+          "note": ""
+        },
+        {
+          "work": "Each base angle = 142° ÷ 2 = 71°",
+          "note": "Two equal angles"
+        }
+      ],
       "id": "y7-unit-16-angles",
       "unit": "y7-unit-16",
       "year": 7,
@@ -5898,6 +6784,20 @@
       ],
       "mistake": "Use parallel-line markings before applying a parallel-line angle rule.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Regular hexagon: 6 sides",
+          "note": ""
+        },
+        {
+          "work": "Exterior angle = 360° ÷ 6 = 60°",
+          "note": ""
+        },
+        {
+          "work": "Interior angle = 180° − 60° = 120°",
+          "note": ""
+        }
+      ],
       "id": "y7-unit-16-parallel",
       "unit": "y7-unit-16",
       "year": 7,
@@ -5969,6 +6869,20 @@
       ],
       "mistake": "In the ratio 2:3, the first part is 2/5 of the total, not 2/3.",
       "model": "ratio",
+      "worked_rows": [
+        {
+          "work": "Red : blue = 6 : 9 = 2 : 3",
+          "note": "Divide both by 3"
+        },
+        {
+          "work": "Total parts = 2 + 3 = 5",
+          "note": ""
+        },
+        {
+          "work": "Red fraction = 2/5",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-01-ratio",
       "unit": "y8-unit-01",
       "year": 8,
@@ -6040,6 +6954,24 @@
       ],
       "mistake": "If you are given a difference, divide by the difference in units, not the total units.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "£84 in the ratio 3 : 4",
+          "note": ""
+        },
+        {
+          "work": "Parts = 3 + 4 = 7",
+          "note": ""
+        },
+        {
+          "work": "One part = £84 ÷ 7 = £12",
+          "note": ""
+        },
+        {
+          "work": "Shares = 3 × £12 = £36; 4 × £12 = £48",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-01-share",
       "unit": "y8-unit-01",
       "year": 8,
@@ -6111,6 +7043,24 @@
       ],
       "mistake": "When given the difference, use the difference in parts, not the total parts.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Red : blue = 2 : 5; difference = 18",
+          "note": ""
+        },
+        {
+          "work": "5 − 2 = 3 parts",
+          "note": ""
+        },
+        {
+          "work": "One part = 18 ÷ 3 = 6",
+          "note": ""
+        },
+        {
+          "work": "Red = 2 × 6 = 12; blue = 5 × 6 = 30",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-01-ratio-missing",
       "unit": "y8-unit-01",
       "year": 8,
@@ -6182,6 +7132,20 @@
       ],
       "mistake": "A straight line that misses the origin does not show direct proportion.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3 pens → £4.50",
+          "note": ""
+        },
+        {
+          "work": "1 pen → £4.50 ÷ 3 = £1.50",
+          "note": ""
+        },
+        {
+          "work": "8 pens → 8 × £1.50 = £12",
+          "note": "Same price per pen"
+        }
+      ],
       "id": "y8-unit-02-direct",
       "unit": "y8-unit-02",
       "year": 8,
@@ -6253,6 +7217,20 @@
       ],
       "mistake": "Do not multiply in both directions.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "£1 = €1.25",
+          "note": "Example rate"
+        },
+        {
+          "work": "£20 → 20 × 1.25 = €25",
+          "note": ""
+        },
+        {
+          "work": "€45 → 45 ÷ 1.25 = £36",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-02-conversion-graphs",
       "unit": "y8-unit-02",
       "year": 8,
@@ -6324,6 +7302,20 @@
       ],
       "mistake": "The area conversion is not the same as the length conversion.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2.4 m = 2.4 × 100 = 240 cm",
+          "note": ""
+        },
+        {
+          "work": "3.5 litres = 3.5 × 1000 = 3500 ml",
+          "note": ""
+        },
+        {
+          "work": "2 m² = 2 × 10 000 = 20 000 cm²",
+          "note": "Area uses a squared conversion"
+        }
+      ],
       "id": "y8-unit-02-metric",
       "unit": "y8-unit-02",
       "year": 8,
@@ -6395,6 +7387,20 @@
       ],
       "mistake": "Match corresponding sides, not just the nearest labels.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Small rectangle: 3 cm × 5 cm",
+          "note": ""
+        },
+        {
+          "work": "Scale factor = 12 ÷ 3 = 4",
+          "note": ""
+        },
+        {
+          "work": "Other side = 5 × 4 = 20 cm",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-02-similarity",
       "unit": "y8-unit-02",
       "year": 8,
@@ -6466,6 +7472,24 @@
       ],
       "mistake": "A scale ratio compares matching length units. Convert before comparing.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "1 : 200; drawing = 3 cm",
+          "note": ""
+        },
+        {
+          "work": "Real length = 3 × 200 = 600 cm",
+          "note": ""
+        },
+        {
+          "work": "= 6 m",
+          "note": ""
+        },
+        {
+          "work": "£35 × 1.20 = €42",
+          "note": "Example rate: £1 = €1.20"
+        }
+      ],
       "id": "y8-unit-02-scale",
       "unit": "y8-unit-02",
       "year": 8,
@@ -6540,6 +7564,20 @@
       ],
       "mistake": "A fixed starting charge means the total cost is not directly proportional to the number of items.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "4 notebooks → £6",
+          "note": ""
+        },
+        {
+          "work": "1 notebook → £6 ÷ 4 = £1.50",
+          "note": ""
+        },
+        {
+          "work": "10 notebooks → 10 × £1.50 = £15",
+          "note": "Same price per notebook"
+        }
+      ],
       "id": "y8-unit-02-proportion",
       "unit": "y8-unit-02",
       "year": 8,
@@ -6613,6 +7651,20 @@
       ],
       "mistake": "2a² and (2a)² do not usually give the same answer.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "a = 4",
+          "note": ""
+        },
+        {
+          "work": "3a² = 3 × 16 = 48",
+          "note": "Square a first"
+        },
+        {
+          "work": "(3a)² = 12² = 144",
+          "note": "Square everything in brackets"
+        }
+      ],
       "id": "y8-unit-03-notation",
       "unit": "y8-unit-03",
       "year": 8,
@@ -6684,6 +7736,20 @@
       ],
       "mistake": "3x + 2y cannot be combined into 5xy.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "5a + 3b − 2a + b",
+          "note": ""
+        },
+        {
+          "work": "= (5a − 2a) + (3b + b)",
+          "note": "Group like terms"
+        },
+        {
+          "work": "= 3a + 4b",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-03-like",
       "unit": "y8-unit-03",
       "year": 8,
@@ -6755,6 +7821,24 @@
       ],
       "mistake": "(−3)² is 9, but −3² means −(3²), which is −9.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "x = −3, y = 2",
+          "note": ""
+        },
+        {
+          "work": "x² − 4y = (−3)² − 4 × 2",
+          "note": "Put the values in"
+        },
+        {
+          "work": "= 9 − 8",
+          "note": ""
+        },
+        {
+          "work": "= 1",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-03-substitute",
       "unit": "y8-unit-03",
       "year": 8,
@@ -6826,6 +7910,20 @@
       ],
       "mistake": "Multiply every term in a bracket, including any negative term.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "−3(2x − 5)",
+          "note": ""
+        },
+        {
+          "work": "= −6x + 15",
+          "note": "Multiply each term by −3"
+        },
+        {
+          "work": "12x + 18 = 6(2x + 3)",
+          "note": "Factorise: take out 6"
+        }
+      ],
       "id": "y8-unit-03-expand",
       "unit": "y8-unit-03",
       "year": 8,
@@ -6897,6 +7995,20 @@
       ],
       "mistake": "Check by expanding; every original term must return.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "6x + 15",
+          "note": ""
+        },
+        {
+          "work": "= 3 × 2x + 3 × 5",
+          "note": "Shared factor: 3"
+        },
+        {
+          "work": "= 3(2x + 5)",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-03-factorise",
       "unit": "y8-unit-03",
       "year": 8,
@@ -6970,6 +8082,20 @@
       ],
       "mistake": "Do not multiply only the first terms and the last terms. There are four products.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(x + 3)(x − 2)",
+          "note": ""
+        },
+        {
+          "work": "= x² − 2x + 3x − 6",
+          "note": "Multiply all four pairs"
+        },
+        {
+          "work": "= x² + x − 6",
+          "note": "Collect like terms"
+        }
+      ],
       "id": "y8-unit-03-double",
       "unit": "y8-unit-03",
       "year": 8,
@@ -7042,6 +8168,24 @@
       ],
       "mistake": "Go along the grid first and up or down second.",
       "model": "linear",
+      "worked_rows": [
+        {
+          "work": "A(−2,3), B(6,7)",
+          "note": ""
+        },
+        {
+          "work": "x = (−2 + 6) ÷ 2 = 2",
+          "note": "Average the x values"
+        },
+        {
+          "work": "y = (3 + 7) ÷ 2 = 5",
+          "note": "Average the y values"
+        },
+        {
+          "work": "Midpoint = (2,5)",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-04-coordinates",
       "unit": "y8-unit-04",
       "year": 8,
@@ -7115,6 +8259,24 @@
       ],
       "mistake": "The y-intercept is where x is zero, not where y is zero.",
       "model": "linear",
+      "worked_rows": [
+        {
+          "work": "(1,5), (3,9)",
+          "note": ""
+        },
+        {
+          "work": "m = (9 − 5) ÷ (3 − 1) = 2",
+          "note": ""
+        },
+        {
+          "work": "5 = 2 × 1 + c → c = 3",
+          "note": "Use (1,5)"
+        },
+        {
+          "work": "y = 2x + 3",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-04-linear",
       "unit": "y8-unit-04",
       "year": 8,
@@ -7188,6 +8350,20 @@
       ],
       "mistake": "Do not forget the negative solution when solving x² = a positive number.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "y = x² − 4",
+          "note": ""
+        },
+        {
+          "work": "0 = x² − 4 → x = −2 or 2",
+          "note": "x-intercepts: y = 0"
+        },
+        {
+          "work": "y = 0² − 4 = −4",
+          "note": "y-intercept: x = 0"
+        }
+      ],
       "id": "y8-unit-04-curves",
       "unit": "y8-unit-04",
       "year": 8,
@@ -7266,6 +8442,20 @@
       ],
       "mistake": "For division, turn over the fraction you divide by, not both fractions.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3/4 × 2/5 = 6/20 = 3/10",
+          "note": ""
+        },
+        {
+          "work": "2/3 ÷ 4/5 = 2/3 × 5/4",
+          "note": "Flip the second fraction"
+        },
+        {
+          "work": "= 10/12 = 5/6",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-05-fraction-product",
       "unit": "y8-unit-05",
       "year": 8,
@@ -7337,6 +8527,16 @@
       ],
       "mistake": "Dividing by a small positive fraction can make the answer larger.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "½ × ¾ = ⅜",
+          "note": "Half of three quarters"
+        },
+        {
+          "work": "¾ ÷ ¼ = 3",
+          "note": "Three quarter-pieces fit"
+        }
+      ],
       "id": "y8-unit-05-fraction-model",
       "unit": "y8-unit-05",
       "year": 8,
@@ -7408,6 +8608,20 @@
       ],
       "mistake": "You cannot cancel the x from (x + 3)/x. It is part of a sum.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "x/3 + x/4",
+          "note": ""
+        },
+        {
+          "work": "= 4x/12 + 3x/12",
+          "note": "Common denominator: 12"
+        },
+        {
+          "work": "= 7x/12",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-05-fraction-algebra",
       "unit": "y8-unit-05",
       "year": 8,
@@ -7480,6 +8694,16 @@
       ],
       "mistake": "A reflection keeps the shape's size and its distance from the mirror line.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(2,5) → mirror x = 4 → (6,5)",
+          "note": ""
+        },
+        {
+          "work": "4 − 2 = 2; 6 − 4 = 2",
+          "note": "Equal distances from the mirror"
+        }
+      ],
       "id": "y8-unit-06-symmetry",
       "unit": "y8-unit-06",
       "year": 8,
@@ -7558,6 +8782,16 @@
       ],
       "mistake": "Reflecting in y = x swaps coordinates; it does not just change a sign.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(2,1) → mirror x = 4 → (6,1)",
+          "note": ""
+        },
+        {
+          "work": "4 − 2 = 2; 6 − 4 = 2",
+          "note": "Equal distances from the mirror"
+        }
+      ],
       "id": "y8-unit-06-reflection",
       "unit": "y8-unit-06",
       "year": 8,
@@ -7629,6 +8863,20 @@
       ],
       "mistake": "A regular polygon needs equal angles as well as equal sides.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Equilateral triangle: 3 equal sides",
+          "note": ""
+        },
+        {
+          "work": "Cuboid: 6 faces, 12 edges, 8 vertices",
+          "note": ""
+        },
+        {
+          "work": "Cylinder: circular cross-section",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-07-shapes",
       "unit": "y8-unit-07",
       "year": 8,
@@ -7702,6 +8950,20 @@
       ],
       "mistake": "The sloping side of a triangle is not always its perpendicular height.",
       "model": "area",
+      "worked_rows": [
+        {
+          "work": "Parallel sides: 6 cm, 10 cm; height: 4 cm",
+          "note": ""
+        },
+        {
+          "work": "A = (6 + 10) ÷ 2 × 4",
+          "note": ""
+        },
+        {
+          "work": "A = 8 × 4 = 32 cm²",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-07-area",
       "unit": "y8-unit-07",
       "year": 8,
@@ -7774,6 +9036,20 @@
       ],
       "mistake": "Surface area uses square units. Volume uses cubic units.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Triangle: base 6 cm, height 4 cm",
+          "note": ""
+        },
+        {
+          "work": "Cross-section = ½ × 6 × 4 = 12 cm²",
+          "note": ""
+        },
+        {
+          "work": "Volume = 12 × 10 = 120 cm³",
+          "note": "Prism length = 10 cm"
+        }
+      ],
       "id": "y8-unit-07-volume",
       "unit": "y8-unit-07",
       "year": 8,
@@ -7845,6 +9121,20 @@
       ],
       "mistake": "The area conversion is not the same as the length conversion.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2.4 m = 2.4 × 100 = 240 cm",
+          "note": ""
+        },
+        {
+          "work": "3.5 litres = 3.5 × 1000 = 3500 ml",
+          "note": ""
+        },
+        {
+          "work": "2 m² = 2 × 10 000 = 20 000 cm²",
+          "note": "Area uses a squared conversion"
+        }
+      ],
       "id": "y8-unit-07-metric",
       "unit": "y8-unit-07",
       "year": 8,
@@ -7916,6 +9206,20 @@
       ],
       "mistake": "Density is not just mass. You need the volume too.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Mass = 180 g; volume = 60 cm³",
+          "note": ""
+        },
+        {
+          "work": "Density = 180 ÷ 60",
+          "note": ""
+        },
+        {
+          "work": "= 3 g/cm³",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-07-density",
       "unit": "y8-unit-07",
       "year": 8,
@@ -7987,6 +9291,24 @@
       ],
       "mistake": "Use each operation on the whole of both sides.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3x + 5 = 26",
+          "note": ""
+        },
+        {
+          "work": "3x = 21",
+          "note": "Subtract 5 from both sides"
+        },
+        {
+          "work": "x = 7",
+          "note": "Divide both sides by 3"
+        },
+        {
+          "work": "3 × 7 + 5 = 26 ✓",
+          "note": "Check"
+        }
+      ],
       "id": "y8-unit-08-equation",
       "unit": "y8-unit-08",
       "year": 8,
@@ -8058,6 +9380,20 @@
       ],
       "mistake": "A fraction bar divides the whole expression above it.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(x + 4)/3 = 5",
+          "note": ""
+        },
+        {
+          "work": "x + 4 = 15",
+          "note": "Multiply both sides by 3"
+        },
+        {
+          "work": "x = 11",
+          "note": "Subtract 4 from both sides"
+        }
+      ],
       "id": "y8-unit-08-fractional-equations",
       "unit": "y8-unit-08",
       "year": 8,
@@ -8129,6 +9465,24 @@
       ],
       "mistake": "When a question describes a real length, check that your answer makes sense as a length.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "5x + 3 = 2x + 21",
+          "note": ""
+        },
+        {
+          "work": "3x + 3 = 21",
+          "note": "Subtract 2x from both sides"
+        },
+        {
+          "work": "3x = 18",
+          "note": "Subtract 3 from both sides"
+        },
+        {
+          "work": "x = 6",
+          "note": "Divide both sides by 3"
+        }
+      ],
       "id": "y8-unit-08-both-sides",
       "unit": "y8-unit-08",
       "year": 8,
@@ -8200,6 +9554,16 @@
       ],
       "mistake": "Do not forget to reverse the sign when multiplying or dividing by a negative number.",
       "model": "inequality",
+      "worked_rows": [
+        {
+          "work": "−2x < 6",
+          "note": ""
+        },
+        {
+          "work": "x > −3",
+          "note": "Divide by −2; reverse the sign"
+        }
+      ],
       "id": "y8-unit-08-inequality",
       "unit": "y8-unit-08",
       "year": 8,
@@ -8278,6 +9642,24 @@
       ],
       "mistake": "A percentage above 100% is possible. It means more than the whole amount.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "15% of £80",
+          "note": ""
+        },
+        {
+          "work": "10% = £8",
+          "note": "Divide by 10"
+        },
+        {
+          "work": "5% = £4",
+          "note": "Half of 10%"
+        },
+        {
+          "work": "15% = £8 + £4 = £12",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-09-percent-amount",
       "unit": "y8-unit-09",
       "year": 8,
@@ -8349,6 +9731,20 @@
       ],
       "mistake": "Divide by the original amount when finding percentage change.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "£50 → £65",
+          "note": ""
+        },
+        {
+          "work": "Change = 65 − 50 = £15",
+          "note": ""
+        },
+        {
+          "work": "15 ÷ 50 × 100 = 30%",
+          "note": "Divide by the original"
+        }
+      ],
       "id": "y8-unit-09-change",
       "unit": "y8-unit-09",
       "year": 8,
@@ -8420,6 +9816,24 @@
       ],
       "mistake": "Do not subtract 25% of the new value to undo a 25% increase.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "80% = £64",
+          "note": "After a 20% reduction"
+        },
+        {
+          "work": "100% = 64 ÷ 0.8",
+          "note": ""
+        },
+        {
+          "work": "Original price = £80",
+          "note": ""
+        },
+        {
+          "work": "80 × 0.8 = 64 ✓",
+          "note": "Check"
+        }
+      ],
       "id": "y8-unit-09-reverse",
       "unit": "y8-unit-09",
       "year": 8,
@@ -8491,6 +9905,20 @@
       ],
       "mistake": "Adding x² + x³ does not give x⁵; these are unlike terms.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "x³ × x² = x⁵",
+          "note": "Add powers"
+        },
+        {
+          "work": "x⁷ ÷ x² = x⁵",
+          "note": "Subtract powers; x ≠ 0"
+        },
+        {
+          "work": "(x²)³ = x⁶",
+          "note": "Multiply powers"
+        }
+      ],
       "id": "y8-wr-indices-indices-laws",
       "unit": "y8-wr-indices",
       "year": 8,
@@ -8564,6 +9992,20 @@
       ],
       "mistake": "√25 means the positive square root, 5. Solving x² = 25 gives both 5 and −5.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "8⁽²ᐟ³⁾",
+          "note": "Cube root, then square"
+        },
+        {
+          "work": "∛8 = 2",
+          "note": ""
+        },
+        {
+          "work": "2² = 4",
+          "note": ""
+        }
+      ],
       "id": "y8-wr-indices-indices",
       "unit": "y8-wr-indices",
       "year": 8,
@@ -8635,6 +10077,16 @@
       ],
       "mistake": "A negative power does not mean a negative answer.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "4.2 × 10³ = 4200",
+          "note": "×1000"
+        },
+        {
+          "work": "4.2 × 10⁻³ = 0.0042",
+          "note": "÷1000"
+        }
+      ],
       "id": "y8-wr-standard-powers-ten",
       "unit": "y8-wr-standard",
       "year": 8,
@@ -8706,6 +10158,20 @@
       ],
       "mistake": "The coefficient must be less than 10, not equal to 10.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "56 000 = 5.6 × 10⁴",
+          "note": ""
+        },
+        {
+          "work": "0.00056 = 5.6 × 10⁻⁴",
+          "note": ""
+        },
+        {
+          "work": "1 ≤ 5.6 < 10",
+          "note": "First number is between 1 and 10"
+        }
+      ],
       "id": "y8-wr-standard-standard-read",
       "unit": "y8-wr-standard",
       "year": 8,
@@ -8777,6 +10243,20 @@
       ],
       "mistake": "Rounded measurements do not become discrete just because whole numbers are recorded.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Siblings: 0, 1, 2, …",
+          "note": "Discrete: counted"
+        },
+        {
+          "work": "Height: 152.3 cm",
+          "note": "Continuous: measured"
+        },
+        {
+          "work": "Sport: football, tennis, …",
+          "note": "Categorical: labels"
+        }
+      ],
       "id": "y8-unit-10-data-types",
       "unit": "y8-unit-10",
       "year": 8,
@@ -8848,6 +10328,24 @@
       ],
       "mistake": "Order the list before finding the median. Keep repeated values in the list.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2, 3, 3, 8",
+          "note": ""
+        },
+        {
+          "work": "Mean = 16 ÷ 4 = 4",
+          "note": "Total ÷ number of values"
+        },
+        {
+          "work": "Median = 3; mode = 3",
+          "note": "Middle; most common"
+        },
+        {
+          "work": "Range = 8 − 2 = 6",
+          "note": "Largest − smallest"
+        }
+      ],
       "id": "y8-unit-10-mean",
       "unit": "y8-unit-10",
       "year": 8,
@@ -8923,6 +10421,24 @@
       ],
       "mistake": "Divide by total frequency, not by the number of rows.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Value: 1, 2, 3; frequency: 2, 5, 3",
+          "note": ""
+        },
+        {
+          "work": "Total = 1 × 2 + 2 × 5 + 3 × 3 = 21",
+          "note": ""
+        },
+        {
+          "work": "Count = 2 + 5 + 3 = 10",
+          "note": ""
+        },
+        {
+          "work": "Mean = 21 ÷ 10 = 2.1",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-10-frequency",
       "unit": "y8-unit-10",
       "year": 8,
@@ -8994,6 +10510,24 @@
       ],
       "mistake": "The result is an estimate because the individual values are unknown.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "140 ≤ h < 150: 2; 150 ≤ h < 160: 3",
+          "note": ""
+        },
+        {
+          "work": "Midpoints: 145, 155",
+          "note": ""
+        },
+        {
+          "work": "Total ≈ 145 × 2 + 155 × 3 = 755",
+          "note": ""
+        },
+        {
+          "work": "Mean ≈ 755 ÷ 5 = 151 cm",
+          "note": "Estimate using midpoints"
+        }
+      ],
       "id": "y8-unit-10-grouped",
       "unit": "y8-unit-10",
       "year": 8,
@@ -9065,6 +10599,16 @@
       ],
       "mistake": "A smaller range does not mean a smaller average.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Median: A = 12, B = 10",
+          "note": "A has a higher typical value"
+        },
+        {
+          "work": "Range: A = 3, B = 8",
+          "note": "A is less spread out"
+        }
+      ],
       "id": "y8-unit-10-compare-data",
       "unit": "y8-unit-10",
       "year": 8,
@@ -9138,6 +10682,20 @@
       ],
       "mistake": "Correlation does not by itself prove that one thing causes the other.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Hot weather → more ice creams",
+          "note": ""
+        },
+        {
+          "work": "Hot weather → more sunburn",
+          "note": ""
+        },
+        {
+          "work": "Ice creams ≠ cause of sunburn",
+          "note": "A shared cause affects both"
+        }
+      ],
       "id": "y8-unit-10-scatter",
       "unit": "y8-unit-10",
       "year": 8,
@@ -9216,6 +10774,20 @@
       ],
       "mistake": "For unequal class widths, compare bar areas rather than just bar heights.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "10 ≤ x < 30; frequency = 12",
+          "note": ""
+        },
+        {
+          "work": "Width = 30 − 10 = 20",
+          "note": ""
+        },
+        {
+          "work": "Density = 12 ÷ 20 = 0.6",
+          "note": "Bar height"
+        }
+      ],
       "id": "y8-unit-10-histogram",
       "unit": "y8-unit-10",
       "year": 8,
@@ -9287,6 +10859,20 @@
       ],
       "mistake": "Use angle facts rather than guessing from how a drawing looks.",
       "model": "angle",
+      "worked_rows": [
+        {
+          "work": "Isosceles triangle; top angle = 38°",
+          "note": ""
+        },
+        {
+          "work": "Base angles total = 180° − 38° = 142°",
+          "note": ""
+        },
+        {
+          "work": "Each base angle = 142° ÷ 2 = 71°",
+          "note": "Two equal angles"
+        }
+      ],
       "id": "y8-unit-11-angles",
       "unit": "y8-unit-11",
       "year": 8,
@@ -9358,6 +10944,20 @@
       ],
       "mistake": "Use parallel-line markings before applying a parallel-line angle rule.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Regular hexagon: 6 sides",
+          "note": ""
+        },
+        {
+          "work": "Exterior angle = 360° ÷ 6 = 60°",
+          "note": ""
+        },
+        {
+          "work": "Interior angle = 180° − 60° = 120°",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-11-parallel",
       "unit": "y8-unit-11",
       "year": 8,
@@ -9429,6 +11029,20 @@
       ],
       "mistake": "A diagram can be out of scale; use the stated properties.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Parallelogram: one angle = 68°",
+          "note": ""
+        },
+        {
+          "work": "Next angle = 180° − 68° = 112°",
+          "note": ""
+        },
+        {
+          "work": "Angles: 68°, 112°, 68°, 112°",
+          "note": "Opposite angles are equal"
+        }
+      ],
       "id": "y8-unit-11-quadrilaterals",
       "unit": "y8-unit-11",
       "year": 8,
@@ -9500,6 +11114,20 @@
       ],
       "mistake": "Count actual outcomes or objects. Do not assume colour categories are equally likely.",
       "model": "probability",
+      "worked_rows": [
+        {
+          "work": "Die outcomes above 4: {5, 6}",
+          "note": ""
+        },
+        {
+          "work": "P(above 4) = 2/6 = 1/3",
+          "note": ""
+        },
+        {
+          "work": "P(not above 4) = 1 − 1/3 = 2/3",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-12-probability",
       "unit": "y8-unit-12",
       "year": 8,
@@ -9571,6 +11199,20 @@
       ],
       "mistake": "A short run of results does not prove an object is fair or unfair.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Red: 18 out of 50 spins",
+          "note": ""
+        },
+        {
+          "work": "Relative frequency = 18/50 = 0.36",
+          "note": ""
+        },
+        {
+          "work": "Next 100 spins: about 36 reds",
+          "note": "Estimate, not a guarantee"
+        }
+      ],
       "id": "y8-unit-12-experiment",
       "unit": "y8-unit-12",
       "year": 8,
@@ -9642,6 +11284,20 @@
       ],
       "mistake": "Totals from two dice are not all equally likely.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Coin × die: 2 × 6 = 12 outcomes",
+          "note": ""
+        },
+        {
+          "work": "{H2, H4, H6}",
+          "note": "Head and even"
+        },
+        {
+          "work": "P(head and even) = 3/12 = 1/4",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-12-sample-space",
       "unit": "y8-unit-12",
       "year": 8,
@@ -9713,6 +11369,16 @@
       ],
       "mistake": "Use the group named in the question as your total.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Cyclists = 12; cyclists with glasses = 5",
+          "note": ""
+        },
+        {
+          "work": "P(glasses among cyclists) = 5/12",
+          "note": "Use the cyclists' total"
+        }
+      ],
       "id": "y8-unit-12-tables",
       "unit": "y8-unit-12",
       "year": 8,
@@ -9784,6 +11450,20 @@
       ],
       "mistake": "Selecting bus users changes the denominator to the bus-user total.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "30 pupils → 18 walk; 12 do not",
+          "note": ""
+        },
+        {
+          "work": "18 walkers → 10 with bags; 8 without",
+          "note": ""
+        },
+        {
+          "work": "P(bag among walkers) = 10/18 = 5/9",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-12-frequency-tree",
       "unit": "y8-unit-12",
       "year": 8,
@@ -9855,6 +11535,16 @@
       ],
       "mistake": "If repeats are banned, do not keep using the original number of choices at every stage.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3 shirts × 4 trousers",
+          "note": ""
+        },
+        {
+          "work": "= 12 outfits",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-12-counting",
       "unit": "y8-unit-12",
       "year": 8,
@@ -9928,6 +11618,20 @@
       ],
       "mistake": "Halve the diameter before using it as a radius.",
       "model": "circle",
+      "worked_rows": [
+        {
+          "work": "Radius = 3 cm",
+          "note": ""
+        },
+        {
+          "work": "C = 2πr = 2 × π × 3 = 6π cm",
+          "note": ""
+        },
+        {
+          "work": "A = πr² = π × 3² = 9π cm²",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-13-circle",
       "unit": "y8-unit-13",
       "year": 8,
@@ -10003,6 +11707,20 @@
       ],
       "mistake": "A sector’s perimeter includes its straight edges.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Semicircle: radius = 4 cm",
+          "note": ""
+        },
+        {
+          "work": "Curved edge = ½ × 2π × 4 = 4π cm",
+          "note": ""
+        },
+        {
+          "work": "Perimeter = 4π + 8 cm",
+          "note": "Include the diameter"
+        }
+      ],
       "id": "y8-unit-13-circle-parts",
       "unit": "y8-unit-13",
       "year": 8,
@@ -10074,6 +11792,24 @@
       ],
       "mistake": "A cone's volume is one third of the matching cylinder, not one half.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Radius = 3 cm; height = 8 cm",
+          "note": ""
+        },
+        {
+          "work": "Base area = π × 3² = 9π cm²",
+          "note": ""
+        },
+        {
+          "work": "Cylinder = 9π × 8 = 72π cm³",
+          "note": ""
+        },
+        {
+          "work": "Cone = 72π ÷ 3 = 24π cm³",
+          "note": "Same base and height"
+        }
+      ],
       "id": "y8-unit-13-cylinder",
       "unit": "y8-unit-13",
       "year": 8,
@@ -10147,6 +11883,20 @@
       ],
       "mistake": "The sloping side of a triangle is not always its perpendicular height.",
       "model": "area",
+      "worked_rows": [
+        {
+          "work": "Parallel sides: 6 cm, 10 cm; height: 4 cm",
+          "note": ""
+        },
+        {
+          "work": "A = (6 + 10) ÷ 2 × 4",
+          "note": ""
+        },
+        {
+          "work": "A = 8 × 4 = 32 cm²",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-13-area",
       "unit": "y8-unit-13",
       "year": 8,
@@ -10218,6 +11968,20 @@
       ],
       "mistake": "Always read the key before counting pictogram symbols.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "● = 4 pupils",
+          "note": "Key"
+        },
+        {
+          "work": "● ● ◐",
+          "note": "2½ symbols"
+        },
+        {
+          "work": "4 + 4 + 2 = 10 pupils",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-14-charts",
       "unit": "y8-unit-14",
       "year": 8,
@@ -10289,6 +12053,20 @@
       ],
       "mistake": "A stacked bar reaches the total, not the value of its final part.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Year 7: 6; Year 8: 4",
+          "note": "Monday's club"
+        },
+        {
+          "work": "6 and 4",
+          "note": "Two separate bars"
+        },
+        {
+          "work": "6 + 4 = 10",
+          "note": "One stacked bar"
+        }
+      ],
       "id": "y8-unit-14-bar-charts",
       "unit": "y8-unit-14",
       "year": 8,
@@ -10360,6 +12138,20 @@
       ],
       "mistake": "A sector is a share of that chart's total, not a fixed number of people.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "15 out of 60 pupils walk",
+          "note": ""
+        },
+        {
+          "work": "Fraction = 15/60 = 1/4",
+          "note": ""
+        },
+        {
+          "work": "Sector = 1/4 × 360° = 90°",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-14-pie",
       "unit": "y8-unit-14",
       "year": 8,
@@ -10431,6 +12223,20 @@
       ],
       "mistake": "Time order matters; do not sort the points by height.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Day: 0 → 2 → 4",
+          "note": ""
+        },
+        {
+          "work": "Height: 4 → 7 → 10 cm",
+          "note": "+3 cm every 2 days"
+        },
+        {
+          "work": "(0,4), (2,7), (4,10)",
+          "note": "Plot these points"
+        }
+      ],
       "id": "y8-unit-14-time-series",
       "unit": "y8-unit-14",
       "year": 8,
@@ -10502,6 +12308,24 @@
       ],
       "mistake": "A key is essential. The same digits can stand for different place values.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2 ¦ 1 4 4 8",
+          "note": "Key: 2 ¦ 4 = 24"
+        },
+        {
+          "work": "21, 24, 24, 28",
+          "note": ""
+        },
+        {
+          "work": "Median = (24 + 24) ÷ 2 = 24",
+          "note": ""
+        },
+        {
+          "work": "Range = 28 − 21 = 7",
+          "note": ""
+        }
+      ],
       "id": "y8-unit-14-stem",
       "unit": "y8-unit-14",
       "year": 8,
@@ -10573,6 +12397,20 @@
       ],
       "mistake": "The position of a term is not the same as its value.",
       "model": "sequence",
+      "worked_rows": [
+        {
+          "work": "5, 9, 13, 17",
+          "note": "+4 each time"
+        },
+        {
+          "work": "17 + 4 = 21",
+          "note": ""
+        },
+        {
+          "work": "21 + 4 = 25",
+          "note": ""
+        }
+      ],
       "id": "y8-wr-sequences-sequence",
       "unit": "y8-wr-sequences",
       "year": 8,
@@ -10645,6 +12483,20 @@
       ],
       "mistake": "“Add 5” finds the next term. “5n + 3” finds a term from its position.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "7, 11, 15, 19",
+          "note": "Gap = 4"
+        },
+        {
+          "work": "4n + 3",
+          "note": "Add 3 to multiples of 4"
+        },
+        {
+          "work": "4 × 20 + 3 = 83",
+          "note": "Term 20"
+        }
+      ],
       "id": "y8-wr-sequences-nth",
       "unit": "y8-wr-sequences",
       "year": 8,
@@ -10716,6 +12568,20 @@
       ],
       "mistake": "A growing sequence does not always add the same amount each time.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "1, 4, 9, 16",
+          "note": "Square numbers"
+        },
+        {
+          "work": "+3, +5, +7",
+          "note": "Gaps grow by 2"
+        },
+        {
+          "work": "3 → 6 → 12 → 24",
+          "note": "A different pattern: ×2"
+        }
+      ],
       "id": "y8-wr-sequences-nonlinear",
       "unit": "y8-wr-sequences",
       "year": 8,
@@ -10787,6 +12653,20 @@
       ],
       "mistake": "Factors fit into a number. Multiples are in its times table.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "18: 1, 2, 3, 6, 9, 18",
+          "note": "Factors"
+        },
+        {
+          "work": "18 = 2 × 3 × 3",
+          "note": "Prime factors"
+        },
+        {
+          "work": "18 = 2 × 3²",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-03-factors",
       "unit": "y9-unit-03",
       "year": 9,
@@ -10858,6 +12738,20 @@
       ],
       "mistake": "For the LCM, shared factors are not counted twice when using a prime-factor Venn diagram.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "24 = 2³ × 3; 36 = 2² × 3²",
+          "note": ""
+        },
+        {
+          "work": "HCF = 2² × 3 = 12",
+          "note": "Shared prime factors"
+        },
+        {
+          "work": "LCM = 2³ × 3² = 72",
+          "note": "All prime factors needed"
+        }
+      ],
       "id": "y9-unit-03-hcf",
       "unit": "y9-unit-03",
       "year": 9,
@@ -10929,6 +12823,24 @@
       ],
       "mistake": "A root sign alone does not make a number irrational.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "−4 = −4/1",
+          "note": "Integer and rational"
+        },
+        {
+          "work": "0.125 = 1/8",
+          "note": "Rational"
+        },
+        {
+          "work": "√2",
+          "note": "Irrational"
+        },
+        {
+          "work": "√9 = 3",
+          "note": "Rational"
+        }
+      ],
       "id": "y9-unit-03-number-sets",
       "unit": "y9-unit-03",
       "year": 9,
@@ -11000,6 +12912,24 @@
       ],
       "mistake": "One half is 0.5, not 0.05.",
       "model": "fraction",
+      "worked_rows": [
+        {
+          "work": "3/8 = 3 ÷ 8 = 0.375",
+          "note": ""
+        },
+        {
+          "work": "0.375 × 100 = 37.5",
+          "note": ""
+        },
+        {
+          "work": "3/8 = 37.5%",
+          "note": ""
+        },
+        {
+          "work": "1.25 = 125%",
+          "note": "More than one whole"
+        }
+      ],
       "id": "y9-unit-10-fdp",
       "unit": "y9-unit-10",
       "year": 9,
@@ -11075,6 +13005,20 @@
       ],
       "mistake": "Divide by the original amount when finding percentage change.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "£50 → £65",
+          "note": ""
+        },
+        {
+          "work": "Change = 65 − 50 = £15",
+          "note": ""
+        },
+        {
+          "work": "15 ÷ 50 × 100 = 30%",
+          "note": "Divide by the original"
+        }
+      ],
       "id": "y9-unit-10-change",
       "unit": "y9-unit-10",
       "year": 9,
@@ -11146,6 +13090,24 @@
       ],
       "mistake": "Do not subtract 25% of the new value to undo a 25% increase.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "80% = £64",
+          "note": "After a 20% reduction"
+        },
+        {
+          "work": "100% = 64 ÷ 0.8",
+          "note": ""
+        },
+        {
+          "work": "Original price = £80",
+          "note": ""
+        },
+        {
+          "work": "80 × 0.8 = 64 ✓",
+          "note": "Check"
+        }
+      ],
       "id": "y9-unit-10-reverse",
       "unit": "y9-unit-10",
       "year": 9,
@@ -11217,6 +13179,20 @@
       ],
       "mistake": "Two 10% increases are not one 20% increase.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "£200 × 1.1 = £220",
+          "note": "First 10% rise"
+        },
+        {
+          "work": "£220 × 1.1 = £242",
+          "note": "Second 10% rise"
+        },
+        {
+          "work": "42 ÷ 200 × 100 = 21%",
+          "note": "Total increase"
+        }
+      ],
       "id": "y9-unit-10-repeated-change",
       "unit": "y9-unit-10",
       "year": 9,
@@ -11288,6 +13264,20 @@
       ],
       "mistake": "Compound interest can earn interest on earlier interest.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "£300 × 0.04 = £12",
+          "note": "Simple interest per year"
+        },
+        {
+          "work": "£300 + 3 × £12 = £336",
+          "note": "After 3 years"
+        },
+        {
+          "work": "£300 × 1.04³ ≈ £337.46",
+          "note": "Compound interest instead"
+        }
+      ],
       "id": "y9-unit-10-interest",
       "unit": "y9-unit-10",
       "year": 9,
@@ -11359,6 +13349,24 @@
       ],
       "mistake": "Use square units for surface area, not cubic units.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Cuboid: 4 cm × 3 cm × 2 cm",
+          "note": ""
+        },
+        {
+          "work": "Faces: 4 × 3 = 12; 4 × 2 = 8; 3 × 2 = 6",
+          "note": ""
+        },
+        {
+          "work": "Area = 2(12 + 8 + 6)",
+          "note": "Two of each face"
+        },
+        {
+          "work": "= 52 cm²",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-solids-nets-surface",
       "unit": "y9-wr-solids",
       "year": 9,
@@ -11432,6 +13440,20 @@
       ],
       "mistake": "The sloping side of a triangle is not always its perpendicular height.",
       "model": "area",
+      "worked_rows": [
+        {
+          "work": "Parallel sides: 6 cm, 10 cm; height: 4 cm",
+          "note": ""
+        },
+        {
+          "work": "A = (6 + 10) ÷ 2 × 4",
+          "note": ""
+        },
+        {
+          "work": "A = 8 × 4 = 32 cm²",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-solids-area",
       "unit": "y9-wr-solids",
       "year": 9,
@@ -11505,6 +13527,20 @@
       ],
       "mistake": "Halve the diameter before using it as a radius.",
       "model": "circle",
+      "worked_rows": [
+        {
+          "work": "Radius = 3 cm",
+          "note": ""
+        },
+        {
+          "work": "C = 2πr = 2 × π × 3 = 6π cm",
+          "note": ""
+        },
+        {
+          "work": "A = πr² = π × 3² = 9π cm²",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-solids-circle",
       "unit": "y9-wr-solids",
       "year": 9,
@@ -11581,6 +13617,20 @@
       ],
       "mistake": "Surface area uses square units. Volume uses cubic units.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Triangle: base 6 cm, height 4 cm",
+          "note": ""
+        },
+        {
+          "work": "Cross-section = ½ × 6 × 4 = 12 cm²",
+          "note": ""
+        },
+        {
+          "work": "Volume = 12 × 10 = 120 cm³",
+          "note": "Prism length = 10 cm"
+        }
+      ],
       "id": "y9-wr-solids-volume",
       "unit": "y9-wr-solids",
       "year": 9,
@@ -11652,6 +13702,24 @@
       ],
       "mistake": "A cone's volume is one third of the matching cylinder, not one half.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Radius = 3 cm; height = 8 cm",
+          "note": ""
+        },
+        {
+          "work": "Base area = π × 3² = 9π cm²",
+          "note": ""
+        },
+        {
+          "work": "Cylinder = 9π × 8 = 72π cm³",
+          "note": ""
+        },
+        {
+          "work": "Cone = 72π ÷ 3 = 24π cm³",
+          "note": "Same base and height"
+        }
+      ],
       "id": "y9-wr-solids-cylinder",
       "unit": "y9-wr-solids",
       "year": 9,
@@ -11723,6 +13791,20 @@
       ],
       "mistake": "Sloping height is not perpendicular height.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Cone: radius = 3 cm; height = 8 cm",
+          "note": ""
+        },
+        {
+          "work": "V = ⅓ × π × 3² × 8",
+          "note": ""
+        },
+        {
+          "work": "V = 24π cm³",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-solids-solid-volume",
       "unit": "y9-wr-solids",
       "year": 9,
@@ -11794,6 +13876,20 @@
       ],
       "mistake": "The area conversion is not the same as the length conversion.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2.4 m = 2.4 × 100 = 240 cm",
+          "note": ""
+        },
+        {
+          "work": "3.5 litres = 3.5 × 1000 = 3500 ml",
+          "note": ""
+        },
+        {
+          "work": "2 m² = 2 × 10 000 = 20 000 cm²",
+          "note": "Area uses a squared conversion"
+        }
+      ],
       "id": "y9-wr-solids-metric",
       "unit": "y9-wr-solids",
       "year": 9,
@@ -11865,6 +13961,24 @@
       ],
       "mistake": "Use each operation on the whole of both sides.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3x + 5 = 26",
+          "note": ""
+        },
+        {
+          "work": "3x = 21",
+          "note": "Subtract 5 from both sides"
+        },
+        {
+          "work": "x = 7",
+          "note": "Divide both sides by 3"
+        },
+        {
+          "work": "3 × 7 + 5 = 26 ✓",
+          "note": "Check"
+        }
+      ],
       "id": "y9-unit-06-equation",
       "unit": "y9-unit-06",
       "year": 9,
@@ -11936,6 +14050,24 @@
       ],
       "mistake": "When a question describes a real length, check that your answer makes sense as a length.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "5x + 3 = 2x + 21",
+          "note": ""
+        },
+        {
+          "work": "3x + 3 = 21",
+          "note": "Subtract 2x from both sides"
+        },
+        {
+          "work": "3x = 18",
+          "note": "Subtract 3 from both sides"
+        },
+        {
+          "work": "x = 6",
+          "note": "Divide both sides by 3"
+        }
+      ],
       "id": "y9-unit-06-both-sides",
       "unit": "y9-unit-06",
       "year": 9,
@@ -12007,6 +14139,16 @@
       ],
       "mistake": "Do not forget to reverse the sign when multiplying or dividing by a negative number.",
       "model": "inequality",
+      "worked_rows": [
+        {
+          "work": "−2x < 6",
+          "note": ""
+        },
+        {
+          "work": "x > −3",
+          "note": "Divide by −2; reverse the sign"
+        }
+      ],
       "id": "y9-unit-06-inequality",
       "unit": "y9-unit-06",
       "year": 9,
@@ -12085,6 +14227,20 @@
       ],
       "mistake": "A fraction bar divides the whole expression above it.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(x + 4)/3 = 5",
+          "note": ""
+        },
+        {
+          "work": "x + 4 = 15",
+          "note": "Multiply both sides by 3"
+        },
+        {
+          "work": "x = 11",
+          "note": "Subtract 4 from both sides"
+        }
+      ],
       "id": "y9-unit-06-fractional-equations",
       "unit": "y9-unit-06",
       "year": 9,
@@ -12156,6 +14312,24 @@
       ],
       "mistake": "(−3)² is 9, but −3² means −(3²), which is −9.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "x = −3, y = 2",
+          "note": ""
+        },
+        {
+          "work": "x² − 4y = (−3)² − 4 × 2",
+          "note": "Put the values in"
+        },
+        {
+          "work": "= 9 − 8",
+          "note": ""
+        },
+        {
+          "work": "= 1",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-06-substitute",
       "unit": "y9-unit-06",
       "year": 9,
@@ -12227,6 +14401,20 @@
       ],
       "mistake": "A formula must work generally. Checking one example is not a proof for every value.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "v = u + at",
+          "note": ""
+        },
+        {
+          "work": "v − u = at",
+          "note": "Subtract u"
+        },
+        {
+          "work": "t = (v − u)/a",
+          "note": "Divide by a; a ≠ 0"
+        }
+      ],
       "id": "y9-unit-06-rearrange",
       "unit": "y9-unit-06",
       "year": 9,
@@ -12298,6 +14486,20 @@
       ],
       "mistake": "Do the same thing to the top and bottom when making an equivalent fraction.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2⅓ = (2 × 3 + 1)/3 = 7/3",
+          "note": ""
+        },
+        {
+          "work": "3/4 = 6/8 > 5/8",
+          "note": "Same denominator"
+        },
+        {
+          "work": "18/24 = 3/4",
+          "note": "Divide top and bottom by 6"
+        }
+      ],
       "id": "y9-unit-09-equivalent",
       "unit": "y9-unit-09",
       "year": 9,
@@ -12369,6 +14571,20 @@
       ],
       "mistake": "Do not add or subtract the denominators.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2/3 + 3/4",
+          "note": ""
+        },
+        {
+          "work": "= 8/12 + 9/12",
+          "note": "Common denominator: 12"
+        },
+        {
+          "work": "= 17/12 = 1 5/12",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-09-fraction-add",
       "unit": "y9-unit-09",
       "year": 9,
@@ -12440,6 +14656,20 @@
       ],
       "mistake": "For division, turn over the fraction you divide by, not both fractions.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3/4 × 2/5 = 6/20 = 3/10",
+          "note": ""
+        },
+        {
+          "work": "2/3 ÷ 4/5 = 2/3 × 5/4",
+          "note": "Flip the second fraction"
+        },
+        {
+          "work": "= 10/12 = 5/6",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-09-fraction-product",
       "unit": "y9-unit-09",
       "year": 9,
@@ -12511,6 +14741,20 @@
       ],
       "mistake": "Read whether you are finding part of an amount or working backwards to the whole.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3/5 of 80",
+          "note": ""
+        },
+        {
+          "work": "80 ÷ 5 = 16",
+          "note": "One fifth"
+        },
+        {
+          "work": "16 × 3 = 48",
+          "note": "Three fifths"
+        }
+      ],
       "id": "y9-unit-09-fraction-amount",
       "unit": "y9-unit-09",
       "year": 9,
@@ -12584,6 +14828,24 @@
       ],
       "mistake": "Use enough places for the repeating blocks to line up before subtracting.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "x = 0.272727…",
+          "note": ""
+        },
+        {
+          "work": "100x = 27.272727…",
+          "note": "Multiply by 100"
+        },
+        {
+          "work": "99x = 27",
+          "note": "Subtract the first line"
+        },
+        {
+          "work": "x = 27/99 = 3/11",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-09-recurring",
       "unit": "y9-unit-09",
       "year": 9,
@@ -12655,6 +14917,20 @@
       ],
       "mistake": "Use the total distance and total time for an average speed.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Distance = 150 m; time = 30 s",
+          "note": ""
+        },
+        {
+          "work": "Speed = 150 ÷ 30",
+          "note": ""
+        },
+        {
+          "work": "Speed = 5 m/s",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-17-speed",
       "unit": "y9-unit-17",
       "year": 9,
@@ -12726,6 +15002,24 @@
       ],
       "mistake": "Use changes between the points, not one point's coordinates unless the line starts at zero.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(2 s, 5 m) → (6 s, 25 m)",
+          "note": ""
+        },
+        {
+          "work": "Distance change = 25 − 5 = 20 m",
+          "note": ""
+        },
+        {
+          "work": "Time change = 6 − 2 = 4 s",
+          "note": ""
+        },
+        {
+          "work": "Speed = 20 ÷ 4 = 5 m/s",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-17-distancegraph",
       "unit": "y9-unit-17",
       "year": 9,
@@ -12797,6 +15091,20 @@
       ],
       "mistake": "A starting volume changes the intercept, not the constant filling gradient.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "In: 8 litres/min; out: 3 litres/min",
+          "note": ""
+        },
+        {
+          "work": "Net rate = 8 − 3 = 5 litres/min",
+          "note": ""
+        },
+        {
+          "work": "Increase = 5 × 6 = 30 litres",
+          "note": "After 6 minutes"
+        }
+      ],
       "id": "y9-unit-17-flow-rates",
       "unit": "y9-unit-17",
       "year": 9,
@@ -12868,6 +15176,16 @@
       ],
       "mistake": "Changing kilometres to metres alone is not enough.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "10 m/s × 3600 = 36 000 m/h",
+          "note": ""
+        },
+        {
+          "work": "36 000 ÷ 1000 = 36 km/h",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-17-compound-units",
       "unit": "y9-unit-17",
       "year": 9,
@@ -12940,6 +15258,24 @@
       ],
       "mistake": "Go along the grid first and up or down second.",
       "model": "linear",
+      "worked_rows": [
+        {
+          "work": "A(−2,3), B(6,7)",
+          "note": ""
+        },
+        {
+          "work": "x = (−2 + 6) ÷ 2 = 2",
+          "note": "Average the x values"
+        },
+        {
+          "work": "y = (3 + 7) ÷ 2 = 5",
+          "note": "Average the y values"
+        },
+        {
+          "work": "Midpoint = (2,5)",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-17-coordinates",
       "unit": "y9-unit-17",
       "year": 9,
@@ -13011,6 +15347,20 @@
       ],
       "mistake": "A horizontal velocity–time line can show steady movement, not a stationary object.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "0 → 12 m/s in 6 s",
+          "note": ""
+        },
+        {
+          "work": "Acceleration = 12 ÷ 6 = 2 m/s²",
+          "note": ""
+        },
+        {
+          "work": "Distance = ½ × 6 × 12 = 36 m",
+          "note": "Triangle under the graph"
+        }
+      ],
       "id": "y9-unit-17-velocitygraph",
       "unit": "y9-unit-17",
       "year": 9,
@@ -13082,6 +15432,16 @@
       ],
       "mistake": "A negative power does not mean a negative answer.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "4.2 × 10³ = 4200",
+          "note": "×1000"
+        },
+        {
+          "work": "4.2 × 10⁻³ = 0.0042",
+          "note": "÷1000"
+        }
+      ],
       "id": "y9-unit-04-powers-ten",
       "unit": "y9-unit-04",
       "year": 9,
@@ -13153,6 +15513,20 @@
       ],
       "mistake": "The coefficient must be less than 10, not equal to 10.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "56 000 = 5.6 × 10⁴",
+          "note": ""
+        },
+        {
+          "work": "0.00056 = 5.6 × 10⁻⁴",
+          "note": ""
+        },
+        {
+          "work": "1 ≤ 5.6 < 10",
+          "note": "First number is between 1 and 10"
+        }
+      ],
       "id": "y9-unit-04-standard-read",
       "unit": "y9-unit-04",
       "year": 9,
@@ -13225,6 +15599,20 @@
       ],
       "mistake": "A negative power of ten makes a small positive number, not a negative number.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(3 × 10⁵) × (4 × 10³)",
+          "note": ""
+        },
+        {
+          "work": "= 12 × 10⁸",
+          "note": "Multiply numbers; add powers"
+        },
+        {
+          "work": "= 1.2 × 10⁹",
+          "note": "First number must be below 10"
+        }
+      ],
       "id": "y9-unit-04-standard",
       "unit": "y9-unit-04",
       "year": 9,
@@ -13296,6 +15684,20 @@
       ],
       "mistake": "Adding powers is a multiplication rule, not an addition rule.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(3 × 10⁵) + (4 × 10⁴)",
+          "note": ""
+        },
+        {
+          "work": "= (3 × 10⁵) + (0.4 × 10⁵)",
+          "note": "Match the powers"
+        },
+        {
+          "work": "= 3.4 × 10⁵",
+          "note": "Add the first numbers"
+        }
+      ],
       "id": "y9-unit-04-standard-calc",
       "unit": "y9-unit-04",
       "year": 9,
@@ -13369,6 +15771,20 @@
       ],
       "mistake": "You cannot split √(a + b) into √a + √b.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "√72 = √(36 × 2) = 6√2",
+          "note": ""
+        },
+        {
+          "work": "3/√5 = (3 × √5)/(√5 × √5)",
+          "note": ""
+        },
+        {
+          "work": "= 3√5/5",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-04-surds",
       "unit": "y9-unit-04",
       "year": 9,
@@ -13440,6 +15856,16 @@
       ],
       "mistake": "A credit-card spending limit is not money saved.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "£45 − £60 = −£15",
+          "note": "Payment"
+        },
+        {
+          "work": "−£15 + £25 = £10",
+          "note": "Deposit"
+        }
+      ],
       "id": "y9-wr-money-money-bank",
       "unit": "y9-wr-money",
       "year": 9,
@@ -13511,6 +15937,20 @@
       ],
       "mistake": "Use the rates supplied in the example; real pay deductions depend on the situation.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "6 × £12 = £72",
+          "note": "Gross pay"
+        },
+        {
+          "work": "£72 − £8 = £64",
+          "note": "Net pay after deductions"
+        },
+        {
+          "work": "£40 × 1.20 = £48",
+          "note": "Price including 20% VAT"
+        }
+      ],
       "id": "y9-wr-money-money-pay",
       "unit": "y9-wr-money",
       "year": 9,
@@ -13582,6 +16022,20 @@
       ],
       "mistake": "Weekly and monthly costs cannot be added without converting them.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Income = £160",
+          "note": ""
+        },
+        {
+          "work": "Spending = £90 + £45 = £135",
+          "note": ""
+        },
+        {
+          "work": "Surplus = £160 − £135 = £25",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-money-money-budget",
       "unit": "y9-wr-money",
       "year": 9,
@@ -13653,6 +16107,20 @@
       ],
       "mistake": "The lowest pack price does not always give the lowest unit price.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "750 g = 0.75 kg; price = £3",
+          "note": ""
+        },
+        {
+          "work": "£3 ÷ 0.75 = £4 per kg",
+          "note": ""
+        },
+        {
+          "work": "£4 < £4.20 per kg",
+          "note": "First pack is cheaper per kg"
+        }
+      ],
       "id": "y9-wr-money-money-save",
       "unit": "y9-wr-money",
       "year": 9,
@@ -13724,6 +16192,20 @@
       ],
       "mistake": "A smaller monthly payment can still give a larger total cost.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Loan = £600; fee = £15",
+          "note": ""
+        },
+        {
+          "work": "Repayment = 12 × £55 + £15 = £675",
+          "note": ""
+        },
+        {
+          "work": "Extra cost = £675 − £600 = £75",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-money-money-borrow",
       "unit": "y9-wr-money",
       "year": 9,
@@ -13795,6 +16277,16 @@
       ],
       "mistake": "Check which currency the fee uses.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "£150 × 1.20 = €180",
+          "note": "Example rate: £1 = €1.20"
+        },
+        {
+          "work": "€180 − €6 = €174",
+          "note": "Deduct the fee"
+        }
+      ],
       "id": "y9-wr-money-money-overseas",
       "unit": "y9-wr-money",
       "year": 9,
@@ -13866,6 +16358,16 @@
       ],
       "mistake": "The premium and the excess are different costs.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "12 × £9 = £108",
+          "note": "Yearly premium"
+        },
+        {
+          "work": "£500 − £100 = £400",
+          "note": "Covered loss minus excess"
+        }
+      ],
       "id": "y9-wr-money-money-insurance",
       "unit": "y9-wr-money",
       "year": 9,
@@ -13939,6 +16441,24 @@
       ],
       "mistake": "The y-intercept is where x is zero, not where y is zero.",
       "model": "linear",
+      "worked_rows": [
+        {
+          "work": "(1,5), (3,9)",
+          "note": ""
+        },
+        {
+          "work": "m = (9 − 5) ÷ (3 − 1) = 2",
+          "note": ""
+        },
+        {
+          "work": "5 = 2 × 1 + c → c = 3",
+          "note": "Use (1,5)"
+        },
+        {
+          "work": "y = 2x + 3",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-18-linear",
       "unit": "y9-unit-18",
       "year": 9,
@@ -14010,6 +16530,24 @@
       ],
       "mistake": "The y-intercept is where x is zero, not where y is zero.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(0,−2), (3,4)",
+          "note": ""
+        },
+        {
+          "work": "m = (4 − (−2)) ÷ (3 − 0) = 2",
+          "note": ""
+        },
+        {
+          "work": "c = −2",
+          "note": "Read the y-intercept"
+        },
+        {
+          "work": "y = 2x − 2",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-18-line-equation",
       "unit": "y9-unit-18",
       "year": 9,
@@ -14081,6 +16619,24 @@
       ],
       "mistake": "A dashed boundary excludes every point on that line.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "y > x + 1",
+          "note": ""
+        },
+        {
+          "work": "y = x + 1",
+          "note": "Draw a dashed boundary"
+        },
+        {
+          "work": "(0,0): 0 > 1 ✗",
+          "note": "Test a point"
+        },
+        {
+          "work": "Shade above the line",
+          "note": "Exclude the boundary"
+        }
+      ],
       "id": "y9-unit-18-graph-inequalities",
       "unit": "y9-unit-18",
       "year": 9,
@@ -14152,6 +16708,20 @@
       ],
       "mistake": "Different y-intercepts do not stop two lines being parallel.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "m = 2",
+          "note": ""
+        },
+        {
+          "work": "Perpendicular gradient = −1/2",
+          "note": ""
+        },
+        {
+          "work": "2 × (−1/2) = −1 ✓",
+          "note": "Check"
+        }
+      ],
       "id": "y9-unit-18-perpendicular",
       "unit": "y9-unit-18",
       "year": 9,
@@ -14223,6 +16793,20 @@
       ],
       "mistake": "In the ratio 2:3, the first part is 2/5 of the total, not 2/3.",
       "model": "ratio",
+      "worked_rows": [
+        {
+          "work": "Red : blue = 6 : 9 = 2 : 3",
+          "note": "Divide both by 3"
+        },
+        {
+          "work": "Total parts = 2 + 3 = 5",
+          "note": ""
+        },
+        {
+          "work": "Red fraction = 2/5",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-11-ratio",
       "unit": "y9-unit-11",
       "year": 9,
@@ -14294,6 +16878,24 @@
       ],
       "mistake": "If you are given a difference, divide by the difference in units, not the total units.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "£84 in the ratio 3 : 4",
+          "note": ""
+        },
+        {
+          "work": "Parts = 3 + 4 = 7",
+          "note": ""
+        },
+        {
+          "work": "One part = £84 ÷ 7 = £12",
+          "note": ""
+        },
+        {
+          "work": "Shares = 3 × £12 = £36; 4 × £12 = £48",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-11-share",
       "unit": "y9-unit-11",
       "year": 9,
@@ -14365,6 +16967,24 @@
       ],
       "mistake": "When given the difference, use the difference in parts, not the total parts.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Red : blue = 2 : 5; difference = 18",
+          "note": ""
+        },
+        {
+          "work": "5 − 2 = 3 parts",
+          "note": ""
+        },
+        {
+          "work": "One part = 18 ÷ 3 = 6",
+          "note": ""
+        },
+        {
+          "work": "Red = 2 × 6 = 12; blue = 5 × 6 = 30",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-11-ratio-missing",
       "unit": "y9-unit-11",
       "year": 9,
@@ -14436,6 +17056,20 @@
       ],
       "mistake": "A straight line that misses the origin does not show direct proportion.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3 pens → £4.50",
+          "note": ""
+        },
+        {
+          "work": "1 pen → £4.50 ÷ 3 = £1.50",
+          "note": ""
+        },
+        {
+          "work": "8 pens → 8 × £1.50 = £12",
+          "note": "Same price per pen"
+        }
+      ],
       "id": "y9-unit-11-direct",
       "unit": "y9-unit-11",
       "year": 9,
@@ -14507,6 +17141,20 @@
       ],
       "mistake": "Do not multiply in both directions.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "£1 = €1.25",
+          "note": "Example rate"
+        },
+        {
+          "work": "£20 → 20 × 1.25 = €25",
+          "note": ""
+        },
+        {
+          "work": "€45 → 45 ÷ 1.25 = £36",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-11-conversion-graphs",
       "unit": "y9-unit-11",
       "year": 9,
@@ -14581,6 +17229,20 @@
       ],
       "mistake": "A fixed starting charge means the total cost is not directly proportional to the number of items.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "4 notebooks → £6",
+          "note": ""
+        },
+        {
+          "work": "1 notebook → £6 ÷ 4 = £1.50",
+          "note": ""
+        },
+        {
+          "work": "10 notebooks → 10 × £1.50 = £15",
+          "note": "Same price per notebook"
+        }
+      ],
       "id": "y9-unit-11-proportion",
       "unit": "y9-unit-11",
       "year": 9,
@@ -14652,6 +17314,24 @@
       ],
       "mistake": "A scale ratio compares matching length units. Convert before comparing.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "1 : 200; drawing = 3 cm",
+          "note": ""
+        },
+        {
+          "work": "Real length = 3 × 200 = 600 cm",
+          "note": ""
+        },
+        {
+          "work": "= 6 m",
+          "note": ""
+        },
+        {
+          "work": "£35 × 1.20 = €42",
+          "note": "Example rate: £1 = €1.20"
+        }
+      ],
       "id": "y9-unit-11-scale",
       "unit": "y9-unit-11",
       "year": 9,
@@ -14723,6 +17403,20 @@
       ],
       "mistake": "The correct protractor scale starts at zero on the arm you lined up.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Smaller angle = 72°",
+          "note": ""
+        },
+        {
+          "work": "Reflex angle = 360° − 72°",
+          "note": ""
+        },
+        {
+          "work": "= 288°",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-constructions-measure",
       "unit": "y9-wr-constructions",
       "year": 9,
@@ -14794,6 +17488,24 @@
       ],
       "mistake": "A scale ratio compares matching length units. Convert before comparing.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "1 : 200; drawing = 3 cm",
+          "note": ""
+        },
+        {
+          "work": "Real length = 3 × 200 = 600 cm",
+          "note": ""
+        },
+        {
+          "work": "= 6 m",
+          "note": ""
+        },
+        {
+          "work": "£35 × 1.20 = €42",
+          "note": "Example rate: £1 = €1.20"
+        }
+      ],
       "id": "y9-wr-constructions-scale",
       "unit": "y9-wr-constructions",
       "year": 9,
@@ -14865,6 +17577,20 @@
       ],
       "mistake": "Keep the compass width fixed while drawing each arc.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "AB = 6 cm",
+          "note": "Draw the base"
+        },
+        {
+          "work": "A: radius 5 cm; B: radius 4 cm",
+          "note": "Draw two arcs"
+        },
+        {
+          "work": "C = arc crossing",
+          "note": "Join A to C and B to C"
+        }
+      ],
       "id": "y9-wr-constructions-construct-triangle",
       "unit": "y9-wr-constructions",
       "year": 9,
@@ -14936,6 +17662,20 @@
       ],
       "mistake": "Measuring a midpoint alone does not show the compass construction.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "AB = 8 cm; compass radius = 5 cm",
+          "note": ""
+        },
+        {
+          "work": "Arc centres: A and B",
+          "note": "Equal arcs above and below"
+        },
+        {
+          "work": "Crossings → straight line",
+          "note": "Midpoint at 90°"
+        }
+      ],
       "id": "y9-wr-constructions-bisectors",
       "unit": "y9-wr-constructions",
       "year": 9,
@@ -15007,6 +17747,24 @@
       ],
       "mistake": "Three matching angles alone do not prove congruence.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Triangle A: 4, 5, 6 cm",
+          "note": ""
+        },
+        {
+          "work": "Triangle B: 4, 5, 6 cm",
+          "note": ""
+        },
+        {
+          "work": "A ≅ B (SSS)",
+          "note": "Three matching sides"
+        },
+        {
+          "work": "40°, 60°, 80° only → similar",
+          "note": "Angles do not fix size"
+        }
+      ],
       "id": "y9-wr-constructions-congruence",
       "unit": "y9-wr-constructions",
       "year": 9,
@@ -15078,6 +17836,20 @@
       ],
       "mistake": "Match corresponding sides, not just the nearest labels.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Small rectangle: 3 cm × 5 cm",
+          "note": ""
+        },
+        {
+          "work": "Scale factor = 12 ÷ 3 = 4",
+          "note": ""
+        },
+        {
+          "work": "Other side = 5 × 4 = 20 cm",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-similarity-similarity",
       "unit": "y9-wr-similarity",
       "year": 9,
@@ -15149,6 +17921,20 @@
       ],
       "mistake": "The drawing’s orientation does not change which sides match.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Small: base 4 cm, height 3 cm",
+          "note": ""
+        },
+        {
+          "work": "Scale factor = 10 ÷ 4 = 2.5",
+          "note": ""
+        },
+        {
+          "work": "New height = 3 × 2.5 = 7.5 cm",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-similarity-similar-triangles",
       "unit": "y9-wr-similarity",
       "year": 9,
@@ -15222,6 +18008,20 @@
       ],
       "mistake": "2a² and (2a)² do not usually give the same answer.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "a = 4",
+          "note": ""
+        },
+        {
+          "work": "3a² = 3 × 16 = 48",
+          "note": "Square a first"
+        },
+        {
+          "work": "(3a)² = 12² = 144",
+          "note": "Square everything in brackets"
+        }
+      ],
       "id": "y9-unit-05-notation",
       "unit": "y9-unit-05",
       "year": 9,
@@ -15293,6 +18093,20 @@
       ],
       "mistake": "3x + 2y cannot be combined into 5xy.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "5a + 3b − 2a + b",
+          "note": ""
+        },
+        {
+          "work": "= (5a − 2a) + (3b + b)",
+          "note": "Group like terms"
+        },
+        {
+          "work": "= 3a + 4b",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-05-like",
       "unit": "y9-unit-05",
       "year": 9,
@@ -15364,6 +18178,24 @@
       ],
       "mistake": "(−3)² is 9, but −3² means −(3²), which is −9.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "x = −3, y = 2",
+          "note": ""
+        },
+        {
+          "work": "x² − 4y = (−3)² − 4 × 2",
+          "note": "Put the values in"
+        },
+        {
+          "work": "= 9 − 8",
+          "note": ""
+        },
+        {
+          "work": "= 1",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-05-substitute",
       "unit": "y9-unit-05",
       "year": 9,
@@ -15435,6 +18267,20 @@
       ],
       "mistake": "Multiply every term in a bracket, including any negative term.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "−3(2x − 5)",
+          "note": ""
+        },
+        {
+          "work": "= −6x + 15",
+          "note": "Multiply each term by −3"
+        },
+        {
+          "work": "12x + 18 = 6(2x + 3)",
+          "note": "Factorise: take out 6"
+        }
+      ],
       "id": "y9-unit-05-expand",
       "unit": "y9-unit-05",
       "year": 9,
@@ -15506,6 +18352,20 @@
       ],
       "mistake": "Check by expanding; every original term must return.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "6x + 15",
+          "note": ""
+        },
+        {
+          "work": "= 3 × 2x + 3 × 5",
+          "note": "Shared factor: 3"
+        },
+        {
+          "work": "= 3(2x + 5)",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-05-factorise",
       "unit": "y9-unit-05",
       "year": 9,
@@ -15579,6 +18439,20 @@
       ],
       "mistake": "Do not multiply only the first terms and the last terms. There are four products.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(x + 3)(x − 2)",
+          "note": ""
+        },
+        {
+          "work": "= x² − 2x + 3x − 6",
+          "note": "Multiply all four pairs"
+        },
+        {
+          "work": "= x² + x − 6",
+          "note": "Collect like terms"
+        }
+      ],
       "id": "y9-unit-05-double",
       "unit": "y9-unit-05",
       "year": 9,
@@ -15650,6 +18524,24 @@
       ],
       "mistake": "The zero-product rule only applies when the product equals zero.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "x² + 5x + 6 = 0",
+          "note": ""
+        },
+        {
+          "work": "(x + 2)(x + 3) = 0",
+          "note": "Factorise"
+        },
+        {
+          "work": "x + 2 = 0 or x + 3 = 0",
+          "note": ""
+        },
+        {
+          "work": "x = −2 or x = −3",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-05-quadratic-solve",
       "unit": "y9-unit-05",
       "year": 9,
@@ -15721,6 +18613,24 @@
       ],
       "mistake": "Checking one value can find an error, but does not prove an identity for every value.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(x + 1)(x + 2)(x + 3)",
+          "note": ""
+        },
+        {
+          "work": "= (x² + 3x + 2)(x + 3)",
+          "note": ""
+        },
+        {
+          "work": "= x³ + 3x² + 3x² + 9x + 2x + 6",
+          "note": ""
+        },
+        {
+          "work": "= x³ + 6x² + 11x + 6",
+          "note": "Collect like terms"
+        }
+      ],
       "id": "y9-unit-05-algebra-extend",
       "unit": "y9-unit-05",
       "year": 9,
@@ -15792,6 +18702,20 @@
       ],
       "mistake": "You cannot cancel the x from (x + 3)/x. It is part of a sum.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "x/3 + x/4",
+          "note": ""
+        },
+        {
+          "work": "= 4x/12 + 3x/12",
+          "note": "Common denominator: 12"
+        },
+        {
+          "work": "= 7x/12",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-05-fraction-algebra",
       "unit": "y9-unit-05",
       "year": 9,
@@ -15864,6 +18788,24 @@
       ],
       "mistake": "Use Pythagoras only in a right-angled triangle.",
       "model": "triangle",
+      "worked_rows": [
+        {
+          "work": "Shorter sides: 6 cm, 8 cm",
+          "note": ""
+        },
+        {
+          "work": "c² = 6² + 8²",
+          "note": ""
+        },
+        {
+          "work": "c² = 36 + 64 = 100",
+          "note": ""
+        },
+        {
+          "work": "c = √100 = 10 cm",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-13-pythagoras",
       "unit": "y9-unit-13",
       "year": 9,
@@ -15935,6 +18877,24 @@
       ],
       "mistake": "The longest side must be the one squared on its own.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "5² + 12² = 25 + 144 = 169",
+          "note": ""
+        },
+        {
+          "work": "13² = 169 ✓",
+          "note": "Right-angled triangle"
+        },
+        {
+          "work": "(1,2) → (6,14): gaps 5 and 12",
+          "note": ""
+        },
+        {
+          "work": "Distance = √(5² + 12²) = 13",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-13-pythagoras-check",
       "unit": "y9-unit-13",
       "year": 9,
@@ -16006,6 +18966,24 @@
       ],
       "mistake": "Opposite and adjacent swap when you choose the other acute angle.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Angle = 30°; hypotenuse = 10 cm",
+          "note": ""
+        },
+        {
+          "work": "sin 30° = opposite/10",
+          "note": ""
+        },
+        {
+          "work": "Opposite = 10 × sin 30°",
+          "note": ""
+        },
+        {
+          "work": "= 5 cm",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-13-trig",
       "unit": "y9-unit-13",
       "year": 9,
@@ -16077,6 +19055,20 @@
       ],
       "mistake": "Keep exact roots and fractions until the end if an exact answer is requested.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Horizontal distance = 20 m; angle = 45°",
+          "note": ""
+        },
+        {
+          "work": "Height = 20 × tan 45°",
+          "note": "Above eye level"
+        },
+        {
+          "work": "= 20 × 1 = 20 m",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-13-trig-exact",
       "unit": "y9-unit-13",
       "year": 9,
@@ -16150,6 +19142,20 @@
       ],
       "mistake": "Do not forget the negative solution when solving x² = a positive number.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "y = x² − 4",
+          "note": ""
+        },
+        {
+          "work": "0 = x² − 4 → x = −2 or 2",
+          "note": "x-intercepts: y = 0"
+        },
+        {
+          "work": "y = 0² − 4 = −4",
+          "note": "y-intercept: x = 0"
+        }
+      ],
       "id": "y9-unit-19-curves",
       "unit": "y9-unit-19",
       "year": 9,
@@ -16228,6 +19234,20 @@
       ],
       "mistake": "Do not join the two reciprocal branches across x = 0.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "y = 2ˣ: (−1,0.5), (0,1), (1,2), (2,4)",
+          "note": ""
+        },
+        {
+          "work": "y = 1/x: (−2,−0.5), (−1,−1), (1,1), (2,0.5)",
+          "note": ""
+        },
+        {
+          "work": "y = x³: (−2,−8), (−1,−1), (0,0), (1,1), (2,8)",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-19-graph-families",
       "unit": "y9-unit-19",
       "year": 9,
@@ -16299,6 +19319,24 @@
       ],
       "mistake": "The overlap belongs to the union once, not twice.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "A only: 8; both: 4; B only: 5; neither: 3",
+          "note": ""
+        },
+        {
+          "work": "A ∩ B: 4",
+          "note": "Both"
+        },
+        {
+          "work": "A ∪ B: 8 + 4 + 5 = 17",
+          "note": "Either or both"
+        },
+        {
+          "work": "P(A) = (8 + 4)/20 = 3/5",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-probability-sets",
       "unit": "y9-wr-probability",
       "year": 9,
@@ -16370,6 +19408,20 @@
       ],
       "mistake": "Count actual outcomes or objects. Do not assume colour categories are equally likely.",
       "model": "probability",
+      "worked_rows": [
+        {
+          "work": "Die outcomes above 4: {5, 6}",
+          "note": ""
+        },
+        {
+          "work": "P(above 4) = 2/6 = 1/3",
+          "note": ""
+        },
+        {
+          "work": "P(not above 4) = 1 − 1/3 = 2/3",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-probability-probability",
       "unit": "y9-wr-probability",
       "year": 9,
@@ -16441,6 +19493,20 @@
       ],
       "mistake": "A short run of results does not prove an object is fair or unfair.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Red: 18 out of 50 spins",
+          "note": ""
+        },
+        {
+          "work": "Relative frequency = 18/50 = 0.36",
+          "note": ""
+        },
+        {
+          "work": "Next 100 spins: about 36 reds",
+          "note": "Estimate, not a guarantee"
+        }
+      ],
       "id": "y9-wr-probability-experiment",
       "unit": "y9-wr-probability",
       "year": 9,
@@ -16512,6 +19578,16 @@
       ],
       "mistake": "A long-term probability does not force an exact count in one experiment.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "P(4) = 1/6",
+          "note": ""
+        },
+        {
+          "work": "Expected 4s = 180 × 1/6 = 30",
+          "note": "In 180 rolls; not guaranteed"
+        }
+      ],
       "id": "y9-wr-probability-expected",
       "unit": "y9-wr-probability",
       "year": 9,
@@ -16583,6 +19659,16 @@
       ],
       "mistake": "Drawing without replacement can change the next probability.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "P(H then H) = ½ × ½ = ¼",
+          "note": "Independent coin tosses"
+        },
+        {
+          "work": "P(1 or 6) = 1/6 + 1/6 = 1/3",
+          "note": "One die roll: cannot get both"
+        }
+      ],
       "id": "y9-wr-probability-independent",
       "unit": "y9-wr-probability",
       "year": 9,
@@ -16654,6 +19740,20 @@
       ],
       "mistake": "A full description needs both centre and scale factor.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(2,1), centre (0,0), factor 3",
+          "note": ""
+        },
+        {
+          "work": "(2 × 3, 1 × 3)",
+          "note": ""
+        },
+        {
+          "work": "Image = (6,3)",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-transformations-enlargement",
       "unit": "y9-wr-transformations",
       "year": 9,
@@ -16725,6 +19825,16 @@
       ],
       "mistake": "Clockwise and anticlockwise give different images for a 90° turn.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(3,1) → (−1,3)",
+          "note": "90° anticlockwise about (0,0)"
+        },
+        {
+          "work": "(x,y) → (−x,−y)",
+          "note": "180° about (0,0)"
+        }
+      ],
       "id": "y9-wr-transformations-rotation",
       "unit": "y9-wr-transformations",
       "year": 9,
@@ -16796,6 +19906,20 @@
       ],
       "mistake": "In a column vector, the horizontal movement is the top number.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(−1,4) + (3,−2)",
+          "note": "3 right, 2 down"
+        },
+        {
+          "work": "(−1 + 3, 4 − 2)",
+          "note": ""
+        },
+        {
+          "work": "Image = (2,2)",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-transformations-translation",
       "unit": "y9-wr-transformations",
       "year": 9,
@@ -16867,6 +19991,16 @@
       ],
       "mistake": "Reflecting in y = x swaps coordinates; it does not just change a sign.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(2,1) → mirror x = 4 → (6,1)",
+          "note": ""
+        },
+        {
+          "work": "4 − 2 = 2; 6 − 4 = 2",
+          "note": "Equal distances from the mirror"
+        }
+      ],
       "id": "y9-wr-transformations-reflection",
       "unit": "y9-wr-transformations",
       "year": 9,
@@ -16938,6 +20072,20 @@
       ],
       "mistake": "Apply transformations in the order given.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(1,2) → (4,2) → (−4,2)",
+          "note": "Right 3; reflect in y-axis"
+        },
+        {
+          "work": "(1,2) → (−1,2) → (2,2)",
+          "note": "Reflect first; then right 3"
+        },
+        {
+          "work": "(−4,2) ≠ (2,2)",
+          "note": "Order matters"
+        }
+      ],
       "id": "y9-wr-transformations-transform-series",
       "unit": "y9-wr-transformations",
       "year": 9,
@@ -17009,6 +20157,24 @@
       ],
       "mistake": "A solution must satisfy both equations.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "x + y = 9; x − y = 3",
+          "note": ""
+        },
+        {
+          "work": "2x = 12",
+          "note": "Add the equations"
+        },
+        {
+          "work": "x = 6",
+          "note": ""
+        },
+        {
+          "work": "y = 9 − 6 = 3",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-simultaneous-simultaneous",
       "unit": "y9-wr-simultaneous",
       "year": 9,
@@ -17080,6 +20246,24 @@
       ],
       "mistake": "Multiply every term on both sides of an equation.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2x + y = 11; 3x + 2y = 19",
+          "note": ""
+        },
+        {
+          "work": "4x + 2y = 22",
+          "note": "Double the first equation"
+        },
+        {
+          "work": "x = 3",
+          "note": "Subtract the second equation"
+        },
+        {
+          "work": "y = 11 − 2 × 3 = 5",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-simultaneous-simultaneous-adjust",
       "unit": "y9-wr-simultaneous",
       "year": 9,
@@ -17151,6 +20335,24 @@
       ],
       "mistake": "Opposite and adjacent swap when you choose the other acute angle.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Angle = 30°; hypotenuse = 10 cm",
+          "note": ""
+        },
+        {
+          "work": "sin 30° = opposite/10",
+          "note": ""
+        },
+        {
+          "work": "Opposite = 10 × sin 30°",
+          "note": ""
+        },
+        {
+          "work": "= 5 cm",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-trig-trig",
       "unit": "y9-wr-trig",
       "year": 9,
@@ -17222,6 +20424,24 @@
       ],
       "mistake": "sin⁻¹ is inverse sine here; it is not 1/sin.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Opposite = 3 cm; adjacent = 4 cm",
+          "note": ""
+        },
+        {
+          "work": "tan θ = 3/4",
+          "note": ""
+        },
+        {
+          "work": "θ = tan⁻¹(0.75)",
+          "note": ""
+        },
+        {
+          "work": "θ ≈ 36.9°",
+          "note": "Calculator in degrees"
+        }
+      ],
       "id": "y9-wr-trig-trig-angle",
       "unit": "y9-wr-trig",
       "year": 9,
@@ -17293,6 +20513,16 @@
       ],
       "mistake": "The longest labelled side in a perspective sketch is not always the hypotenuse; locate the right angle.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "c = √(5² + 12²) = 13",
+          "note": "Two shorter sides known"
+        },
+        {
+          "work": "Opposite = 10 × sin 30° = 5",
+          "note": "Hypotenuse and angle known"
+        }
+      ],
       "id": "y9-wr-trig-trig-choice",
       "unit": "y9-wr-trig",
       "year": 9,
@@ -17364,6 +20594,20 @@
       ],
       "mistake": "Keep exact roots and fractions until the end if an exact answer is requested.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Horizontal distance = 20 m; angle = 45°",
+          "note": ""
+        },
+        {
+          "work": "Height = 20 × tan 45°",
+          "note": "Above eye level"
+        },
+        {
+          "work": "= 20 × 1 = 20 m",
+          "note": ""
+        }
+      ],
       "id": "y9-wr-trig-trig-exact",
       "unit": "y9-wr-trig",
       "year": 9,
@@ -17435,6 +20679,20 @@
       ],
       "mistake": "Do not line up the last digits if the decimal points then sit in different columns.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "13.70 − 8.46",
+          "note": ""
+        },
+        {
+          "work": "= 5.24",
+          "note": "Line up decimal points"
+        },
+        {
+          "work": "8.46 + 5.24 = 13.70 ✓",
+          "note": "Check"
+        }
+      ],
       "id": "y9-unit-01-add",
       "unit": "y9-unit-01",
       "year": 9,
@@ -17506,6 +20764,20 @@
       ],
       "mistake": "Multiplying by 0.1 is dividing by 10, not multiplying by 10.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "24 × 35 = 840",
+          "note": ""
+        },
+        {
+          "work": "2.4 × 0.35 = 0.840",
+          "note": "3 decimal places in total"
+        },
+        {
+          "work": "= 0.84",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-01-multiply",
       "unit": "y9-unit-01",
       "year": 9,
@@ -17577,6 +20849,24 @@
       ],
       "mistake": "Change both numbers by the same factor, not just one of them.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "6.3 ÷ 0.3",
+          "note": ""
+        },
+        {
+          "work": "= 63 ÷ 3",
+          "note": "Multiply both numbers by 10"
+        },
+        {
+          "work": "= 21",
+          "note": ""
+        },
+        {
+          "work": "21 × 0.3 = 6.3 ✓",
+          "note": "Check"
+        }
+      ],
       "id": "y9-unit-01-divide",
       "unit": "y9-unit-01",
       "year": 9,
@@ -17648,6 +20938,20 @@
       ],
       "mistake": "Subtracting a negative number moves you to the right on a number line.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "−4 + 7 = 3",
+          "note": "Move 7 right"
+        },
+        {
+          "work": "5 − (−3) = 5 + 3 = 8",
+          "note": ""
+        },
+        {
+          "work": "2 − (−6) = 8°C",
+          "note": "Rise from −6°C to 2°C"
+        }
+      ],
       "id": "y9-unit-01-directed",
       "unit": "y9-unit-01",
       "year": 9,
@@ -17719,6 +21023,16 @@
       ],
       "mistake": "The zeros before the first non-zero digit do not count as significant figures.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "0.006847 → 0.0068",
+          "note": "2 significant figures"
+        },
+        {
+          "work": "6, 8 → next digit 4",
+          "note": "Keep the 8"
+        }
+      ],
       "id": "y9-unit-01-round",
       "unit": "y9-unit-01",
       "year": 9,
@@ -17790,6 +21104,16 @@
       ],
       "mistake": "An estimate is a check, not an exact answer.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "19.6 × 4.8 ≈ 20 × 5 = 100",
+          "note": "Estimate"
+        },
+        {
+          "work": "11.5 cm ≤ length < 12.5 cm",
+          "note": "Rounds to 12 cm"
+        }
+      ],
       "id": "y9-unit-01-estimate",
       "unit": "y9-unit-01",
       "year": 9,
@@ -17861,6 +21185,16 @@
       ],
       "mistake": "If repeats are banned, do not keep using the original number of choices at every stage.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3 shirts × 4 trousers",
+          "note": ""
+        },
+        {
+          "work": "= 12 outfits",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-01-counting",
       "unit": "y9-unit-01",
       "year": 9,
@@ -17934,6 +21268,20 @@
       ],
       "mistake": "√25 means the positive square root, 5. Solving x² = 25 gives both 5 and −5.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "8⁽²ᐟ³⁾",
+          "note": "Cube root, then square"
+        },
+        {
+          "work": "∛8 = 2",
+          "note": ""
+        },
+        {
+          "work": "2² = 4",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-02-indices",
       "unit": "y9-unit-02",
       "year": 9,
@@ -18005,6 +21353,20 @@
       ],
       "mistake": "“Two negatives make a positive” applies here to multiplying or dividing, not to every calculation.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "(−6) × (−4) = 24",
+          "note": "Two negatives give a positive"
+        },
+        {
+          "work": "24 ÷ (−4) = −6",
+          "note": ""
+        },
+        {
+          "work": "(−3)² = 9; −3² = −9",
+          "note": "Brackets change what is squared"
+        }
+      ],
       "id": "y9-unit-02-negative-products",
       "unit": "y9-unit-02",
       "year": 9,
@@ -18076,6 +21438,20 @@
       ],
       "mistake": "Multiplication does not always come before division. Work left to right between those two operations.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "18 ÷ 3 × 2",
+          "note": ""
+        },
+        {
+          "work": "= 6 × 2",
+          "note": "Work left to right"
+        },
+        {
+          "work": "= 12",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-02-order",
       "unit": "y9-unit-02",
       "year": 9,
@@ -18147,6 +21523,16 @@
       ],
       "mistake": "Do not forget to reverse the sign when multiplying or dividing by a negative number.",
       "model": "inequality",
+      "worked_rows": [
+        {
+          "work": "−2x < 6",
+          "note": ""
+        },
+        {
+          "work": "x > −3",
+          "note": "Divide by −2; reverse the sign"
+        }
+      ],
       "id": "y9-unit-07-inequality",
       "unit": "y9-unit-07",
       "year": 9,
@@ -18226,6 +21612,20 @@
       ],
       "mistake": "“Add 5” finds the next term. “5n + 3” finds a term from its position.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "7, 11, 15, 19",
+          "note": "Gap = 4"
+        },
+        {
+          "work": "4n + 3",
+          "note": "Add 3 to multiples of 4"
+        },
+        {
+          "work": "4 × 20 + 3 = 83",
+          "note": "Term 20"
+        }
+      ],
       "id": "y9-unit-08-nth",
       "unit": "y9-unit-08",
       "year": 9,
@@ -18297,6 +21697,24 @@
       ],
       "mistake": "Use the second differences for a quadratic rule, not just the first difference.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "3, 8, 15, 24",
+          "note": "Gaps: 5, 7, 9"
+        },
+        {
+          "work": "3−1, 8−4, 15−9, 24−16",
+          "note": "Subtract n²"
+        },
+        {
+          "work": "2, 4, 6, 8 = 2n",
+          "note": ""
+        },
+        {
+          "work": "Rule = n² + 2n",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-08-quadratic-sequence",
       "unit": "y9-unit-08",
       "year": 9,
@@ -18368,6 +21786,20 @@
       ],
       "mistake": "A growing sequence does not always add the same amount each time.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "1, 4, 9, 16",
+          "note": "Square numbers"
+        },
+        {
+          "work": "+3, +5, +7",
+          "note": "Gaps grow by 2"
+        },
+        {
+          "work": "3 → 6 → 12 → 24",
+          "note": "A different pattern: ×2"
+        }
+      ],
       "id": "y9-unit-08-nonlinear",
       "unit": "y9-unit-08",
       "year": 9,
@@ -18439,6 +21871,20 @@
       ],
       "mistake": "Use angle facts rather than guessing from how a drawing looks.",
       "model": "angle",
+      "worked_rows": [
+        {
+          "work": "Isosceles triangle; top angle = 38°",
+          "note": ""
+        },
+        {
+          "work": "Base angles total = 180° − 38° = 142°",
+          "note": ""
+        },
+        {
+          "work": "Each base angle = 142° ÷ 2 = 71°",
+          "note": "Two equal angles"
+        }
+      ],
       "id": "y9-unit-12-angles",
       "unit": "y9-unit-12",
       "year": 9,
@@ -18510,6 +21956,20 @@
       ],
       "mistake": "Use parallel-line markings before applying a parallel-line angle rule.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Regular hexagon: 6 sides",
+          "note": ""
+        },
+        {
+          "work": "Exterior angle = 360° ÷ 6 = 60°",
+          "note": ""
+        },
+        {
+          "work": "Interior angle = 180° − 60° = 120°",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-12-parallel",
       "unit": "y9-unit-12",
       "year": 9,
@@ -18581,6 +22041,24 @@
       ],
       "mistake": "Order the list before finding the median. Keep repeated values in the list.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2, 3, 3, 8",
+          "note": ""
+        },
+        {
+          "work": "Mean = 16 ÷ 4 = 4",
+          "note": "Total ÷ number of values"
+        },
+        {
+          "work": "Median = 3; mode = 3",
+          "note": "Middle; most common"
+        },
+        {
+          "work": "Range = 8 − 2 = 6",
+          "note": "Largest − smallest"
+        }
+      ],
       "id": "y9-unit-14-mean",
       "unit": "y9-unit-14",
       "year": 9,
@@ -18656,6 +22134,24 @@
       ],
       "mistake": "Divide by total frequency, not by the number of rows.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Value: 1, 2, 3; frequency: 2, 5, 3",
+          "note": ""
+        },
+        {
+          "work": "Total = 1 × 2 + 2 × 5 + 3 × 3 = 21",
+          "note": ""
+        },
+        {
+          "work": "Count = 2 + 5 + 3 = 10",
+          "note": ""
+        },
+        {
+          "work": "Mean = 21 ÷ 10 = 2.1",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-14-frequency",
       "unit": "y9-unit-14",
       "year": 9,
@@ -18727,6 +22223,24 @@
       ],
       "mistake": "A key is essential. The same digits can stand for different place values.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "2 ¦ 1 4 4 8",
+          "note": "Key: 2 ¦ 4 = 24"
+        },
+        {
+          "work": "21, 24, 24, 28",
+          "note": ""
+        },
+        {
+          "work": "Median = (24 + 24) ÷ 2 = 24",
+          "note": ""
+        },
+        {
+          "work": "Range = 28 − 21 = 7",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-14-stem",
       "unit": "y9-unit-14",
       "year": 9,
@@ -18798,6 +22312,20 @@
       ],
       "mistake": "Always read the key before counting pictogram symbols.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "● = 4 pupils",
+          "note": "Key"
+        },
+        {
+          "work": "● ● ◐",
+          "note": "2½ symbols"
+        },
+        {
+          "work": "4 + 4 + 2 = 10 pupils",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-15-charts",
       "unit": "y9-unit-15",
       "year": 9,
@@ -18869,6 +22397,20 @@
       ],
       "mistake": "A sector is a share of that chart's total, not a fixed number of people.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "15 out of 60 pupils walk",
+          "note": ""
+        },
+        {
+          "work": "Fraction = 15/60 = 1/4",
+          "note": ""
+        },
+        {
+          "work": "Sector = 1/4 × 360° = 90°",
+          "note": ""
+        }
+      ],
       "id": "y9-unit-15-pie",
       "unit": "y9-unit-15",
       "year": 9,
@@ -18940,6 +22482,20 @@
       ],
       "mistake": "For unequal class widths, compare bar areas rather than just bar heights.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "10 ≤ x < 30; frequency = 12",
+          "note": ""
+        },
+        {
+          "work": "Width = 30 − 10 = 20",
+          "note": ""
+        },
+        {
+          "work": "Density = 12 ÷ 20 = 0.6",
+          "note": "Bar height"
+        }
+      ],
       "id": "y9-unit-15-histogram",
       "unit": "y9-unit-15",
       "year": 9,
@@ -19013,6 +22569,20 @@
       ],
       "mistake": "Correlation does not by itself prove that one thing causes the other.",
       "model": null,
+      "worked_rows": [
+        {
+          "work": "Hot weather → more ice creams",
+          "note": ""
+        },
+        {
+          "work": "Hot weather → more sunburn",
+          "note": ""
+        },
+        {
+          "work": "Ice creams ≠ cause of sunburn",
+          "note": "A shared cause affects both"
+        }
+      ],
       "id": "y9-unit-16-scatter",
       "unit": "y9-unit-16",
       "year": 9,

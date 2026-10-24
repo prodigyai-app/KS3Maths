@@ -8,7 +8,11 @@ from revision import R
 from white_rose import PLAN,OPTIONAL,VERSION,CHECKED,GUIDANCE,OVERVIEW,extend
 from content import skill
 from revision import pack
+from worked_examples import EXAMPLES
 extend(K,R,skill,pack)
+assert set(EXAMPLES) == set(K), 'Each concept needs a calculation-first example.'
+for key, rows in EXAMPLES.items():
+ K[key]['worked_rows'] = rows
 ROOT=Path(__file__).resolve().parents[1]
 subject='Maths' if ROOT.name=='KS3Maths' else 'Science'
 site='ks3-'+subject.lower()

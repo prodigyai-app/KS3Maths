@@ -15,3 +15,15 @@
 .ks-maths-diagram svg polygon{stroke:var(--ink);stroke-width:2;vector-effect:non-scaling-stroke}.ks-maths-diagram svg .tile-x{fill:var(--accent-soft);stroke:var(--accent)}.ks-maths-diagram svg .tile-one{fill:var(--bg);stroke:var(--data)}.ks-maths-diagram svg rect.dash{fill:none}.ks-diagram-key{font-size:.94rem;text-align:center;line-height:1.5;color:var(--muted)}.ks-extra-toggle{display:flex;align-items:center;gap:10px;margin-top:16px;cursor:pointer}.ks-extra-toggle input{width:20px;height:20px;accent-color:var(--accent)}.ks-route-note{font-weight:600;color:var(--accent);line-height:1.5}
 
 @media(max-width:650px){.ks-maths-diagram[data-representation="frequency-tree"] svg text{font-size:24px}}
+
+/* Working first, with optional short notes alongside each step. */
+.ks-working{list-style:none;margin:0;padding:0;display:grid;gap:0;width:100%}
+.ks-working>li{display:grid;grid-template-columns:minmax(0,1fr) minmax(130px,.48fr);gap:16px;align-items:center;padding:14px 0;border-bottom:1px solid var(--line)}
+.ks-working>li:last-child{border-bottom:0}
+.ks-working-maths{font:600 clamp(1.15rem,2.1vw,1.65rem)/1.5 var(--f-body);font-variant-numeric:lining-nums tabular-nums;white-space:pre-wrap;overflow-wrap:anywhere;color:var(--ink)}
+.ks-working-note{font-size:1rem;line-height:1.4;color:var(--muted);border-left:3px solid var(--accent);padding-left:12px}
+.ks-working>li:not(:has(.ks-working-note)){grid-template-columns:minmax(0,1fr)}
+.ks-method-help{border-top:1px solid var(--line);padding-top:14px;color:var(--muted)}
+.ks-method-help>summary{cursor:pointer;font-size:.95rem;width:fit-content}
+.ks-method-help .ks-points{font-size:1rem;margin-top:16px;gap:12px}
+@media(max-width:650px){.ks-working>li{grid-template-columns:minmax(0,1fr);gap:6px;padding:12px 0}.ks-working-note{font-size:.9rem}.ks-working-maths{font-size:1.2rem}}
