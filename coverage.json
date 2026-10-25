@@ -1,16 +1,16 @@
 {
   "course": "KS3 Maths",
-  "reviewed": "2026-10-24",
+  "reviewed": "2026-10-25",
   "alignment": {
-    "scheme": "White Rose Maths secondary Version 3",
-    "checked": "2026-10-24",
+    "scheme": "Department teaching order with White Rose-style representations",
+    "checked": "2026-10-25",
     "guidance": "https://assets.whiteroseeducation.com/Resources/new-secondary-maths/supporting-materials/guidance/WRE%20Maths%20v3%20-%20Curriculum%20documentation.pdf",
     "overview": "https://assets.whiteroseeducation.com/resource-pages/secondary/Secondary%20maths%20overviews.pdf",
     "document_year": 2026,
-    "main_blocks": 52,
-    "optional_blocks": 2,
-    "extra_blocks": 8,
-    "scope": "Block sequence and topic coverage, with original revision lessons and representation types. This is an independent revision companion, not a reproduction of every White Rose small-step resource or an endorsed White Rose product."
+    "main_blocks": 49,
+    "optional_blocks": 0,
+    "extra_blocks": 11,
+    "scope": "Year 7 and Year 8 follow the supplied numbered teaching folders and 2026–27 schemes. Year 9 follows the Y9 Combined (H+F) GCSE teaching sequence. Revision resources consolidate related lessons; original White Rose-style representations are retained. Supplementary blocks sit outside the main route."
   },
   "learning": {
     "format": "Short swipeable slides, labelled diagrams, worked steps, word cards and practice",
@@ -31,7 +31,8 @@
           "block": 1,
           "optional": false,
           "extra": false,
-          "guidance_page": 74,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-01-sequence",
@@ -52,12 +53,13 @@
         },
         {
           "id": "y7-unit-02",
-          "title": "Algebraic notation and substitution",
+          "title": "Algebraic thinking",
           "term": "Autumn",
           "block": 2,
           "optional": false,
           "extra": false,
-          "guidance_page": 75,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-02-function",
@@ -78,12 +80,13 @@
         },
         {
           "id": "y7-unit-03",
-          "title": "Expressions and equations",
+          "title": "Equality and equivalence",
           "term": "Autumn",
           "block": 3,
           "optional": false,
           "extra": false,
-          "guidance_page": 76,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-03-balance",
@@ -104,12 +107,13 @@
         },
         {
           "id": "y7-unit-04",
-          "title": "Place value, ordering and rounding",
+          "title": "Place value and ordering",
           "term": "Autumn",
           "block": 4,
           "optional": false,
           "extra": false,
-          "guidance_page": 77,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-04-place",
@@ -122,13 +126,13 @@
               "extra_challenge": false
             },
             {
-              "id": "y7-unit-04-round",
-              "title": "Rounding numbers",
-              "extra_challenge": true
-            },
-            {
               "id": "y7-unit-04-standard",
               "title": "Standard form",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-04-round",
+              "title": "Rounding numbers",
               "extra_challenge": true
             }
           ]
@@ -140,7 +144,8 @@
           "block": 5,
           "optional": false,
           "extra": false,
-          "guidance_page": 78,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-05-add",
@@ -155,7 +160,7 @@
             {
               "id": "y7-unit-05-divide",
               "title": "Dividing by decimals",
-              "extra_challenge": true
+              "extra_challenge": false
             },
             {
               "id": "y7-unit-05-order",
@@ -171,7 +176,8 @@
           "block": 6,
           "optional": false,
           "extra": false,
-          "guidance_page": 79,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-06-mean",
@@ -192,12 +198,13 @@
         },
         {
           "id": "y7-unit-07",
-          "title": "Rounding and estimation",
-          "term": "Autumn",
-          "block": 7,
+          "title": "Estimating and rounding",
+          "term": "Spring",
+          "block": 1,
           "optional": false,
           "extra": false,
-          "guidance_page": 80,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-07-round",
@@ -215,10 +222,11 @@
           "id": "y7-unit-08",
           "title": "Graphing data",
           "term": "Spring",
-          "block": 1,
+          "block": 2,
           "optional": false,
           "extra": false,
-          "guidance_page": 81,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-08-charts",
@@ -261,11 +269,17 @@
           "id": "y7-unit-09",
           "title": "Fractions, decimals and percentages",
           "term": "Spring",
-          "block": 2,
+          "block": 3,
           "optional": false,
           "extra": false,
-          "guidance_page": 82,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
+            {
+              "id": "y7-unit-09-fraction-order",
+              "title": "Fractions on number lines",
+              "extra_challenge": false
+            },
             {
               "id": "y7-unit-09-fdp",
               "title": "Fractions, decimals and percentages",
@@ -275,11 +289,6 @@
               "id": "y7-unit-09-equivalent",
               "title": "Equivalent fractions and mixed numbers",
               "extra_challenge": false
-            },
-            {
-              "id": "y7-unit-09-fraction-order",
-              "title": "Fractions on number lines",
-              "extra_challenge": false
             }
           ]
         },
@@ -287,10 +296,11 @@
           "id": "y7-unit-10",
           "title": "Directed number",
           "term": "Spring",
-          "block": 3,
+          "block": 4,
           "optional": false,
           "extra": false,
-          "guidance_page": 83,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-10-directed",
@@ -323,10 +333,11 @@
           "id": "y7-unit-11",
           "title": "Fractions and percentages of amounts",
           "term": "Spring",
-          "block": 4,
+          "block": 5,
           "optional": false,
           "extra": false,
-          "guidance_page": 84,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-11-fraction-amount",
@@ -351,7 +362,7 @@
             {
               "id": "y7-unit-11-reverse",
               "title": "Finding the original percentage amount",
-              "extra_challenge": true
+              "extra_challenge": false
             }
           ]
         },
@@ -359,10 +370,11 @@
           "id": "y7-unit-12",
           "title": "Perimeter and area",
           "term": "Spring",
-          "block": 5,
+          "block": 6,
           "optional": false,
           "extra": false,
-          "guidance_page": 85,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-12-metric",
@@ -393,7 +405,8 @@
           "block": 1,
           "optional": false,
           "extra": false,
-          "guidance_page": 86,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-13-time",
@@ -424,7 +437,8 @@
           "block": 2,
           "optional": false,
           "extra": false,
-          "guidance_page": 87,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-14-factors",
@@ -450,12 +464,13 @@
         },
         {
           "id": "y7-unit-15",
-          "title": "Add and subtract fractions",
+          "title": "Adding and subtracting fractions",
           "term": "Summer",
           "block": 3,
           "optional": false,
           "extra": false,
-          "guidance_page": 88,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
             {
               "id": "y7-unit-15-equivalent",
@@ -475,7 +490,7 @@
             {
               "id": "y7-unit-15-fraction-algebra",
               "title": "Fractions with letters",
-              "extra_challenge": true
+              "extra_challenge": false
             }
           ]
         },
@@ -486,8 +501,19 @@
           "block": 4,
           "optional": false,
           "extra": false,
-          "guidance_page": 89,
+          "guidance_page": null,
+          "teaching_source": "Y7 SOW NEW 2026-2027.xlsx and numbered Year 7 lesson folders",
           "lessons": [
+            {
+              "id": "y7-unit-16-angles",
+              "title": "Angle facts",
+              "extra_challenge": false
+            },
+            {
+              "id": "y7-unit-16-parallel",
+              "title": "Parallel-line angles and polygons",
+              "extra_challenge": false
+            },
             {
               "id": "y7-unit-16-measure",
               "title": "Measuring lengths and angles",
@@ -497,16 +523,6 @@
               "id": "y7-unit-16-shapes",
               "title": "Naming shapes and solids",
               "extra_challenge": false
-            },
-            {
-              "id": "y7-unit-16-angles",
-              "title": "Angle facts",
-              "extra_challenge": false
-            },
-            {
-              "id": "y7-unit-16-parallel",
-              "title": "Parallel-line angles and polygons",
-              "extra_challenge": true
             }
           ]
         }
@@ -522,7 +538,8 @@
           "block": 1,
           "optional": false,
           "extra": false,
-          "guidance_page": 90,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-01-ratio",
@@ -548,7 +565,8 @@
           "block": 2,
           "optional": false,
           "extra": false,
-          "guidance_page": 91,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-02-direct",
@@ -561,8 +579,8 @@
               "extra_challenge": false
             },
             {
-              "id": "y8-unit-02-metric",
-              "title": "Changing metric units",
+              "id": "y8-unit-02-proportion",
+              "title": "Direct and inverse proportion",
               "extra_challenge": false
             },
             {
@@ -576,8 +594,8 @@
               "extra_challenge": false
             },
             {
-              "id": "y8-unit-02-proportion",
-              "title": "Direct and inverse proportion",
+              "id": "y8-unit-02-metric",
+              "title": "Changing metric units",
               "extra_challenge": true
             }
           ]
@@ -589,7 +607,8 @@
           "block": 3,
           "optional": false,
           "extra": false,
-          "guidance_page": 92,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-03-notation",
@@ -607,13 +626,13 @@
               "extra_challenge": false
             },
             {
-              "id": "y8-unit-03-expand",
-              "title": "Expanding and factorising brackets",
+              "id": "y8-unit-03-factorise",
+              "title": "Factorising a single bracket",
               "extra_challenge": false
             },
             {
-              "id": "y8-unit-03-factorise",
-              "title": "Factorising a single bracket",
+              "id": "y8-unit-03-expand",
+              "title": "Expanding and factorising brackets",
               "extra_challenge": false
             },
             {
@@ -630,7 +649,8 @@
           "block": 4,
           "optional": false,
           "extra": false,
-          "guidance_page": 93,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-04-coordinates",
@@ -651,27 +671,28 @@
         },
         {
           "id": "y8-unit-05",
-          "title": "Multiply and divide fractions",
+          "title": "Multiplying and dividing fractions",
           "term": "Autumn",
           "block": 5,
           "optional": false,
           "extra": false,
-          "guidance_page": 94,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
-            {
-              "id": "y8-unit-05-fraction-product",
-              "title": "Multiplying and dividing fractions",
-              "extra_challenge": false
-            },
             {
               "id": "y8-unit-05-fraction-model",
               "title": "Picturing multiplication and division of fractions",
               "extra_challenge": false
             },
             {
+              "id": "y8-unit-05-fraction-product",
+              "title": "Multiplying and dividing fractions",
+              "extra_challenge": false
+            },
+            {
               "id": "y8-unit-05-fraction-algebra",
               "title": "Fractions with letters",
-              "extra_challenge": true
+              "extra_challenge": false
             }
           ]
         },
@@ -682,7 +703,8 @@
           "block": 6,
           "optional": false,
           "extra": false,
-          "guidance_page": 95,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-06-symmetry",
@@ -703,7 +725,8 @@
           "block": 1,
           "optional": false,
           "extra": false,
-          "guidance_page": 96,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-07-shapes",
@@ -739,7 +762,8 @@
           "block": 2,
           "optional": false,
           "extra": false,
-          "guidance_page": 97,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-08-equation",
@@ -770,7 +794,8 @@
           "block": 3,
           "optional": false,
           "extra": false,
-          "guidance_page": 98,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-09-percent-amount",
@@ -790,55 +815,14 @@
           ]
         },
         {
-          "id": "y8-wr-indices",
-          "title": "Indices",
+          "id": "y8-unit-10",
+          "title": "Representing data",
           "term": "Spring",
           "block": 4,
           "optional": false,
           "extra": false,
-          "guidance_page": 99,
-          "lessons": [
-            {
-              "id": "y8-wr-indices-indices-laws",
-              "title": "Index laws with the same base",
-              "extra_challenge": false
-            },
-            {
-              "id": "y8-wr-indices-indices",
-              "title": "Powers and roots",
-              "extra_challenge": true
-            }
-          ]
-        },
-        {
-          "id": "y8-wr-standard",
-          "title": "Standard form",
-          "term": "Spring",
-          "block": 5,
-          "optional": false,
-          "extra": false,
-          "guidance_page": 100,
-          "lessons": [
-            {
-              "id": "y8-wr-standard-powers-ten",
-              "title": "Positive and negative powers of ten",
-              "extra_challenge": false
-            },
-            {
-              "id": "y8-wr-standard-standard-read",
-              "title": "Reading and writing standard form",
-              "extra_challenge": false
-            }
-          ]
-        },
-        {
-          "id": "y8-unit-10",
-          "title": "Interpret and represent data",
-          "term": "Spring",
-          "block": 6,
-          "optional": false,
-          "extra": false,
-          "guidance_page": 101,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-10-data-types",
@@ -848,6 +832,16 @@
             {
               "id": "y8-unit-10-mean",
               "title": "Mean, median, mode and range",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-10-scatter",
+              "title": "Scatter graphs and patterns",
+              "extra_challenge": false
+            },
+            {
+              "id": "y8-unit-10-compare-data",
+              "title": "Comparing data and choosing an average",
               "extra_challenge": false
             },
             {
@@ -861,16 +855,6 @@
               "extra_challenge": false
             },
             {
-              "id": "y8-unit-10-compare-data",
-              "title": "Comparing data and choosing an average",
-              "extra_challenge": false
-            },
-            {
-              "id": "y8-unit-10-scatter",
-              "title": "Scatter graphs and patterns",
-              "extra_challenge": true
-            },
-            {
               "id": "y8-unit-10-histogram",
               "title": "Grouped data and histograms",
               "extra_challenge": true
@@ -879,12 +863,13 @@
         },
         {
           "id": "y8-unit-11",
-          "title": "Angles in parallel lines and polygons",
+          "title": "Parallel lines and polygons",
           "term": "Summer",
           "block": 1,
           "optional": false,
           "extra": false,
-          "guidance_page": 102,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-11-angles",
@@ -892,13 +877,13 @@
               "extra_challenge": false
             },
             {
-              "id": "y8-unit-11-parallel",
-              "title": "Parallel-line angles and polygons",
+              "id": "y8-unit-11-quadrilaterals",
+              "title": "Quadrilaterals and geometric reasons",
               "extra_challenge": false
             },
             {
-              "id": "y8-unit-11-quadrilaterals",
-              "title": "Quadrilaterals and geometric reasons",
+              "id": "y8-unit-11-parallel",
+              "title": "Parallel-line angles and polygons",
               "extra_challenge": false
             }
           ]
@@ -910,7 +895,8 @@
           "block": 2,
           "optional": false,
           "extra": false,
-          "guidance_page": 103,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-12-probability",
@@ -940,7 +926,7 @@
             {
               "id": "y8-unit-12-counting",
               "title": "Listing and counting choices",
-              "extra_challenge": false
+              "extra_challenge": true
             }
           ]
         },
@@ -951,7 +937,8 @@
           "block": 3,
           "optional": false,
           "extra": false,
-          "guidance_page": 104,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-13-circle",
@@ -966,12 +953,12 @@
             {
               "id": "y8-unit-13-cylinder",
               "title": "Cylinders and cones",
-              "extra_challenge": true
+              "extra_challenge": false
             },
             {
               "id": "y8-unit-13-area",
               "title": "Finding areas",
-              "extra_challenge": true
+              "extra_challenge": false
             }
           ]
         },
@@ -982,7 +969,8 @@
           "block": 4,
           "optional": false,
           "extra": false,
-          "guidance_page": 105,
+          "guidance_page": null,
+          "teaching_source": "Y8 SOW NEW 2026-2027.xlsx and numbered Year 8 lesson folders",
           "lessons": [
             {
               "id": "y8-unit-14-charts",
@@ -1007,6 +995,50 @@
             {
               "id": "y8-unit-14-stem",
               "title": "Stem-and-leaf diagrams",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y8-wr-indices",
+          "title": "Indices",
+          "term": "Extra revision",
+          "block": 1,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
+          "teaching_source": "Supplementary White Rose-style revision",
+          "lessons": [
+            {
+              "id": "y8-wr-indices-indices-laws",
+              "title": "Index laws with the same base",
+              "extra_challenge": true
+            },
+            {
+              "id": "y8-wr-indices-indices",
+              "title": "Powers and roots",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y8-wr-standard",
+          "title": "Standard form",
+          "term": "Extra revision",
+          "block": 2,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
+          "teaching_source": "Supplementary White Rose-style revision",
+          "lessons": [
+            {
+              "id": "y8-wr-standard-powers-ten",
+              "title": "Positive and negative powers of ten",
+              "extra_challenge": true
+            },
+            {
+              "id": "y8-wr-standard-standard-read",
+              "title": "Reading and writing standard form",
               "extra_challenge": true
             }
           ]
@@ -1014,21 +1046,22 @@
         {
           "id": "y8-wr-sequences",
           "title": "Sequences",
-          "term": "Summer",
-          "block": 5,
+          "term": "Extra revision",
+          "block": 3,
           "optional": false,
-          "extra": false,
-          "guidance_page": 106,
+          "extra": true,
+          "guidance_page": null,
+          "teaching_source": "Supplementary White Rose-style revision",
           "lessons": [
             {
               "id": "y8-wr-sequences-sequence",
               "title": "Spotting and continuing sequences",
-              "extra_challenge": false
+              "extra_challenge": true
             },
             {
               "id": "y8-wr-sequences-nth",
               "title": "A rule for any term",
-              "extra_challenge": false
+              "extra_challenge": true
             },
             {
               "id": "y8-wr-sequences-nonlinear",
@@ -1043,13 +1076,88 @@
       "year": 9,
       "units": [
         {
-          "id": "y9-unit-03",
-          "title": "Properties of number",
-          "term": "Autumn",
+          "id": "y9-unit-01",
+          "title": "Calculations, checking and rounding",
+          "term": "GCSE Unit 1",
           "block": 1,
           "optional": false,
           "extra": false,
-          "guidance_page": 107,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
+          "lessons": [
+            {
+              "id": "y9-unit-01-add",
+              "title": "Adding and subtracting decimals",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-01-multiply",
+              "title": "Multiplying decimals",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-01-divide",
+              "title": "Dividing by decimals",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-01-directed",
+              "title": "Adding and subtracting negative numbers",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-01-round",
+              "title": "Rounding numbers",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-01-estimate",
+              "title": "Estimating and rounding intervals",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-01-counting",
+              "title": "Listing and counting choices",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-02",
+          "title": "Indices, roots and order of operations",
+          "term": "GCSE Unit 1",
+          "block": 2,
+          "optional": false,
+          "extra": false,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
+          "lessons": [
+            {
+              "id": "y9-unit-02-negative-products",
+              "title": "Multiplying and dividing negatives",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-02-indices",
+              "title": "Powers and roots",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-02-order",
+              "title": "The order of operations",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-03",
+          "title": "Factors, multiples and primes",
+          "term": "GCSE Unit 1",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
           "lessons": [
             {
               "id": "y9-unit-03-factors",
@@ -1069,95 +1177,108 @@
           ]
         },
         {
-          "id": "y9-unit-10",
-          "title": "Percentages",
-          "term": "Autumn",
-          "block": 2,
+          "id": "y9-unit-04",
+          "title": "Standard form and surds",
+          "term": "GCSE Unit 1",
+          "block": 4,
           "optional": false,
           "extra": false,
-          "guidance_page": 108,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
           "lessons": [
             {
-              "id": "y9-unit-10-fdp",
-              "title": "Fractions, decimals and percentages",
+              "id": "y9-unit-04-powers-ten",
+              "title": "Positive and negative powers of ten",
               "extra_challenge": false
             },
             {
-              "id": "y9-unit-10-change",
-              "title": "Percentage increases and decreases",
+              "id": "y9-unit-04-standard-read",
+              "title": "Reading and writing standard form",
               "extra_challenge": false
             },
             {
-              "id": "y9-unit-10-reverse",
-              "title": "Finding the original percentage amount",
+              "id": "y9-unit-04-standard",
+              "title": "Standard form",
               "extra_challenge": false
             },
             {
-              "id": "y9-unit-10-repeated-change",
-              "title": "Repeated percentage changes",
+              "id": "y9-unit-04-standard-calc",
+              "title": "Calculating in standard form",
               "extra_challenge": false
             },
             {
-              "id": "y9-unit-10-interest",
-              "title": "Simple and compound interest",
+              "id": "y9-unit-04-surds",
+              "title": "Exact answers with square roots",
               "extra_challenge": false
             }
           ]
         },
         {
-          "id": "y9-wr-solids",
-          "title": "Area and volume",
-          "term": "Autumn",
-          "block": 3,
+          "id": "y9-unit-05",
+          "title": "Algebra: the basics",
+          "term": "GCSE Unit 2",
+          "block": 1,
           "optional": false,
           "extra": false,
-          "guidance_page": 109,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
           "lessons": [
             {
-              "id": "y9-wr-solids-nets-surface",
-              "title": "Nets and surface area",
+              "id": "y9-unit-05-notation",
+              "title": "Reading and writing algebra",
               "extra_challenge": false
             },
             {
-              "id": "y9-wr-solids-area",
-              "title": "Finding areas",
+              "id": "y9-unit-05-like",
+              "title": "Collecting like terms",
               "extra_challenge": false
             },
             {
-              "id": "y9-wr-solids-circle",
-              "title": "Parts and measures of a circle",
+              "id": "y9-unit-05-substitute",
+              "title": "Putting numbers into expressions",
               "extra_challenge": false
             },
             {
-              "id": "y9-wr-solids-volume",
-              "title": "Volume, capacity and prisms",
+              "id": "y9-unit-05-expand",
+              "title": "Expanding and factorising brackets",
               "extra_challenge": false
             },
             {
-              "id": "y9-wr-solids-cylinder",
-              "title": "Cylinders and cones",
+              "id": "y9-unit-05-factorise",
+              "title": "Factorising a single bracket",
               "extra_challenge": false
             },
             {
-              "id": "y9-wr-solids-solid-volume",
-              "title": "Volumes of cones, pyramids and spheres",
+              "id": "y9-unit-05-double",
+              "title": "Multiplying two brackets",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-05-fraction-algebra",
+              "title": "Fractions with letters",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-05-quadratic-solve",
+              "title": "Solving factorised quadratics",
               "extra_challenge": true
             },
             {
-              "id": "y9-wr-solids-metric",
-              "title": "Changing metric units",
-              "extra_challenge": false
+              "id": "y9-unit-05-algebra-extend",
+              "title": "Identities and three brackets",
+              "extra_challenge": true
             }
           ]
         },
         {
           "id": "y9-unit-06",
-          "title": "Equations, inequalities and formulae",
-          "term": "Autumn",
-          "block": 4,
+          "title": "Setting up, rearranging and solving equations",
+          "term": "GCSE Unit 2",
+          "block": 2,
           "optional": false,
           "extra": false,
-          "guidance_page": 110,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
           "lessons": [
             {
               "id": "y9-unit-06-equation",
@@ -1165,18 +1286,13 @@
               "extra_challenge": false
             },
             {
-              "id": "y9-unit-06-both-sides",
-              "title": "Equations with letters on both sides",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-06-inequality",
-              "title": "Inequalities and number lines",
-              "extra_challenge": false
-            },
-            {
               "id": "y9-unit-06-fractional-equations",
               "title": "Equations with brackets and fractions",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-06-both-sides",
+              "title": "Equations with letters on both sides",
               "extra_challenge": false
             },
             {
@@ -1188,17 +1304,67 @@
               "id": "y9-unit-06-rearrange",
               "title": "Rearranging formulae",
               "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-06-inequality",
+              "title": "Inequalities and number lines",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-07",
+          "title": "Inequalities",
+          "term": "GCSE Unit 2",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
+          "lessons": [
+            {
+              "id": "y9-unit-07-inequality",
+              "title": "Inequalities and number lines",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-08",
+          "title": "Sequences",
+          "term": "GCSE Unit 2",
+          "block": 4,
+          "optional": false,
+          "extra": false,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
+          "lessons": [
+            {
+              "id": "y9-unit-08-nth",
+              "title": "A rule for any term",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-08-quadratic-sequence",
+              "title": "Finding a quadratic sequence rule",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-unit-08-nonlinear",
+              "title": "Different types of sequence",
+              "extra_challenge": false
             }
           ]
         },
         {
           "id": "y9-unit-09",
           "title": "Fractions",
-          "term": "Autumn",
-          "block": 5,
+          "term": "GCSE Unit 3",
+          "block": 1,
           "optional": false,
           "extra": false,
-          "guidance_page": 111,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
           "lessons": [
             {
               "id": "y9-unit-09-equivalent",
@@ -1228,167 +1394,51 @@
           ]
         },
         {
-          "id": "y9-unit-17",
-          "title": "Rates",
-          "term": "Autumn",
-          "block": 6,
-          "optional": false,
-          "extra": false,
-          "guidance_page": 112,
-          "lessons": [
-            {
-              "id": "y9-unit-17-speed",
-              "title": "Speed, distance and time",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-17-distancegraph",
-              "title": "Distance–time graphs",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-17-flow-rates",
-              "title": "Flow rates and filling graphs",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-17-compound-units",
-              "title": "Converting compound units",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-17-coordinates",
-              "title": "Coordinates and midpoints",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-17-velocitygraph",
-              "title": "Velocity–time graphs",
-              "extra_challenge": true
-            }
-          ]
-        },
-        {
-          "id": "y9-unit-04",
-          "title": "Standard form",
-          "term": "Autumn",
-          "block": 7,
-          "optional": false,
-          "extra": false,
-          "guidance_page": 113,
-          "lessons": [
-            {
-              "id": "y9-unit-04-powers-ten",
-              "title": "Positive and negative powers of ten",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-04-standard-read",
-              "title": "Reading and writing standard form",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-04-standard",
-              "title": "Standard form",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-04-standard-calc",
-              "title": "Calculating in standard form",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-04-surds",
-              "title": "Exact answers with square roots",
-              "extra_challenge": true
-            }
-          ]
-        },
-        {
-          "id": "y9-wr-money",
-          "title": "Maths and money",
-          "term": "Spring",
-          "block": 1,
-          "optional": false,
-          "extra": false,
-          "guidance_page": 114,
-          "lessons": [
-            {
-              "id": "y9-wr-money-money-bank",
-              "title": "Bank balances and ways to pay",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-money-money-pay",
-              "title": "Pay, deductions and VAT",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-money-money-budget",
-              "title": "Budgets and running costs",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-money-money-save",
-              "title": "Saving, investing and comparing value",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-money-money-borrow",
-              "title": "Borrowing and total repayment",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-money-money-overseas",
-              "title": "Spending overseas",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-money-money-insurance",
-              "title": "Insurance costs and cover",
-              "extra_challenge": false
-            }
-          ]
-        },
-        {
-          "id": "y9-unit-18",
-          "title": "Straight line graphs",
-          "term": "Spring",
+          "id": "y9-unit-10",
+          "title": "Percentages",
+          "term": "GCSE Unit 3",
           "block": 2,
           "optional": false,
           "extra": false,
-          "guidance_page": 115,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
           "lessons": [
             {
-              "id": "y9-unit-18-linear",
-              "title": "Straight-line graphs",
+              "id": "y9-unit-10-fdp",
+              "title": "Fractions, decimals and percentages",
               "extra_challenge": false
             },
             {
-              "id": "y9-unit-18-line-equation",
-              "title": "Finding a straight-line equation",
+              "id": "y9-unit-10-change",
+              "title": "Percentage increases and decreases",
               "extra_challenge": false
             },
             {
-              "id": "y9-unit-18-graph-inequalities",
-              "title": "Shading a linear inequality",
-              "extra_challenge": true
+              "id": "y9-unit-10-reverse",
+              "title": "Finding the original percentage amount",
+              "extra_challenge": false
             },
             {
-              "id": "y9-unit-18-perpendicular",
-              "title": "Parallel and perpendicular graph lines",
-              "extra_challenge": true
+              "id": "y9-unit-10-repeated-change",
+              "title": "Repeated percentage changes",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-10-interest",
+              "title": "Simple and compound interest",
+              "extra_challenge": false
             }
           ]
         },
         {
           "id": "y9-unit-11",
           "title": "Ratio and proportion",
-          "term": "Spring",
+          "term": "GCSE Unit 3",
           "block": 3,
           "optional": false,
           "extra": false,
-          "guidance_page": 116,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
           "lessons": [
             {
               "id": "y9-unit-11-ratio",
@@ -1428,126 +1478,36 @@
           ]
         },
         {
-          "id": "y9-wr-constructions",
-          "title": "Constructions and congruence",
-          "term": "Spring",
-          "block": 4,
+          "id": "y9-unit-12",
+          "title": "Polygons, angles and parallel lines",
+          "term": "GCSE Unit 4",
+          "block": 1,
           "optional": false,
           "extra": false,
-          "guidance_page": 117,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
           "lessons": [
             {
-              "id": "y9-wr-constructions-measure",
-              "title": "Measuring lengths and angles",
+              "id": "y9-unit-12-angles",
+              "title": "Angle facts",
               "extra_challenge": false
             },
             {
-              "id": "y9-wr-constructions-scale",
-              "title": "Scale drawings and matching shapes",
+              "id": "y9-unit-12-parallel",
+              "title": "Parallel-line angles and polygons",
               "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-constructions-construct-triangle",
-              "title": "Constructing triangles",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-constructions-bisectors",
-              "title": "Compass constructions and bisectors",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-constructions-congruence",
-              "title": "Congruent shapes and triangles",
-              "extra_challenge": false
-            }
-          ]
-        },
-        {
-          "id": "y9-wr-similarity",
-          "title": "Similarity",
-          "term": "Spring",
-          "block": 5,
-          "optional": false,
-          "extra": false,
-          "guidance_page": 118,
-          "lessons": [
-            {
-              "id": "y9-wr-similarity-similarity",
-              "title": "Similar shapes and matching lengths",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-similarity-similar-triangles",
-              "title": "Using similar triangles",
-              "extra_challenge": true
-            }
-          ]
-        },
-        {
-          "id": "y9-unit-05",
-          "title": "Algebraic manipulation",
-          "term": "Spring",
-          "block": 6,
-          "optional": false,
-          "extra": false,
-          "guidance_page": 119,
-          "lessons": [
-            {
-              "id": "y9-unit-05-notation",
-              "title": "Reading and writing algebra",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-05-like",
-              "title": "Collecting like terms",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-05-substitute",
-              "title": "Putting numbers into expressions",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-05-expand",
-              "title": "Expanding and factorising brackets",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-05-factorise",
-              "title": "Factorising a single bracket",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-05-double",
-              "title": "Multiplying two brackets",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-unit-05-quadratic-solve",
-              "title": "Solving factorised quadratics",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-05-algebra-extend",
-              "title": "Identities and three brackets",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-05-fraction-algebra",
-              "title": "Fractions with letters",
-              "extra_challenge": true
             }
           ]
         },
         {
           "id": "y9-unit-13",
-          "title": "Pythagoras’ theorem",
-          "term": "Summer",
-          "block": 1,
+          "title": "Pythagoras and trigonometry",
+          "term": "GCSE Unit 4",
+          "block": 2,
           "optional": false,
           "extra": false,
-          "guidance_page": 120,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
           "lessons": [
             {
               "id": "y9-unit-13-pythagoras",
@@ -1562,7 +1522,7 @@
             {
               "id": "y9-unit-13-trig",
               "title": "Sine, cosine and tangent",
-              "extra_challenge": true
+              "extra_challenge": false
             },
             {
               "id": "y9-unit-13-trig-exact",
@@ -1572,13 +1532,159 @@
           ]
         },
         {
-          "id": "y9-unit-19",
-          "title": "Non-linear graphs",
-          "term": "Summer",
+          "id": "y9-unit-14",
+          "title": "Averages and range",
+          "term": "GCSE Unit 5",
+          "block": 1,
+          "optional": false,
+          "extra": false,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
+          "lessons": [
+            {
+              "id": "y9-unit-14-mean",
+              "title": "Mean, median, mode and range",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-14-frequency",
+              "title": "Averages from frequency tables",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-14-stem",
+              "title": "Stem-and-leaf diagrams",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-15",
+          "title": "Representing and interpreting data",
+          "term": "GCSE Unit 5",
           "block": 2,
           "optional": false,
           "extra": false,
-          "guidance_page": 121,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
+          "lessons": [
+            {
+              "id": "y9-unit-15-charts",
+              "title": "Reading and drawing charts",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-15-pie",
+              "title": "Pie charts",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-15-histogram",
+              "title": "Grouped data and histograms",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-16",
+          "title": "Scatter graphs",
+          "term": "GCSE Unit 5",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
+          "lessons": [
+            {
+              "id": "y9-unit-16-scatter",
+              "title": "Scatter graphs and patterns",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-17",
+          "title": "Real-life graphs and coordinates",
+          "term": "GCSE Unit 6",
+          "block": 1,
+          "optional": false,
+          "extra": false,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
+          "lessons": [
+            {
+              "id": "y9-unit-17-coordinates",
+              "title": "Coordinates and midpoints",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-17-speed",
+              "title": "Speed, distance and time",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-17-distancegraph",
+              "title": "Distance–time graphs",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-17-flow-rates",
+              "title": "Flow rates and filling graphs",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-17-compound-units",
+              "title": "Converting compound units",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-17-velocitygraph",
+              "title": "Velocity–time graphs",
+              "extra_challenge": false
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-18",
+          "title": "Linear graphs and coordinate geometry",
+          "term": "GCSE Unit 6",
+          "block": 2,
+          "optional": false,
+          "extra": false,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
+          "lessons": [
+            {
+              "id": "y9-unit-18-linear",
+              "title": "Straight-line graphs",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-18-line-equation",
+              "title": "Finding a straight-line equation",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-18-perpendicular",
+              "title": "Parallel and perpendicular graph lines",
+              "extra_challenge": false
+            },
+            {
+              "id": "y9-unit-18-graph-inequalities",
+              "title": "Shading a linear inequality",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-unit-19",
+          "title": "Quadratic, cubic and other graphs",
+          "term": "GCSE Unit 6",
+          "block": 3,
+          "optional": false,
+          "extra": false,
+          "guidance_page": null,
+          "teaching_source": "Year 9 Combined SOW.xlsx · Y9 Combined (H+F)",
           "lessons": [
             {
               "id": "y9-unit-19-curves",
@@ -1593,69 +1699,224 @@
           ]
         },
         {
-          "id": "y9-wr-probability",
-          "title": "Sets and probability",
-          "term": "Summer",
+          "id": "y9-wr-solids",
+          "title": "Area and volume",
+          "term": "Extra revision",
+          "block": 1,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
+          "teaching_source": "Supplementary White Rose-style revision",
+          "lessons": [
+            {
+              "id": "y9-wr-solids-nets-surface",
+              "title": "Nets and surface area",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-solids-area",
+              "title": "Finding areas",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-solids-circle",
+              "title": "Parts and measures of a circle",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-solids-volume",
+              "title": "Volume, capacity and prisms",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-solids-cylinder",
+              "title": "Cylinders and cones",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-solids-solid-volume",
+              "title": "Volumes of cones, pyramids and spheres",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-solids-metric",
+              "title": "Changing metric units",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-wr-money",
+          "title": "Maths and money",
+          "term": "Extra revision",
+          "block": 2,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
+          "teaching_source": "Supplementary White Rose-style revision",
+          "lessons": [
+            {
+              "id": "y9-wr-money-money-bank",
+              "title": "Bank balances and ways to pay",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-money-money-pay",
+              "title": "Pay, deductions and VAT",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-money-money-budget",
+              "title": "Budgets and running costs",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-money-money-save",
+              "title": "Saving, investing and comparing value",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-money-money-borrow",
+              "title": "Borrowing and total repayment",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-money-money-overseas",
+              "title": "Spending overseas",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-money-money-insurance",
+              "title": "Insurance costs and cover",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-wr-constructions",
+          "title": "Constructions and congruence",
+          "term": "Extra revision",
           "block": 3,
           "optional": false,
-          "extra": false,
-          "guidance_page": 122,
+          "extra": true,
+          "guidance_page": null,
+          "teaching_source": "Supplementary White Rose-style revision",
+          "lessons": [
+            {
+              "id": "y9-wr-constructions-measure",
+              "title": "Measuring lengths and angles",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-constructions-scale",
+              "title": "Scale drawings and matching shapes",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-constructions-construct-triangle",
+              "title": "Constructing triangles",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-constructions-bisectors",
+              "title": "Compass constructions and bisectors",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-constructions-congruence",
+              "title": "Congruent shapes and triangles",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-wr-similarity",
+          "title": "Similarity",
+          "term": "Extra revision",
+          "block": 4,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
+          "teaching_source": "Supplementary White Rose-style revision",
+          "lessons": [
+            {
+              "id": "y9-wr-similarity-similarity",
+              "title": "Similar shapes and matching lengths",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-similarity-similar-triangles",
+              "title": "Using similar triangles",
+              "extra_challenge": true
+            }
+          ]
+        },
+        {
+          "id": "y9-wr-probability",
+          "title": "Sets and probability",
+          "term": "Extra revision",
+          "block": 5,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
+          "teaching_source": "Supplementary White Rose-style revision",
           "lessons": [
             {
               "id": "y9-wr-probability-sets",
               "title": "Sets and Venn diagrams",
-              "extra_challenge": false
+              "extra_challenge": true
             },
             {
               "id": "y9-wr-probability-probability",
               "title": "Probability and possible outcomes",
-              "extra_challenge": false
+              "extra_challenge": true
             },
             {
               "id": "y9-wr-probability-experiment",
               "title": "Probability experiments",
-              "extra_challenge": false
+              "extra_challenge": true
             },
             {
               "id": "y9-wr-probability-expected",
               "title": "Expected outcomes",
-              "extra_challenge": false
+              "extra_challenge": true
             },
             {
               "id": "y9-wr-probability-independent",
               "title": "Independent and mutually exclusive events",
-              "extra_challenge": false
+              "extra_challenge": true
             }
           ]
         },
         {
           "id": "y9-wr-transformations",
           "title": "Transformations",
-          "term": "Summer",
-          "block": 4,
+          "term": "Extra revision",
+          "block": 6,
           "optional": false,
-          "extra": false,
-          "guidance_page": 123,
+          "extra": true,
+          "guidance_page": null,
+          "teaching_source": "Supplementary White Rose-style revision",
           "lessons": [
             {
               "id": "y9-wr-transformations-enlargement",
               "title": "Enlargement from a centre",
-              "extra_challenge": false
+              "extra_challenge": true
             },
             {
               "id": "y9-wr-transformations-rotation",
               "title": "Rotating about a point",
-              "extra_challenge": false
+              "extra_challenge": true
             },
             {
               "id": "y9-wr-transformations-translation",
               "title": "Translations and column vectors",
-              "extra_challenge": false
+              "extra_challenge": true
             },
             {
               "id": "y9-wr-transformations-reflection",
               "title": "Reflecting a whole shape",
-              "extra_challenge": false
+              "extra_challenge": true
             },
             {
               "id": "y9-wr-transformations-transform-series",
@@ -1667,254 +1928,53 @@
         {
           "id": "y9-wr-simultaneous",
           "title": "Simultaneous equations",
-          "term": "Summer",
-          "block": 5,
-          "optional": true,
-          "extra": false,
-          "guidance_page": 124,
+          "term": "Extra revision",
+          "block": 7,
+          "optional": false,
+          "extra": true,
+          "guidance_page": null,
+          "teaching_source": "Supplementary White Rose-style revision",
           "lessons": [
             {
               "id": "y9-wr-simultaneous-simultaneous",
               "title": "Two equations at once",
-              "extra_challenge": false
+              "extra_challenge": true
             },
             {
               "id": "y9-wr-simultaneous-simultaneous-adjust",
               "title": "Adjusting equations before elimination",
-              "extra_challenge": false
+              "extra_challenge": true
             }
           ]
         },
         {
           "id": "y9-wr-trig",
           "title": "Trigonometry",
-          "term": "Summer",
-          "block": 6,
-          "optional": true,
-          "extra": false,
-          "guidance_page": 125,
-          "lessons": [
-            {
-              "id": "y9-wr-trig-trig",
-              "title": "Sine, cosine and tangent",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-trig-trig-angle",
-              "title": "Finding angles with trigonometry",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-trig-trig-choice",
-              "title": "Choosing Pythagoras or trigonometry",
-              "extra_challenge": false
-            },
-            {
-              "id": "y9-wr-trig-trig-exact",
-              "title": "Exact trig values and looking up or down",
-              "extra_challenge": true
-            }
-          ]
-        },
-        {
-          "id": "y9-unit-01",
-          "title": "Calculations, checking and rounding",
-          "term": "Extra revision",
-          "block": 1,
-          "optional": false,
-          "extra": true,
-          "guidance_page": null,
-          "lessons": [
-            {
-              "id": "y9-unit-01-add",
-              "title": "Adding and subtracting decimals",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-01-multiply",
-              "title": "Multiplying decimals",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-01-divide",
-              "title": "Dividing by decimals",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-01-directed",
-              "title": "Adding and subtracting negative numbers",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-01-round",
-              "title": "Rounding numbers",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-01-estimate",
-              "title": "Estimating and rounding intervals",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-01-counting",
-              "title": "Listing and counting choices",
-              "extra_challenge": true
-            }
-          ]
-        },
-        {
-          "id": "y9-unit-02",
-          "title": "Indices, roots and order of operations",
-          "term": "Extra revision",
-          "block": 2,
-          "optional": false,
-          "extra": true,
-          "guidance_page": null,
-          "lessons": [
-            {
-              "id": "y9-unit-02-indices",
-              "title": "Powers and roots",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-02-negative-products",
-              "title": "Multiplying and dividing negatives",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-02-order",
-              "title": "The order of operations",
-              "extra_challenge": true
-            }
-          ]
-        },
-        {
-          "id": "y9-unit-07",
-          "title": "Inequalities",
-          "term": "Extra revision",
-          "block": 3,
-          "optional": false,
-          "extra": true,
-          "guidance_page": null,
-          "lessons": [
-            {
-              "id": "y9-unit-07-inequality",
-              "title": "Inequalities and number lines",
-              "extra_challenge": true
-            }
-          ]
-        },
-        {
-          "id": "y9-unit-08",
-          "title": "Sequences",
-          "term": "Extra revision",
-          "block": 4,
-          "optional": false,
-          "extra": true,
-          "guidance_page": null,
-          "lessons": [
-            {
-              "id": "y9-unit-08-nth",
-              "title": "A rule for any term",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-08-quadratic-sequence",
-              "title": "Finding a quadratic sequence rule",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-08-nonlinear",
-              "title": "Different types of sequence",
-              "extra_challenge": true
-            }
-          ]
-        },
-        {
-          "id": "y9-unit-12",
-          "title": "Polygons, angles and parallel lines",
-          "term": "Extra revision",
-          "block": 5,
-          "optional": false,
-          "extra": true,
-          "guidance_page": null,
-          "lessons": [
-            {
-              "id": "y9-unit-12-angles",
-              "title": "Angle facts",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-12-parallel",
-              "title": "Parallel-line angles and polygons",
-              "extra_challenge": true
-            }
-          ]
-        },
-        {
-          "id": "y9-unit-14",
-          "title": "Averages and range",
-          "term": "Extra revision",
-          "block": 6,
-          "optional": false,
-          "extra": true,
-          "guidance_page": null,
-          "lessons": [
-            {
-              "id": "y9-unit-14-mean",
-              "title": "Mean, median, mode and range",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-14-frequency",
-              "title": "Averages from frequency tables",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-14-stem",
-              "title": "Stem-and-leaf diagrams",
-              "extra_challenge": true
-            }
-          ]
-        },
-        {
-          "id": "y9-unit-15",
-          "title": "Representing and interpreting data",
-          "term": "Extra revision",
-          "block": 7,
-          "optional": false,
-          "extra": true,
-          "guidance_page": null,
-          "lessons": [
-            {
-              "id": "y9-unit-15-charts",
-              "title": "Reading and drawing charts",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-15-pie",
-              "title": "Pie charts",
-              "extra_challenge": true
-            },
-            {
-              "id": "y9-unit-15-histogram",
-              "title": "Grouped data and histograms",
-              "extra_challenge": true
-            }
-          ]
-        },
-        {
-          "id": "y9-unit-16",
-          "title": "Scatter graphs",
           "term": "Extra revision",
           "block": 8,
           "optional": false,
           "extra": true,
           "guidance_page": null,
+          "teaching_source": "Supplementary White Rose-style revision",
           "lessons": [
             {
-              "id": "y9-unit-16-scatter",
-              "title": "Scatter graphs and patterns",
+              "id": "y9-wr-trig-trig",
+              "title": "Sine, cosine and tangent",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-trig-trig-angle",
+              "title": "Finding angles with trigonometry",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-trig-trig-choice",
+              "title": "Choosing Pythagoras or trigonometry",
+              "extra_challenge": true
+            },
+            {
+              "id": "y9-wr-trig-trig-exact",
+              "title": "Exact trig values and looking up or down",
               "extra_challenge": true
             }
           ]
@@ -2115,5 +2175,5 @@
       ]
     }
   ],
-  "note": "The main route follows White Rose secondary Version 3 (2026 guidance); additional department revision is labelled separately. Lessons consolidate related small steps. Three original route reviews sample the revised yearly topics; six previous department papers are retained. Unit checks cover the expanded route."
+  "note": "Main order follows department Year 7/8 teaching folders and the Year 9 combined GCSE sequence. Revision lessons consolidate teaching steps. White Rose-style representations and all previous papers remain available; supplementary blocks are separate."
 }

@@ -1,0 +1,793 @@
+{
+  "y7-unit-01": {
+    "skills": [
+      "sequence",
+      "nonlinear",
+      "nth"
+    ],
+    "review_skills": [
+      "sequence",
+      "nonlinear",
+      "nth"
+    ]
+  },
+  "y7-unit-02": {
+    "skills": [
+      "function",
+      "notation",
+      "substitute"
+    ],
+    "review_skills": [
+      "function",
+      "notation",
+      "substitute"
+    ]
+  },
+  "y7-unit-03": {
+    "skills": [
+      "balance",
+      "like",
+      "equation"
+    ],
+    "review_skills": [
+      "balance",
+      "like",
+      "equation"
+    ]
+  },
+  "y7-unit-04": {
+    "skills": [
+      "place",
+      "round-dp",
+      "round",
+      "standard"
+    ],
+    "review_skills": [
+      "place",
+      "round",
+      "standard"
+    ]
+  },
+  "y7-unit-05": {
+    "skills": [
+      "add",
+      "multiply",
+      "divide",
+      "order"
+    ],
+    "review_skills": [
+      "add",
+      "multiply",
+      "divide",
+      "order"
+    ]
+  },
+  "y7-unit-06": {
+    "skills": [
+      "mean",
+      "missing-average",
+      "frequency"
+    ],
+    "review_skills": [
+      "mean",
+      "frequency"
+    ]
+  },
+  "y7-unit-07": {
+    "skills": [
+      "round",
+      "estimate"
+    ],
+    "review_skills": [
+      "round",
+      "estimate"
+    ]
+  },
+  "y7-unit-08": {
+    "skills": [
+      "charts",
+      "bar-charts",
+      "first-quadrant",
+      "scatter",
+      "time-series",
+      "graph-relationships",
+      "coordinates"
+    ],
+    "review_skills": [
+      "charts",
+      "scatter",
+      "coordinates"
+    ]
+  },
+  "y7-unit-09": {
+    "skills": [
+      "fdp",
+      "equivalent",
+      "fraction-order"
+    ],
+    "review_skills": [
+      "fdp",
+      "equivalent"
+    ]
+  },
+  "y7-unit-10": {
+    "skills": [
+      "directed",
+      "zero-pairs",
+      "negative-products",
+      "order",
+      "indices"
+    ],
+    "review_skills": [
+      "directed",
+      "negative-products",
+      "order",
+      "indices"
+    ]
+  },
+  "y7-unit-11": {
+    "skills": [
+      "fraction-amount",
+      "fraction-whole",
+      "percent-amount",
+      "change",
+      "reverse"
+    ],
+    "review_skills": [
+      "fraction-amount",
+      "percent-amount",
+      "change",
+      "reverse"
+    ]
+  },
+  "y7-unit-12": {
+    "skills": [
+      "metric",
+      "perimeter",
+      "area",
+      "compound-area"
+    ],
+    "review_skills": [
+      "perimeter",
+      "area"
+    ]
+  },
+  "y7-unit-13": {
+    "skills": [
+      "time",
+      "timetables",
+      "speed",
+      "distancegraph"
+    ],
+    "review_skills": [
+      "time",
+      "speed",
+      "distancegraph"
+    ]
+  },
+  "y7-unit-14": {
+    "skills": [
+      "factors",
+      "powers-roots",
+      "hcf",
+      "indices"
+    ],
+    "review_skills": [
+      "factors",
+      "hcf",
+      "indices"
+    ]
+  },
+  "y7-unit-15": {
+    "skills": [
+      "equivalent",
+      "mixed",
+      "fraction-add",
+      "fraction-algebra"
+    ],
+    "review_skills": [
+      "equivalent",
+      "fraction-add",
+      "fraction-algebra"
+    ]
+  },
+  "y7-unit-16": {
+    "skills": [
+      "measure",
+      "shapes",
+      "angles",
+      "parallel"
+    ],
+    "review_skills": [
+      "measure",
+      "angles",
+      "parallel"
+    ]
+  },
+  "y8-unit-01": {
+    "skills": [
+      "ratio",
+      "share",
+      "ratio-missing"
+    ],
+    "review_skills": [
+      "ratio",
+      "share"
+    ]
+  },
+  "y8-unit-02": {
+    "skills": [
+      "direct",
+      "conversion-graphs",
+      "metric",
+      "similarity",
+      "scale",
+      "proportion"
+    ],
+    "review_skills": [
+      "proportion",
+      "scale"
+    ]
+  },
+  "y8-unit-03": {
+    "skills": [
+      "notation",
+      "like",
+      "substitute",
+      "expand",
+      "factorise",
+      "double"
+    ],
+    "review_skills": [
+      "notation",
+      "like",
+      "substitute",
+      "expand",
+      "double"
+    ]
+  },
+  "y8-unit-04": {
+    "skills": [
+      "coordinates",
+      "linear",
+      "curves"
+    ],
+    "review_skills": [
+      "coordinates",
+      "linear",
+      "curves"
+    ]
+  },
+  "y8-unit-05": {
+    "skills": [
+      "fraction-product",
+      "fraction-model",
+      "fraction-algebra"
+    ],
+    "review_skills": [
+      "fraction-product",
+      "fraction-algebra"
+    ]
+  },
+  "y8-unit-06": {
+    "skills": [
+      "symmetry",
+      "reflection"
+    ],
+    "review_skills": [
+      "symmetry"
+    ]
+  },
+  "y8-unit-07": {
+    "skills": [
+      "shapes",
+      "area",
+      "volume",
+      "metric",
+      "density"
+    ],
+    "review_skills": [
+      "area",
+      "volume",
+      "density"
+    ]
+  },
+  "y8-unit-08": {
+    "skills": [
+      "equation",
+      "fractional-equations",
+      "both-sides",
+      "inequality"
+    ],
+    "review_skills": [
+      "equation",
+      "both-sides",
+      "inequality"
+    ]
+  },
+  "y8-unit-09": {
+    "skills": [
+      "percent-amount",
+      "change",
+      "reverse"
+    ],
+    "review_skills": [
+      "percent-amount",
+      "change",
+      "reverse"
+    ]
+  },
+  "y8-wr-indices": {
+    "skills": [
+      "indices-laws",
+      "indices"
+    ],
+    "review_skills": [
+      "indices-laws",
+      "indices"
+    ]
+  },
+  "y8-wr-standard": {
+    "skills": [
+      "powers-ten",
+      "standard-read"
+    ],
+    "review_skills": [
+      "powers-ten",
+      "standard-read"
+    ]
+  },
+  "y8-unit-10": {
+    "skills": [
+      "data-types",
+      "mean",
+      "frequency",
+      "grouped",
+      "compare-data",
+      "scatter",
+      "histogram"
+    ],
+    "review_skills": [
+      "mean",
+      "frequency",
+      "scatter",
+      "histogram"
+    ]
+  },
+  "y8-unit-11": {
+    "skills": [
+      "angles",
+      "parallel",
+      "quadrilaterals"
+    ],
+    "review_skills": [
+      "angles",
+      "parallel"
+    ]
+  },
+  "y8-unit-12": {
+    "skills": [
+      "probability",
+      "experiment",
+      "sample-space",
+      "tables",
+      "frequency-tree",
+      "counting"
+    ],
+    "review_skills": [
+      "probability",
+      "tables",
+      "counting"
+    ]
+  },
+  "y8-unit-13": {
+    "skills": [
+      "circle",
+      "circle-parts",
+      "cylinder",
+      "area"
+    ],
+    "review_skills": [
+      "circle",
+      "cylinder",
+      "area"
+    ]
+  },
+  "y8-unit-14": {
+    "skills": [
+      "charts",
+      "bar-charts",
+      "pie",
+      "time-series",
+      "stem"
+    ],
+    "review_skills": [
+      "charts",
+      "pie",
+      "stem"
+    ]
+  },
+  "y8-wr-sequences": {
+    "skills": [
+      "sequence",
+      "nth",
+      "nonlinear"
+    ],
+    "review_skills": [
+      "sequence",
+      "nth",
+      "nonlinear"
+    ]
+  },
+  "y9-unit-03": {
+    "skills": [
+      "factors",
+      "hcf",
+      "number-sets"
+    ],
+    "review_skills": [
+      "factors",
+      "hcf"
+    ]
+  },
+  "y9-unit-10": {
+    "skills": [
+      "fdp",
+      "change",
+      "reverse",
+      "repeated-change",
+      "interest"
+    ],
+    "review_skills": [
+      "fdp",
+      "change",
+      "reverse"
+    ]
+  },
+  "y9-wr-solids": {
+    "skills": [
+      "nets-surface",
+      "area",
+      "circle",
+      "volume",
+      "cylinder",
+      "solid-volume",
+      "metric"
+    ],
+    "review_skills": [
+      "nets-surface",
+      "area",
+      "circle",
+      "volume",
+      "cylinder",
+      "solid-volume",
+      "metric"
+    ]
+  },
+  "y9-unit-06": {
+    "skills": [
+      "equation",
+      "both-sides",
+      "inequality",
+      "fractional-equations",
+      "substitute",
+      "rearrange"
+    ],
+    "review_skills": [
+      "equation",
+      "both-sides",
+      "rearrange"
+    ]
+  },
+  "y9-unit-09": {
+    "skills": [
+      "equivalent",
+      "fraction-add",
+      "fraction-product",
+      "fraction-amount",
+      "recurring"
+    ],
+    "review_skills": [
+      "equivalent",
+      "fraction-add",
+      "fraction-product",
+      "recurring"
+    ]
+  },
+  "y9-unit-17": {
+    "skills": [
+      "speed",
+      "distancegraph",
+      "flow-rates",
+      "compound-units",
+      "coordinates",
+      "velocitygraph"
+    ],
+    "review_skills": [
+      "coordinates",
+      "distancegraph",
+      "velocitygraph"
+    ]
+  },
+  "y9-unit-04": {
+    "skills": [
+      "powers-ten",
+      "standard-read",
+      "standard",
+      "standard-calc",
+      "surds"
+    ],
+    "review_skills": [
+      "standard",
+      "surds"
+    ]
+  },
+  "y9-wr-money": {
+    "skills": [
+      "money-bank",
+      "money-pay",
+      "money-budget",
+      "money-save",
+      "money-borrow",
+      "money-overseas",
+      "money-insurance"
+    ],
+    "review_skills": [
+      "money-bank",
+      "money-pay",
+      "money-budget",
+      "money-save",
+      "money-borrow",
+      "money-overseas",
+      "money-insurance"
+    ]
+  },
+  "y9-unit-18": {
+    "skills": [
+      "linear",
+      "line-equation",
+      "graph-inequalities",
+      "perpendicular"
+    ],
+    "review_skills": [
+      "linear",
+      "perpendicular"
+    ]
+  },
+  "y9-unit-11": {
+    "skills": [
+      "ratio",
+      "share",
+      "ratio-missing",
+      "direct",
+      "conversion-graphs",
+      "proportion",
+      "scale"
+    ],
+    "review_skills": [
+      "ratio",
+      "share",
+      "proportion",
+      "scale"
+    ]
+  },
+  "y9-wr-constructions": {
+    "skills": [
+      "measure",
+      "scale",
+      "construct-triangle",
+      "bisectors",
+      "congruence"
+    ],
+    "review_skills": [
+      "measure",
+      "scale",
+      "construct-triangle",
+      "bisectors",
+      "congruence"
+    ]
+  },
+  "y9-wr-similarity": {
+    "skills": [
+      "similarity",
+      "similar-triangles"
+    ],
+    "review_skills": [
+      "similarity",
+      "similar-triangles"
+    ]
+  },
+  "y9-unit-05": {
+    "skills": [
+      "notation",
+      "like",
+      "substitute",
+      "expand",
+      "factorise",
+      "double",
+      "quadratic-solve",
+      "algebra-extend",
+      "fraction-algebra"
+    ],
+    "review_skills": [
+      "notation",
+      "like",
+      "substitute",
+      "expand",
+      "double",
+      "fraction-algebra"
+    ]
+  },
+  "y9-unit-13": {
+    "skills": [
+      "pythagoras",
+      "pythagoras-check",
+      "trig",
+      "trig-exact"
+    ],
+    "review_skills": [
+      "pythagoras",
+      "trig",
+      "trig-exact"
+    ]
+  },
+  "y9-unit-19": {
+    "skills": [
+      "curves",
+      "graph-families"
+    ],
+    "review_skills": [
+      "curves"
+    ]
+  },
+  "y9-wr-probability": {
+    "skills": [
+      "sets",
+      "probability",
+      "experiment",
+      "expected",
+      "independent"
+    ],
+    "review_skills": [
+      "sets",
+      "probability",
+      "experiment",
+      "expected",
+      "independent"
+    ]
+  },
+  "y9-wr-transformations": {
+    "skills": [
+      "enlargement",
+      "rotation",
+      "translation",
+      "reflection",
+      "transform-series"
+    ],
+    "review_skills": [
+      "enlargement",
+      "rotation",
+      "translation",
+      "reflection",
+      "transform-series"
+    ]
+  },
+  "y9-wr-simultaneous": {
+    "skills": [
+      "simultaneous",
+      "simultaneous-adjust"
+    ],
+    "review_skills": [
+      "simultaneous",
+      "simultaneous-adjust"
+    ]
+  },
+  "y9-wr-trig": {
+    "skills": [
+      "trig",
+      "trig-angle",
+      "trig-choice",
+      "trig-exact"
+    ],
+    "review_skills": [
+      "trig",
+      "trig-angle",
+      "trig-choice",
+      "trig-exact"
+    ]
+  },
+  "y9-unit-01": {
+    "skills": [
+      "add",
+      "multiply",
+      "divide",
+      "directed",
+      "round",
+      "estimate",
+      "counting"
+    ],
+    "review_skills": [
+      "add",
+      "multiply",
+      "divide",
+      "directed",
+      "round",
+      "estimate",
+      "counting"
+    ]
+  },
+  "y9-unit-02": {
+    "skills": [
+      "indices",
+      "negative-products",
+      "order"
+    ],
+    "review_skills": [
+      "indices",
+      "negative-products",
+      "order"
+    ]
+  },
+  "y9-unit-07": {
+    "skills": [
+      "inequality"
+    ],
+    "review_skills": [
+      "inequality"
+    ]
+  },
+  "y9-unit-08": {
+    "skills": [
+      "nth",
+      "quadratic-sequence",
+      "nonlinear"
+    ],
+    "review_skills": [
+      "nth",
+      "quadratic-sequence",
+      "nonlinear"
+    ]
+  },
+  "y9-unit-12": {
+    "skills": [
+      "angles",
+      "parallel"
+    ],
+    "review_skills": [
+      "angles",
+      "parallel"
+    ]
+  },
+  "y9-unit-14": {
+    "skills": [
+      "mean",
+      "frequency",
+      "stem"
+    ],
+    "review_skills": [
+      "mean",
+      "frequency",
+      "stem"
+    ]
+  },
+  "y9-unit-15": {
+    "skills": [
+      "charts",
+      "pie",
+      "histogram"
+    ],
+    "review_skills": [
+      "charts",
+      "pie",
+      "histogram"
+    ]
+  },
+  "y9-unit-16": {
+    "skills": [
+      "scatter"
+    ],
+    "review_skills": [
+      "scatter"
+    ]
+  }
+}
